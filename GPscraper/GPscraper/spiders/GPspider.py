@@ -50,10 +50,11 @@ class GpspiderSpider(scrapy.Spider):
     def parse_gp_page(self, response):
         gp_item = response.meta['gp_item']
 
-        gp_item['name'] = response.css('.nhsuk-caption-xl ::text').get(),
-        gp_item['accepting_patients'] = response.css('#gp_accepting_patients_banner_text ::text').get(),
-        gp_item['phone_number'] = response.css('#contact_info_panel_phone_text ::text').get(),
+        gp_item['name'] = response.css('span.nhsuk-caption-xl ::text').get()
+        gp_item['accepting_patients'] = response.css('#gp_accepting_patients_banner_text ::text').get()
+        gp_item['phone_number'] = response.css('#contact_info_panel_phone_text ::text').get()
         gp_item['gp_website'] = response.css('a#contact_info_panel_website_link ::attr(href)').get()
+
 
         # gp_item['number'] = len(gps)
 

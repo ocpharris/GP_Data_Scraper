@@ -17,6 +17,5 @@ class GpItem(scrapy.Item):
     name = scrapy.Field()
     accepting_patients = scrapy.Field()
     phone_number = scrapy.Field()
-    number = scrapy.Field()
     miles_away = scrapy.Field()
     gp_website = scrapy.Field()
