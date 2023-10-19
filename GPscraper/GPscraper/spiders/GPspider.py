@@ -5,19 +5,21 @@ class GpspiderSpider(scrapy.Spider):
     name = "GPspider"
     allowed_domains = ["www.nhs.uk"]
     start_urls = ['https://www.nhs.uk/service-search/find-a-gp/results/SW1V2LE?Location=SW1V2LE&Latitude=&Longitude=']
+   
 
     def parse(self, response):
 
         gps =  response.css('li.results__item') #list of gps
+        
 
 
         for gp in gps:
+            gp_item = GpItem()
             relative_url = gp.css('div h2 a ::attr(href)').get() #define url for gp
-            print('@@@@@@@@@@@@@@@@@@@@@@@@@@@')
-            print(response.css('.nhsuk-caption-xl ::text').get())
+            gp_item['miles_away'] = gp.xpath('//span[@class="nhsuk-u-visually-hidden" and contains(text(), "is")]/following-sibling::text()').get()
 
 
-            yield response.follow(relative_url, callback= self.parse_gp_page)
+            yield response.follow(relative_url, callback= self.parse_gp_page, meta={'gp_item': gp_item})
 
 
 
@@ -45,7 +47,7 @@ class GpspiderSpider(scrapy.Spider):
     
 
     def parse_gp_page(self, response):
-        gp_item = GpItem()
+        gp_item = response.meta['gp_item']
 
         gp_item['name'] = response.css('.nhsuk-caption-xl ::text').get()
         gp_item['accepting_patients'] = response.css('#gp_accepting_patients_banner_text ::text').get()

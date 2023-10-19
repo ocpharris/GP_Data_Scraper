@@ -18,3 +18,4 @@ class GpItem(scrapy.Item):
     accepting_patients = scrapy.Field()
     phone_number = scrapy.Field()
     number = scrapy.Field()
+    miles_away = scrapy.Field()

@@ -1,151 +1,151 @@
-accepting_patients,name,number,phone_number
-This GP surgery is currently accepting new patients.,"
-            Victoria Medical Centre
-        ",,020 7834 2298
-This GP surgery is currently accepting new patients.,"
-            Pimlico Health At The Marven Surgery
-        ",,020 7834 6969
-This GP surgery is currently accepting new patients.,"
-            The Doctor Hickey Surgery
-        ",,020 7222 8593
-This GP surgery is not currently accepting new patients.,"
-            Belgrave Medical Centre
-        ",,020 7730 7030
-This GP surgery is currently accepting new patients.,"
-            Kings Road Medical Centre
-        ",,020 7352 9568
-This GP surgery is currently accepting new patients.,"
-            Kings College Health Centre
-        ",,020 4548 9842
-This GP surgery is currently accepting new patients.,"
-            Belgravia Surgery
-        ",,020 7590 8000
-This GP surgery is currently accepting new patients.,"
-            Earls Court Medical Centre
-        ",,020 7835 1455
-This GP surgery is currently accepting new patients.,"
-            Earls Court Surgery
-        ",,020 7370 2643
-This GP surgery is currently accepting new patients.,"
-            Ground Floor Lanark Medical Centre
-        ",,020 7328 1128
-This GP surgery is not currently accepting new patients.,"
-            The Royal Mews Surgery
-        ",,020 7930 4832
-This GP surgery is currently accepting new patients.,"
-            The South Lambeth Rd Practice
-        ",,020 7622 1923
-This GP surgery is currently accepting new patients.,"
-            Riverside Medical Practice
-        ",,020 3049 4500
-This GP surgery is currently accepting new patients.,"
-            Manor Place Surgery (Nexus Health Group)
-        ",,020 7708 6599
-This GP surgery is currently accepting new patients.,"
-            Blackfriars Medical Practice
-        ",,020 7928 6216
-This GP surgery is currently accepting new patients.,"
-            Millbank Medical Centre
-        ",,020 7834 5502
-This GP surgery is currently accepting new patients.,"
-            Penrose Surgery
-        ",,020 7703 3677
-This GP surgery is not currently accepting new patients.,"
-            GT Chapel Street Medical Centre For The Homeless
-        ",,
-This GP surgery is currently accepting new patients.,"
-            Connaught Square Practice
-        ",,020 7402 4026
-This GP surgery is currently accepting new patients.,"
-            Open Door Surgery
-        ",,020 8673 1476
-This GP surgery is currently accepting new patients.,"
-            Akerman Medical Practice
-        ",,020 3582 0000
-This GP surgery is currently accepting new patients.,"
-            Minet Green Health Practice
-        ",,020 3930 3533
-This GP surgery is currently accepting new patients.,"
-            Lees Place Medical Centre
-        ",,020 7036 6060
-This GP surgery is currently accepting new patients.,"
-            Mayfair Medical Centre
-        ",,020 7493 1647
-This GP surgery is not currently accepting new patients.,"
-            GP at Hand - Heron House
-        ",,
-This GP surgery is currently accepting new patients.,"
-            Soho Square General Practice
-        ",,020 3405 6570
-This GP surgery is not currently accepting new patients.,"
-            Fiveways Pcn EA Hub
-        ",,020 7622 1923
-This GP surgery is currently accepting new patients.,"
-            Imperial College Health Centre
-        ",,020 7584 6301
-This GP surgery is currently accepting new patients.,"
-            Soho Centre For Health And Care
-        ",,020 3405 6540
-This GP surgery is currently accepting new patients.,"
-            Nexus Health Group
-        ",,020 7928 0253
-This GP surgery is currently accepting new patients.,"
+accepting_patients,miles_away,name,number,phone_number
+This GP surgery is currently accepting new patients.,0.2 miles away,"
             Battersea Fields Practice
         ",,020 7627 7100
-This GP surgery is currently accepting new patients.,"
-            Beckett House Practice
-        ",,020 7738 7030
-This GP surgery is currently accepting new patients.,"
-            Meadbank Care Home GP Surgery
-        ",,020 8874 1121
-This GP surgery is not currently accepting new patients.,"
-            Penrose Maddock Way Surgery
-        ",,
-This GP surgery is currently accepting new patients.,"
-            The Grantham Centre Practice
-        ",,020 7733 6191
-This GP surgery is currently accepting new patients.,"
-            Binfield Road Surgery
-        ",,020 7622 1424
-This GP surgery is not currently accepting new patients.,"
-            Stockwellbeing AH
-        ",,020 7793 3100
-This GP surgery is currently accepting new patients.,"
-            Vassall Medical Centre
-        ",,020 7793 3100
-This GP surgery is currently accepting new patients.,"
-            The Chelsea Practice
-        ",,020 7349 7330
-This GP surgery is currently accepting new patients.,"
-            Waterloo Health Centre
-        ",,020 7928 4049
-This GP surgery is currently accepting new patients.,"
-            Health Partners at Violet Melchett
-        ",,020 7460 2222
-This GP surgery is currently accepting new patients.,"
-            Springfield Medical Centre
-        ",,020 3831 2290
-This GP surgery is currently accepting new patients.,"
-            Hurley and Riverside Practices
-        ",,020 7735 7918
-This GP surgery is currently accepting new patients.,"
-            Knightsbridge Medical Centre
-        ",,020 3961 5260
-This GP surgery is currently accepting new patients.,"
-            The Vauxhall Surgery
-        ",,020 7735 1971
-This GP surgery is currently accepting new patients.,"
-            Mawbey Group Practice
-        ",,020 7411 5720
-This GP surgery is currently accepting new patients.,"
-            Lambeth Walk Group Practice
-        ",,020 7735 4412
-This GP surgery is currently accepting new patients.,"
+This GP surgery is currently accepting new patients.,0.2 miles away,"
             Royal Hospital Chelsea
         ",,020 7881 5267
-This GP surgery is currently accepting new patients.,"
-            Battersea Fields Practice
-        ",,020 7627 7100
-This GP surgery is not currently accepting new patients.,"
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Victoria Medical Centre
+        ",,020 7834 2298
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            The Vauxhall Surgery
+        ",,020 7735 1971
+This GP surgery is not currently accepting new patients.,0.2 miles away,"
+            The Royal Mews Surgery
+        ",,020 7930 4832
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Pimlico Health At The Marven Surgery
+        ",,020 7834 6969
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Lambeth Walk Group Practice
+        ",,020 7735 4412
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Mawbey Group Practice
+        ",,020 7411 5720
+This GP surgery is not currently accepting new patients.,0.2 miles away,"
             Westminster School
         ",,020 7589 2478
+This GP surgery is not currently accepting new patients.,0.2 miles away,"
+            GP at Hand - Heron House
+        ",,
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Ground Floor Lanark Medical Centre
+        ",,020 7328 1128
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Open Door Surgery
+        ",,020 8673 1476
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Riverside Medical Practice
+        ",,020 3049 4500
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Earls Court Surgery
+        ",,020 7370 2643
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Earls Court Medical Centre
+        ",,020 7835 1455
+This GP surgery is not currently accepting new patients.,0.2 miles away,"
+            Fiveways Pcn EA Hub
+        ",,020 7622 1923
+This GP surgery is not currently accepting new patients.,0.2 miles away,"
+            GT Chapel Street Medical Centre For The Homeless
+        ",,
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Kings Road Medical Centre
+        ",,020 7352 9568
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Penrose Surgery
+        ",,020 7703 3677
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Manor Place Surgery (Nexus Health Group)
+        ",,020 7708 6599
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            The South Lambeth Rd Practice
+        ",,020 7622 1923
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Mayfair Medical Centre
+        ",,020 7493 1647
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Blackfriars Medical Practice
+        ",,020 7928 6216
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Akerman Medical Practice
+        ",,020 3582 0000
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Minet Green Health Practice
+        ",,020 3930 3533
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Lees Place Medical Centre
+        ",,020 7036 6060
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Soho Square General Practice
+        ",,020 3405 6570
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            The Grantham Centre Practice
+        ",,020 7733 6191
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Imperial College Health Centre
+        ",,020 7584 6301
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Beckett House Practice
+        ",,020 7738 7030
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Meadbank Care Home GP Surgery
+        ",,020 8874 1121
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Soho Centre For Health And Care
+        ",,020 3405 6540
+This GP surgery is not currently accepting new patients.,0.2 miles away,"
+            Penrose Maddock Way Surgery
+        ",,
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Nexus Health Group
+        ",,020 7928 0253
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Battersea Fields Practice
+        ",,020 7627 7100
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Binfield Road Surgery
+        ",,020 7622 1424
+This GP surgery is not currently accepting new patients.,0.2 miles away,"
+            Stockwellbeing AH
+        ",,020 7793 3100
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Vassall Medical Centre
+        ",,020 7793 3100
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            The Chelsea Practice
+        ",,020 7349 7330
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Springfield Medical Centre
+        ",,020 3831 2290
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Health Partners at Violet Melchett
+        ",,020 7460 2222
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Waterloo Health Centre
+        ",,020 7928 4049
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Kings College Health Centre
+        ",,020 4548 9842
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Hurley and Riverside Practices
+        ",,020 7735 7918
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Knightsbridge Medical Centre
+        ",,020 3961 5260
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            The Doctor Hickey Surgery
+        ",,020 7222 8593
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Millbank Medical Centre
+        ",,020 7834 5502
+This GP surgery is not currently accepting new patients.,0.2 miles away,"
+            Belgrave Medical Centre
+        ",,020 7730 7030
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Connaught Square Practice
+        ",,020 7402 4026
+This GP surgery is currently accepting new patients.,0.2 miles away,"
+            Belgravia Surgery
+        ",,020 7590 8000
