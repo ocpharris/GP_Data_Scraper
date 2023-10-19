@@ -17,7 +17,7 @@ class GpspiderSpider(scrapy.Spider):
             gp_item = GpItem()
             relative_url = gp.css('div h2 a ::attr(href)').get() #define url for gp
             gp_item['miles_away'] = gp.xpath('//span[@class="nhsuk-u-visually-hidden" and contains(text(), "is")]/following-sibling::text()').get()
-
+            
 
             yield response.follow(relative_url, callback= self.parse_gp_page, meta={'gp_item': gp_item})
 
@@ -49,9 +49,11 @@ class GpspiderSpider(scrapy.Spider):
     def parse_gp_page(self, response):
         gp_item = response.meta['gp_item']
 
-        gp_item['name'] = response.css('.nhsuk-caption-xl ::text').get()
-        gp_item['accepting_patients'] = response.css('#gp_accepting_patients_banner_text ::text').get()
-        gp_item['phone_number'] = response.css('#contact_info_panel_phone_text ::text').get()
+        gp_item['name'] = response.css('.nhsuk-caption-xl ::text').get(),
+        gp_item['accepting_patients'] = response.css('#gp_accepting_patients_banner_text ::text').get(),
+        gp_item['phone_number'] = response.css('#contact_info_panel_phone_text ::text').get(),
+        gp_item['gp_website'] = response.css('a#contact_info_panel_website_link ::attr(href)').get()
+
         # gp_item['number'] = len(gps)
 
         yield gp_item
