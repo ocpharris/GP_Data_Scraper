@@ -15,22 +15,10 @@ class GpscraperPipeline:
  
         field_names = adapter.field_names()
 
-        
-        # for field_name in field_names:
-        #     if field_name != 'accepting_patients':
-        #         value = adapter.get(field_name)
-        #         adapter[field_name] = value.strip()
    
-
+        # strip name 
         name_string = adapter.get('name')
         adapter['name'] = name_string.strip()
-
-        # # Catergory & Product Type --> switch to lowercase
-        # lowercase_keys = ['category', 'product_type']
-        # for lowercase_key in lowercase_keys:
-        #     value = adapter.get(lowercase_key)
-        #     adapter[lowercase_key] = value.lower()
-
 
 
         # extract number of miles away 
@@ -39,6 +27,7 @@ class GpscraperPipeline:
         split_string_array = strip_miles_away_string.split(' ')
         adapter['miles_away'] = float(split_string_array[0])
 
+        # 'this gp is currently accepting new patients' --> yes etc 
         accepting_patients_string = adapter.get('accepting_patients')
         split_accepting_patients_string = accepting_patients_string.split(' ')
         if split_accepting_patients_string[4] == 'not':
@@ -46,27 +35,12 @@ class GpscraperPipeline:
         else:
             adapter['accepting_patients']= 'yes'
 
-
+        not_available_keys = ['gp_website', 'phone_number']
+        for not_available_key in not_available_keys:
+            value = adapter.get(not_available_key)
+            if value == None:
+                adapter[not_available_key] = 'Not available'
         
-
-
-        # # Stars --> convert text to number 
-        # star_string = adapter.get('stars')
-        # split_stars_array = star_string.split(' ')
-        # stars_text_value = split_stars_array[1].lower()
-        # if stars_text_value == "zero":
-        #     adapter['stars'] = 0
-        # elif stars_text_value == "one":
-        #     adapter['stars'] = 1
-        # elif stars_text_value == "two":
-        #     adapter['stars'] = 2
-        # elif stars_text_value == "three":
-        #     adapter['stars'] = 3
-        # elif stars_text_value == "four":
-        #     adapter['stars'] = 4
-        # elif stars_text_value == "five":
-        #     adapter['stars'] = 5
-    
 
 
         return item

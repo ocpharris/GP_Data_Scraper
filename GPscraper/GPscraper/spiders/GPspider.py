@@ -54,6 +54,9 @@ class GpspiderSpider(scrapy.Spider):
         gp_item['accepting_patients'] = response.css('#gp_accepting_patients_banner_text ::text').get()
         gp_item['phone_number'] = response.css('#contact_info_panel_phone_text ::text').get()
         gp_item['gp_website'] = response.css('a#contact_info_panel_website_link ::attr(href)').get()
+        print('@@@@@@@@@@@@@@@@@@@@@@@@')
+        print(gp_item['phone_number'])
+        print(gp_item['gp_website'])
 
 
         # gp_item['number'] = len(gps)
