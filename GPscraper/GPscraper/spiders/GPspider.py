@@ -8,14 +8,14 @@ class GpspiderSpider(scrapy.Spider):
 
     def parse(self, response):
 
-        gps = response.css('ol li div') #list of gps
-        print('@@@@@@@@@@')
-        print(len(gps))
+        gps =  response.css('li.results__item') #list of gps
+
 
         for gp in gps:
             relative_url = gp.css('div h2 a ::attr(href)').get() #define url for gp
-            print('@@@@@@@@@@@@@@@@@@')
-            print(relative_url)
+            print('@@@@@@@@@@@@@@@@@@@@@@@@@@@')
+            print(response.css('.nhsuk-caption-xl ::text').get())
+
 
             yield response.follow(relative_url, callback= self.parse_gp_page)
 
