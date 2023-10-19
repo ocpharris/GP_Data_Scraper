@@ -11,12 +11,13 @@ class GpspiderSpider(scrapy.Spider):
 
         gps =  response.css('li.results__item') #list of gps
         
-
+        
 
         for gp in gps:
             gp_item = GpItem()
             relative_url = gp.css('div h2 a ::attr(href)').get() #define url for gp
-            gp_item['miles_away'] = gp.xpath('//span[@class="nhsuk-u-visually-hidden" and contains(text(), "is")]/following-sibling::text()').get()
+            # gp_item['miles_away'] = gp.xpath('//span[@class="nhsuk-u-visually-hidden" and contains(text(), "is")]/following-sibling::text()').get()
+            gp_item['miles_away'] = gp.css('p[id^="distance_"]::text').get()
             
 
             yield response.follow(relative_url, callback= self.parse_gp_page, meta={'gp_item': gp_item})
