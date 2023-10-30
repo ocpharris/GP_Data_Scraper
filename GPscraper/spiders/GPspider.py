@@ -21,7 +21,8 @@ class GpspiderSpider(scrapy.Spider):
 
     
     def parse(self, response):
-
+        feed_format = self.settings.get("FEED_FORMAT")
+        feed_uri = self.settings.get("FEED_URI")
         gps =  response.css('li.results__item') #list of gps
         
         

@@ -10,6 +10,8 @@ from itemadapter import ItemAdapter
 
 class GpscraperPipeline:
     def process_item(self, item, spider):
+        print('@@@@@@@@@@@@@@')
+        print('Pipeline executed.')
         adapter = ItemAdapter(item)
        
  
