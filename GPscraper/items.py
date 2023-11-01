@@ -19,3 +19,4 @@ class GpItem(scrapy.Item):
     phone_number = scrapy.Field()
     miles_away = scrapy.Field()
     gp_website = scrapy.Field()
+    in_catchment = scrapy.Field()

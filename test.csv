@@ -1,102 +1,51 @@
-accepting_patients,gp_website,miles_away,name,phone_number
-yes,https://www.victoriamedicalcentre.com,0.2,Victoria Medical Centre,020 7834 2298
-yes,Not available,0.4,The Doctor Hickey Surgery,020 7222 8593
-no,Not available,1.6,Penrose Maddock Way Surgery,Not available
-yes,http://www.pimlicohealth.co.uk/,0.2,Pimlico Health At The Marven Surgery,020 7834 6969
-yes,http://millbankmedicalcentre.co.uk/,0.4,Millbank Medical Centre,020 7834 5502
-yes,https://nexushealthgroup.nhs.uk,1.5,Nexus Health Group,020 7928 0253
-yes,https://www.vassallmedicalcentre.co.uk,1.5,Vassall Medical Centre,020 7793 3100
-yes,https://www.springfieldmedicalcentre.co.uk/,1.4,Springfield Medical Centre,020 3831 2290
-yes,https://www.batterseafieldspractice.co.uk,1.4,Battersea Fields Practice,020 7627 7100
-no,Not available,1.4,Stockwellbeing AH,020 7793 3100
-yes,https://www.healthpartnersatvioletmelchett.co.uk/,1.3,Health Partners at Violet Melchett,020 7460 2222
-yes,http://www.binfieldroadsurgery.co.uk,1.4,Binfield Road Surgery,020 7622 1424
-yes,http://www.thechelseapractice.org.uk,1.3,The Chelsea Practice,020 7349 7330
-yes,https://nexushealthgroup.nhs.uk/,1.7,Manor Place Surgery (Nexus Health Group),020 7708 6599
-no,Not available,1.7,Fiveways Pcn EA Hub,020 7622 1923
-yes,http://www.southlambethroadpractice.co.uk,1.7,The South Lambeth Rd Practice,020 7622 1923
-yes,http://www.penrosesurgery.nhs.uk/,1.7,Penrose Surgery,020 7703 3677
-yes,http://www.hurleyandriversidepractices.co.uk,1.3,Hurley and Riverside Practices,020 7735 7918
-yes,http://www.akermanmedicalpractice.com,1.7,Akerman Medical Practice,020 3582 0000
-no,Not available,1.7,GT Chapel Street Medical Centre For The Homeless,Not available
-yes,http://www.waterloohealth.co.uk,1.2,Waterloo Health Centre,020 7928 4049
-yes,http://www.blackfriarsmedicalpractice.nhs.uk/,1.7,Blackfriars Medical Practice,020 7928 6216
-yes,https://www.minetgreenhealthpractice.co.uk/,1.7,Minet Green Health Practice,020 3930 3533
-yes,https://mayfairmedicalcentre.co.uk,1.7,Mayfair Medical Centre,020 7493 1647
-yes,http://sohosquaresurgery.co.uk,1.7,Soho Centre For Health And Care,020 3405 6540
-yes,http://www.sohosquaregp.nhs.uk/,1.7,Soho Square General Practice,020 3405 6570
-yes,http://leesplacemedicalcentre.com/,1.7,Lees Place Medical Centre,020 7036 6060
-yes,http://www.imperialcollegehealthcentre.co.uk/,1.6,Imperial College Health Centre,020 7584 6301
-yes,http://www.thegp.london,1.6,The Grantham Centre Practice,020 7733 6191
-yes,http://www.knightsbridgemedicalcentre.org.uk/,1.1,Knightsbridge Medical Centre,020 3961 5260
-yes,https://www.lambethwalkgp.co.uk/,1.1,Lambeth Walk Group Practice,020 7735 4412
-yes,http://www.vauxhallsurgery.co.uk/,0.8,The Vauxhall Surgery,020 7735 1971
-yes,Not available,1.6,Meadbank Care Home GP Surgery,020 8874 1121
-yes,http://www.batterseafieldspractice.co.uk,0.9,Battersea Fields Practice,020 7627 7100
-yes,Not available,0.9,Royal Hospital Chelsea,020 7881 5267
-no,Not available,0.7,The Royal Mews Surgery,020 7930 4832
-no,Not available,0.6,Westminster School,020 7589 2478
-yes,https://www.mawbeygp.co.uk,0.9,Mawbey Group Practice,020 7411 5720
-no,Not available,0.6,GP at Hand - Heron House,Not available
-yes,Not available,3.5,Ground Floor Lanark Medical Centre,020 7328 1128
-yes,http://www.earlscourtmedicalcentre.co.uk/,2.4,Earls Court Medical Centre,020 7835 1455
-yes,http://www.hurleyandriversidepractices.co.uk,0.6,Riverside Medical Practice,020 3049 4500
-yes,https://www.earlscourtsurgery.co.uk/,2.4,Earls Court Surgery,020 7370 2643
-yes,http://www.opendoorsurgery.co.uk,3.4,Open Door Surgery,020 8673 1476
-yes,http://www.kclnhshealthcentre.com,1.7,Kings College Health Centre,020 4548 9842
-yes,https://www.westlondonpractice.co.uk/,2.2,Kings Road Medical Centre,020 7352 9568
-no,https://www.drvictoriamuir.co.uk,0.6,Belgrave Medical Centre,020 7730 7030
-yes,http://connaughtsquarepractice.co.uk,2.0,Connaught Square Practice,020 7402 4026
-yes,http://www.belgravia-surgery-sw1.nhs.uk/,0.6,Belgravia Surgery,020 7590 8000
-yes,https://www.becketthousepractice.nhs.uk,1.6,Beckett House Practice,020 7738 7030
-name,miles_away,accepting_patients,gp_website,phone_number
-Isca Medical Practice,5.5,yes,http://www.iscamp.co.uk,01392 273805
-Whipton Surgery,5.4,yes,https://www.thewhiptonsurgery.co.uk,01392 462770
-Wyndham House Surgery,2.1,yes,Not available,01392 860034
-Clock Tower Surgery,5.5,yes,http://www.devondoctors.co.uk/,01392 208290
-Pinhoe Surgery,5.4,yes,Not available,01392 469666
-Whipton Branch Surgery,5.3,yes,http://www.southernhayhousesurgery.co.uk,01392 211266
-Exwick Health Centre,5.4,yes,https://www.stthomasmedicalgroup.co.uk,01392 676600
-Mount Pleasant Health Centre,5.1,yes,http://www.mountpleasanthealthcentre.co.uk/,01392 255722
-Student Health Centre,5.0,yes,https://www.stthomasmedicalgroup.co.uk,01392 676606
-Redlands Primary Care – Thorverton,0.2,yes,https://www.redlandsprimarycare.nhs.uk/,01363 727111
-Redlands Primary Care,5.6,yes,https://www.redlandsprimarycare.nhs.uk/,01363 727111
-Bradninch Surgery,4.9,yes,Not available,01392 881952
-Foxhayes Practice,5.7,yes,https://www.foxhayespractice.nhs.uk,01392 208789
-Coleridge Medical Centre,11.4,yes,http://coleridgemedicalcentre.co.uk,01404 814447
-Treetops Surgery,13.7,yes,Not available,01395 226540
-Broadclyst Surgery,4.7,yes,Not available,01392 469666
-Bicton College of Agriculture,13.2,no,Not available,Not available
-Amicus Health - Bampton Surgery,12.7,yes,https://www.amicushealth.nhs.uk,01398 331304
-Bow Medical Practice,12.2,yes,http://www.bowmedicalpractice.co.uk/,01363 82333
-Christow Surgery,11.9,yes,http://cheritonbishoppractice.co.uk,01647 24272
-Uffculme Surgery,11.0,yes,Not available,01884 840743
-Cheriton Bishop Surgery,10.9,yes,http://cheritonbishoppractice.co.uk,01647 24272
-Mid Devon Medical Practice,10.8,yes,http://www.middevonmedicalpractice.co.uk/index.php,01884 860205
-Woodbury Surgery,10.8,yes,http://www.woodburysurgery.co.uk,01395 232509
-Cheriton Fitzpaine Surgery,4.4,yes,http://www.middevonmedicalpractice.co.uk,01363 866322
-Underhill Surgery,11.9,yes,http://www.claremontmedicalpractice.co.uk,01395 265797
-Willand Surgery,9.1,yes,Not available,01884 821878
-Westbank Practice - Exminster Surgery,9.0,yes,http://www.westbankpractice.com/,01392 833230
-Morchard Bishop Surgery,10.4,yes,http://www.middevonmedicalpractice.co.uk,01363 877208
-TOPSHAM SURGERY,9.0,yes,http://www.topshamsurgery.gpsurgery.net,01392 874646
-Coleridge Medical Centre Sandfords Surgery,8.0,yes,http://www.coleridgemedicalcentre.co.uk,01404 814447
-Glasshouse Medical Centre,7.8,yes,http://www.topshamsurgery.gpsurgery.net,01392 874646
-Westbank Practice,9.0,yes,http://www.westbankpractice.com,01626 890368
-Blundells School,7.4,no,Not available,Not available
-Ide Lane Surgery,7.4,yes,http://www.idelanesurgery.nhs.uk,01392 428900
-Castle Place Practice,7.2,yes,https://castleplacepractice.nhs.uk,01884 252333
-Amicus Health,7.0,yes,http://amicushealth.nhs.uk/,01884 252337
-Topsham Surgery at Sclns,7.3,no,Not available,Not available
-College Surgery Partnership,7.1,yes,http://www.collegesurgery.org.uk,01884 831300
-Bramblehaies Surgery,7.0,yes,http://www.bramblehaiessurgery.co.uk/,01884 33536
-Southernhay House Surgery,5.8,yes,http://www.southernhayhousesurgery.co.uk,01392 211266
-South Lawn Medical Practice,5.9,yes,http://www.slmp.co.uk,01392 281100
-Hill Barton Surgery,6.1,yes,http://www.hillbartonsurgery.co.uk/,01392 444242
-Cranbrook Medical Practice,6.4,yes,https://www.cranbrookmedicalpractice.nhs.uk/,01404 819207
-St Thomas Medical Group,6.4,yes,https://www.stthomasmedicalgroup.co.uk,01392 676676
-Heavitree Practice,5.9,yes,http://www.theheavitreepractice.co.uk,01392 222099
-WONFORD GREEN SURGERY,6.5,yes,http://www.wonfordgreensurgery.co.uk,01392 250135
-BARNFIELD HILL SURGERY,5.8,yes,http://www.barnfieldhillsurgery.co.uk,01392 432761
-St Leonards Practice,5.7,yes,http://www.stleonardssurgery.co.uk,01392 201790
-Sampford Peverell Surgery,10.2,yes,Not available,01884 820304
+name,miles_away,accepting_patients,in_catchment,gp_website,phone_number
+Hill Barton Surgery,6.1,yes,no,http://www.hillbartonsurgery.co.uk/,01392 444242
+South Lawn Medical Practice,5.9,yes,no,http://www.slmp.co.uk,01392 281100
+Foxhayes Practice,5.7,yes,no,https://www.foxhayespractice.nhs.uk,01392 208789
+St Leonards Practice,5.7,yes,no,http://www.stleonardssurgery.co.uk,01392 201790
+Heavitree Practice,5.9,yes,no,http://www.theheavitreepractice.co.uk,01392 222099
+Wyndham House Surgery,2.1,yes,yes,Not available,01392 860034
+Southernhay House Surgery,5.8,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266
+Isca Medical Practice,5.5,yes,no,http://www.iscamp.co.uk,01392 273805
+Student Health Centre,5.0,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676606
+BARNFIELD HILL SURGERY,5.8,yes,no,http://www.barnfieldhillsurgery.co.uk,01392 432761
+Whipton Branch Surgery,5.3,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266
+Clock Tower Surgery,5.5,yes,no,http://www.devondoctors.co.uk/,01392 208290
+Exwick Health Centre,5.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676600
+Mount Pleasant Health Centre,5.1,yes,no,http://www.mountpleasanthealthcentre.co.uk/,01392 255722
+Treetops Surgery,13.7,yes,no,Not available,01395 226540
+Pinhoe Surgery,5.4,yes,no,Not available,01392 469666
+Whipton Surgery,5.4,yes,no,https://www.thewhiptonsurgery.co.uk,01392 462770
+Bow Medical Practice,12.2,yes,no,http://www.bowmedicalpractice.co.uk/,01363 82333
+Amicus Health - Bampton Surgery,12.7,yes,no,https://www.amicushealth.nhs.uk,01398 331304
+Christow Surgery,11.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272
+Cheriton Bishop Surgery,10.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272
+Bicton College of Agriculture,13.2,no,no,Not available,Not available
+Coleridge Medical Centre,11.4,yes,no,http://coleridgemedicalcentre.co.uk,01404 814447
+Underhill Surgery,11.9,yes,no,http://www.claremontmedicalpractice.co.uk,01395 265797
+Sampford Peverell Surgery,10.2,yes,no,Not available,01884 820304
+Woodbury Surgery,10.8,yes,no,http://www.woodburysurgery.co.uk,01395 232509
+Willand Surgery,9.1,yes,no,Not available,01884 821878
+Mid Devon Medical Practice,10.8,yes,no,http://www.middevonmedicalpractice.co.uk/index.php,01884 860205
+Morchard Bishop Surgery,10.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 877208
+Westbank Practice - Exminster Surgery,9.0,yes,no,http://www.westbankpractice.com/,01392 833230
+Coleridge Medical Centre Sandfords Surgery,8.0,yes,no,http://www.coleridgemedicalcentre.co.uk,01404 814447
+Westbank Practice,9.0,yes,no,http://www.westbankpractice.com,01626 890368
+Glasshouse Medical Centre,7.8,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646
+Blundells School,7.4,no,no,Not available,Not available
+TOPSHAM SURGERY,9.0,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646
+Ide Lane Surgery,7.4,yes,no,http://www.idelanesurgery.nhs.uk,01392 428900
+Topsham Surgery at Sclns,7.3,no,no,Not available,Not available
+College Surgery Partnership,7.1,yes,no,http://www.collegesurgery.org.uk,01884 831300
+Bramblehaies Surgery,7.0,yes,no,http://www.bramblehaiessurgery.co.uk/,01884 33536
+Castle Place Practice,7.2,yes,no,https://castleplacepractice.nhs.uk,01884 252333
+Amicus Health,7.0,yes,no,http://amicushealth.nhs.uk/,01884 252337
+Uffculme Surgery,11.0,yes,no,Not available,01884 840743
+Bradninch Surgery,4.9,yes,no,Not available,01392 881952
+Broadclyst Surgery,4.7,yes,no,Not available,01392 469666
+Cranbrook Medical Practice,6.4,yes,no,https://www.cranbrookmedicalpractice.nhs.uk/,01404 819207
+Cheriton Fitzpaine Surgery,4.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 866322
+WONFORD GREEN SURGERY,6.5,yes,no,http://www.wonfordgreensurgery.co.uk,01392 250135
+Redlands Primary Care,5.6,yes,yes,https://www.redlandsprimarycare.nhs.uk/,01363 727111
+St Thomas Medical Group,6.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676676
+Redlands Primary Care – Thorverton,0.2,yes,no,https://www.redlandsprimarycare.nhs.uk/,01363 727111

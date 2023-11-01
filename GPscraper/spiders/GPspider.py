@@ -24,17 +24,28 @@ class GpspiderSpider(scrapy.Spider):
         feed_format = self.settings.get("FEED_FORMAT")
         feed_uri = self.settings.get("FEED_URI")
         gps =  response.css('li.results__item') #list of gps
-        
-        
+        in_catchment = response.css('#catchment_gps_list.nhsuk-list.results.service-results > li')
+        in_catchment_texts = [item.get() for item in in_catchment]
 
+       
         for gp in gps:
             gp_item = GpItem()
             relative_url = gp.css('div h2 a ::attr(href)').get() #define url for gp
             gp_item['miles_away'] = gp.css('p[id^="distance_"]::text').get()
+
+            gp_text = gp.get()
+            if gp_text in in_catchment_texts:
+                gp_item['in_catchment'] = 'yes'
+            else:
+                gp_item['in_catchment'] = 'no'
             
 
             yield response.follow(relative_url, callback= self.parse_gp_page, meta={'gp_item': gp_item})
             
+
+
+        
+        
 
     def parse_gp_page(self, response):
         gp_item = response.meta['gp_item']

@@ -7,15 +7,11 @@ from datetime import datetime
 from scrapy.utils.project import get_project_settings
 
 
-
 # Determine the path to the GPscraper project directory
 data_scraper_path = os.path.abspath(r"C:\Users\oharris\Repos\GP_Data_Scraper")
 
 # Add the GPscraper project directory to the Python path
 sys.path.append(data_scraper_path)
-
-
-# Now you can import modules from the GPscraper project
 from GPscraper.spiders.GPspider import GpspiderSpider
 
 
@@ -25,8 +21,6 @@ def generate_url(postcode):
 
  
 
-
-# Now you can use data_scraper_function in your GUI code
 # Get the current date
 current_date = datetime.now()
 
@@ -35,7 +29,7 @@ formatted_date = current_date.strftime("%d_%m_%y")
 
 def scrape_data_button():
     postcode  = postcode_entry.get()
-    # url = generate_url(postcode)
+    
 
 # Initialize the CrawlerProcess with a complete path to the output file
     output_filename = f"{postcode}_{formatted_date}.csv"
@@ -46,7 +40,7 @@ def scrape_data_button():
     # Modify the settings as needed
     settings.set("FEED_URI", output_path)  # Update the output file path
     settings.set("FEED_FORMAT" , "csv")
-    settings.set("FEED_EXPORT_FIELDS" , ['name', 'miles_away', 'accepting_patients', 'gp_website', 'phone_number'])
+    settings.set("FEED_EXPORT_FIELDS" , ['name', 'miles_away', 'accepting_patients', 'in_catchment', 'gp_website', 'phone_number'])
 
     # Initialize CrawlerProcess with your Scrapy project's settings
     process = CrawlerProcess(settings=settings)
@@ -61,7 +55,7 @@ def scrape_data_button():
 
         result_text.config(state=tk.NORMAL)
         result_text.delete("1.0", tk.END)
-        result_text.insert(tk.END, "Crawling complete. Access your scraped data.")
+        result_text.insert(tk.END, "Complete.")
 
         # Open the output file using the default program
         os.startfile(output_filename)
@@ -80,7 +74,7 @@ def set_navy_blue_and_white_style():
     style.configure("TEntry", background="white", foreground="navy")
 
 app = tk.Tk()
-app.title("Data Scraper App")
+app.title("Get GP Data")
 
 style = ttk.Style()
 

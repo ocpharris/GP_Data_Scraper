@@ -15,7 +15,7 @@ NEWSPIDER_MODULE = "GPscraper.spiders"
 # used to order csv file 
 FEED_FORMAT = 'csv'
 FEED_URI = 'output.csv'
-FEED_EXPORT_FIELDS = ['name', 'miles_away', 'accepting_patients', 'gp_website', 'phone_number']
+FEED_EXPORT_FIELDS = ['name', 'miles_away', 'accepting_patients', 'in_catchment', 'gp_website', 'phone_number']
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
