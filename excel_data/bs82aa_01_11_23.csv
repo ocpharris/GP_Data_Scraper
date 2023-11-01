@@ -1,459 +1,51 @@
 name,miles_away,accepting_patients,in_catchment,gp_website,phone_number
-Student Health Service,0.1,yes,yes,http://www.bris.ac.uk/depts/studenthealthservice/,0117 330 2720
-Shirehampton Group Practice Branch Surgery,3.4,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 982 2131
-Fireclay Health,3.4,yes,no,http://www.fireclayhealth.nhs.uk,0117 961 2161
-Grange Road Surgery,3.4,yes,no,http://www.grangeroadsurgery.co.uk,0117 964 4343
-Air Balloon Surgery,3.2,yes,no,https://www.airballoonsurgery.co.uk,0117 909 9912
-Southmead & Henbury Family Practice,3.0,yes,no,https://www.mendipvale.nhs.uk/,0117 950 7150
-Pioneer Medical Group,3.4,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919
-Nightingale Valley Practice,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300
-Greenway Community Practice,2.6,yes,no,http://www.greenwaycommunitypractice.nhs.uk,0117 959 8939
-Monks Park Surgery,2.7,yes,no,https://www.mendipvale.nhs.uk/practices/monks-park/,0117 969 3106
-Priory Surgery,2.6,yes,no,https://www.priorysurgerybristol.co.uk/,0117 949 3988
-Sea Mills Surgery,2.4,yes,no,http://www.seamillssurgery.nhs.uk/,0117 968 1182
-Riverside Surgery,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300
-Hillview Family Practice,3.8,yes,no,http://www.hillviewfamilypractice.nhs.uk/,0117 301 5240
-The Crest Family Practice,2.4,yes,no,http://www.crestfamilypractice.co.uk,0117 944 9700
-Hartwood Healthcare,3.8,yes,no,Not available,0117 301 5226
-Conygre Medical Centre,3.7,yes,no,http://www.stokegiffordmedical.co.uk,0117 979 9430
-The Lennard Surgery,2.5,yes,no,http://www.thelennardsurgery.co.uk,0117 964 2211
-Birchwood Medical Practice,2.7,yes,no,https://www.birchwoodbristol.nhs.uk/,0117 330 4225
-UWE Health Centre,3.7,yes,no,https://www.oldschoolsurgery.org.uk/uwe/,0117 328 6666
-Fishponds Family Practice,3.7,yes,no,http://www.thefishpondsfamilypractice.nhs.uk,0117 235 4220
-The Armada Family Practice,3.7,yes,no,http://www.armadapractice.co.uk/,01275 832285
 The Old School Surgery,3.6,yes,no,https://www.oldschoolsurgery.org.uk,0117 965 3102
 Shirehampton Group Practice,3.6,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 916 2226
-Horfield HC,2.3,yes,no,http://www.horfieldhealthcentre.nhs.uk,0117 969 5391
-Long Ashton Surgery,3.5,yes,no,http://www.tyntesfield.nhs.uk,01275 392134
 Pioneer Ridingleaze,3.5,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919
 Beechwood Medical Practice,3.7,yes,no,http://www.beechwoodmedicalpractice.co.uk,0117 908 2360
-Westbury on Trym Primary Care Centre,2.2,yes,no,http://www.westburysurgery.co.uk,0117 962 3406
-Wells Road Surgery,2.2,yes,no,Not available,0117 977 0018
+Fishponds Family Practice,3.7,yes,no,http://www.thefishpondsfamilypractice.nhs.uk,0117 235 4220
+Grange Road Surgery,3.4,yes,no,http://www.grangeroadsurgery.co.uk,0117 964 4343
+Willow Tree Surgery,3.4,yes,no,http://www.southmeadhealth.nhs.uk,0117 950 7150
+Long Ashton Surgery,3.5,yes,no,http://www.tyntesfield.nhs.uk,01275 392134
+Birchwood Medical Practice,2.7,yes,no,https://www.birchwoodbristol.nhs.uk/,0117 330 4225
+Pioneer Medical Group,3.4,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919
+Air Balloon Surgery,3.2,yes,no,https://www.airballoonsurgery.co.uk,0117 909 9912
+Shirehampton Group Practice Branch Surgery,3.4,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 982 2131
+Southmead & Henbury Family Practice,3.0,yes,no,https://www.mendipvale.nhs.uk/,0117 950 7150
+Riverside Surgery,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300
+Fireclay Health,3.4,yes,no,http://www.fireclayhealth.nhs.uk,0117 961 2161
+Hillview Family Practice,3.8,yes,no,http://www.hillviewfamilypractice.nhs.uk/,0117 301 5240
+Conygre Medical Centre,3.7,yes,no,http://www.stokegiffordmedical.co.uk,0117 979 9430
+Nightingale Valley Practice,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300
+Hartwood Healthcare,3.8,yes,no,Not available,0117 301 5226
+The Armada Family Practice,3.7,yes,no,http://www.armadapractice.co.uk/,01275 832285
+Monks Park Surgery,2.7,yes,no,https://www.mendipvale.nhs.uk/practices/monks-park/,0117 969 3106
+UWE Health Centre,3.7,yes,no,https://www.oldschoolsurgery.org.uk/uwe/,0117 328 6666
+The Lennard Surgery,2.5,yes,no,http://www.thelennardsurgery.co.uk,0117 964 2211
+Greenway Community Practice,2.6,yes,no,http://www.greenwaycommunitypractice.nhs.uk,0117 959 8939
+Sea Mills Surgery,2.4,yes,no,http://www.seamillssurgery.nhs.uk/,0117 968 1182
+The Crest Family Practice,2.4,yes,no,http://www.crestfamilypractice.co.uk,0117 944 9700
 The Merrywood Practice,2.3,yes,no,http://www.merrywoodpractice.nhs.uk/,0117 944 9750
+East Trees Health Centre,2.0,yes,no,https://www.easttreeshealthcentre.co.uk/,0117 244 4123
+Gloucester Road Medical Centre,1.8,yes,no,http://www.grmc.nhs.uk,0117 949 7774
 Marksbury Road Surgery,2.1,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724
-Gloucester Road Medical Centre,1.8,yes,no,http://www.grmc.nhs.uk,0117 949 7774
-The Malago Surgery,1.6,yes,no,https://bridgeviewmedical.nhs.uk/surgery-information/contact-information.php,0117 966 9724
-Willow Tree Surgery,3.4,yes,no,http://www.southmeadhealth.nhs.uk,0117 950 7150
-Gaywood House Surgery,1.5,yes,no,http://www.bridgeviewmedical.nhs.uk,0117 966 9724
-Lawrence Hill Health Centre,1.5,yes,no,https://www.lawrencehillhealthcentre.co.uk,0117 954 3060
-East Trees Health Centre,2.0,yes,no,https://www.easttreeshealthcentre.co.uk/,0117 244 4123
-The Wellspring Surgery,2.0,yes,no,http://www.wellspringsurgerybristol.nhs.uk,0117 955 7711
-Bedminster Family Practice,1.3,yes,no,http://www.bedminsterfamilypractice.co.uk/index.aspx,0117 966 3149
-Fallodon Way Medical Centre,1.5,yes,no,http://fwmc.org.uk/,0117 962 4692
-Montpelier Health Centre,0.8,yes,no,https://www.montpelierhealthcentre.co.uk/,0117 942 6811
-BS1 Surgery,0.9,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724
-Charlotte Keel Medical Practice,1.5,yes,yes,http://www.charlottekeelmedical.co.uk,0117 902 7145
-Bridge View Medical,1.2,yes,no,http://bridgeviewmedical.nhs.uk,0117 966 9724
-Whiteladies Medical Group,0.3,yes,yes,http://www.whiteladiesmedical.nhs.uk,0117 973 1201
-Compass Health,0.7,no,yes,http://homelesshealthservice.co.uk/,0117 989 3450
-The Family Practice,0.1,yes,yes,https://www.thefamilypracticewesterncollege.nhs.uk/,0117 946 6455
-Broadmead Medical Centre,0.8,yes,yes,https://www.broadmeadmedicalcentre.nhs.uk,0117 954 9828
-Pembroke Road Surgery,0.5,yes,yes,https://www.pembrokeroadsurgery.co.uk,0117 973 3790
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number
-The Family Practice,0.1,yes,yes,https://www.thefamilypracticewesterncollege.nhs.uk/,0117 946 6455
-Whiteladies Medical Group,0.3,yes,yes,http://www.whiteladiesmedical.nhs.uk,0117 973 1201
-Compass Health,0.7,no,yes,http://homelesshealthservice.co.uk/,0117 989 3450
-Broadmead Medical Centre,0.8,yes,yes,https://www.broadmeadmedicalcentre.nhs.uk,0117 954 9828
-Greenway Community Practice,2.6,yes,no,http://www.greenwaycommunitypractice.nhs.uk,0117 959 8939
-Charlotte Keel Medical Practice,1.5,yes,yes,http://www.charlottekeelmedical.co.uk,0117 902 7145
-Pembroke Road Surgery,0.5,yes,yes,https://www.pembrokeroadsurgery.co.uk,0117 973 3790
-Priory Surgery,2.6,yes,no,https://www.priorysurgerybristol.co.uk/,0117 949 3988
-The Merrywood Practice,2.3,yes,no,http://www.merrywoodpractice.nhs.uk/,0117 944 9750
-The Crest Family Practice,2.4,yes,no,http://www.crestfamilypractice.co.uk,0117 944 9700
-Student Health Service,0.1,yes,yes,http://www.bris.ac.uk/depts/studenthealthservice/,0117 330 2720
-Horfield HC,2.3,yes,no,http://www.horfieldhealthcentre.nhs.uk,0117 969 5391
-The Lennard Surgery,2.5,yes,no,http://www.thelennardsurgery.co.uk,0117 964 2211
 Westbury on Trym Primary Care Centre,2.2,yes,no,http://www.westburysurgery.co.uk,0117 962 3406
-The Armada Family Practice,3.7,yes,no,http://www.armadapractice.co.uk/,01275 832285
-Hillview Family Practice,3.8,yes,no,http://www.hillviewfamilypractice.nhs.uk/,0117 301 5240
-Sea Mills Surgery,2.4,yes,no,http://www.seamillssurgery.nhs.uk/,0117 968 1182
-Hartwood Healthcare,3.8,yes,no,Not available,0117 301 5226
-UWE Health Centre,3.7,yes,no,https://www.oldschoolsurgery.org.uk/uwe/,0117 328 6666
-Fishponds Family Practice,3.7,yes,no,http://www.thefishpondsfamilypractice.nhs.uk,0117 235 4220
-The Old School Surgery,3.6,yes,no,https://www.oldschoolsurgery.org.uk,0117 965 3102
-Beechwood Medical Practice,3.7,yes,no,http://www.beechwoodmedicalpractice.co.uk,0117 908 2360
-Wells Road Surgery,2.2,yes,no,Not available,0117 977 0018
-Conygre Medical Centre,3.7,yes,no,http://www.stokegiffordmedical.co.uk,0117 979 9430
-Shirehampton Group Practice,3.6,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 916 2226
-Pioneer Ridingleaze,3.5,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919
-Shirehampton Group Practice Branch Surgery,3.4,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 982 2131
-Grange Road Surgery,3.4,yes,no,http://www.grangeroadsurgery.co.uk,0117 964 4343
-Willow Tree Surgery,3.4,yes,no,http://www.southmeadhealth.nhs.uk,0117 950 7150
-Air Balloon Surgery,3.2,yes,no,https://www.airballoonsurgery.co.uk,0117 909 9912
-Long Ashton Surgery,3.5,yes,no,http://www.tyntesfield.nhs.uk,01275 392134
-Nightingale Valley Practice,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300
-Fireclay Health,3.4,yes,no,http://www.fireclayhealth.nhs.uk,0117 961 2161
-Birchwood Medical Practice,2.7,yes,no,https://www.birchwoodbristol.nhs.uk/,0117 330 4225
-Riverside Surgery,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300
-Southmead & Henbury Family Practice,3.0,yes,no,https://www.mendipvale.nhs.uk/,0117 950 7150
-East Trees Health Centre,2.0,yes,no,https://www.easttreeshealthcentre.co.uk/,0117 244 4123
-Monks Park Surgery,2.7,yes,no,https://www.mendipvale.nhs.uk/practices/monks-park/,0117 969 3106
-The Wellspring Surgery,2.0,yes,no,http://www.wellspringsurgerybristol.nhs.uk,0117 955 7711
-Gloucester Road Medical Centre,1.8,yes,no,http://www.grmc.nhs.uk,0117 949 7774
-The Malago Surgery,1.6,yes,no,https://bridgeviewmedical.nhs.uk/surgery-information/contact-information.php,0117 966 9724
-Pioneer Medical Group,3.4,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919
-Fallodon Way Medical Centre,1.5,yes,no,http://fwmc.org.uk/,0117 962 4692
-Lawrence Hill Health Centre,1.5,yes,no,https://www.lawrencehillhealthcentre.co.uk,0117 954 3060
-Bridge View Medical,1.2,yes,no,http://bridgeviewmedical.nhs.uk,0117 966 9724
-Montpelier Health Centre,0.8,yes,no,https://www.montpelierhealthcentre.co.uk/,0117 942 6811
-Gaywood House Surgery,1.5,yes,no,http://www.bridgeviewmedical.nhs.uk,0117 966 9724
-Bedminster Family Practice,1.3,yes,no,http://www.bedminsterfamilypractice.co.uk/index.aspx,0117 966 3149
-BS1 Surgery,0.9,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724
-Marksbury Road Surgery,2.1,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number
-Hillview Family Practice,3.8,yes,no,http://www.hillviewfamilypractice.nhs.uk/,0117 301 5240
-Hartwood Healthcare,3.8,yes,no,Not available,0117 301 5226
-Beechwood Medical Practice,3.7,yes,no,http://www.beechwoodmedicalpractice.co.uk,0117 908 2360
-UWE Health Centre,3.7,yes,no,https://www.oldschoolsurgery.org.uk/uwe/,0117 328 6666
-Student Health Service,0.1,yes,yes,http://www.bris.ac.uk/depts/studenthealthservice/,0117 330 2720
-The Armada Family Practice,3.7,yes,no,http://www.armadapractice.co.uk/,01275 832285
-The Old School Surgery,3.6,yes,no,https://www.oldschoolsurgery.org.uk,0117 965 3102
-Fishponds Family Practice,3.7,yes,no,http://www.thefishpondsfamilypractice.nhs.uk,0117 235 4220
-Shirehampton Group Practice,3.6,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 916 2226
-Willow Tree Surgery,3.4,yes,no,http://www.southmeadhealth.nhs.uk,0117 950 7150
-Long Ashton Surgery,3.5,yes,no,http://www.tyntesfield.nhs.uk,01275 392134
-Pioneer Ridingleaze,3.5,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919
-Conygre Medical Centre,3.7,yes,no,http://www.stokegiffordmedical.co.uk,0117 979 9430
-Fireclay Health,3.4,yes,no,http://www.fireclayhealth.nhs.uk,0117 961 2161
-Shirehampton Group Practice Branch Surgery,3.4,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 982 2131
-Pioneer Medical Group,3.4,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919
-Southmead & Henbury Family Practice,3.0,yes,no,https://www.mendipvale.nhs.uk/,0117 950 7150
-Air Balloon Surgery,3.2,yes,no,https://www.airballoonsurgery.co.uk,0117 909 9912
-Riverside Surgery,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300
-Birchwood Medical Practice,2.7,yes,no,https://www.birchwoodbristol.nhs.uk/,0117 330 4225
-Nightingale Valley Practice,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300
 Priory Surgery,2.6,yes,no,https://www.priorysurgerybristol.co.uk/,0117 949 3988
-Greenway Community Practice,2.6,yes,no,http://www.greenwaycommunitypractice.nhs.uk,0117 959 8939
-Grange Road Surgery,3.4,yes,no,http://www.grangeroadsurgery.co.uk,0117 964 4343
-Monks Park Surgery,2.7,yes,no,https://www.mendipvale.nhs.uk/practices/monks-park/,0117 969 3106
-The Crest Family Practice,2.4,yes,no,http://www.crestfamilypractice.co.uk,0117 944 9700
-The Lennard Surgery,2.5,yes,no,http://www.thelennardsurgery.co.uk,0117 964 2211
-The Merrywood Practice,2.3,yes,no,http://www.merrywoodpractice.nhs.uk/,0117 944 9750
-Westbury on Trym Primary Care Centre,2.2,yes,no,http://www.westburysurgery.co.uk,0117 962 3406
 Wells Road Surgery,2.2,yes,no,Not available,0117 977 0018
-Sea Mills Surgery,2.4,yes,no,http://www.seamillssurgery.nhs.uk/,0117 968 1182
-Horfield HC,2.3,yes,no,http://www.horfieldhealthcentre.nhs.uk,0117 969 5391
-Gloucester Road Medical Centre,1.8,yes,no,http://www.grmc.nhs.uk,0117 949 7774
-East Trees Health Centre,2.0,yes,no,https://www.easttreeshealthcentre.co.uk/,0117 244 4123
 The Wellspring Surgery,2.0,yes,no,http://www.wellspringsurgerybristol.nhs.uk,0117 955 7711
 The Malago Surgery,1.6,yes,no,https://bridgeviewmedical.nhs.uk/surgery-information/contact-information.php,0117 966 9724
-Marksbury Road Surgery,2.1,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724
-Bedminster Family Practice,1.3,yes,no,http://www.bedminsterfamilypractice.co.uk/index.aspx,0117 966 3149
-Lawrence Hill Health Centre,1.5,yes,no,https://www.lawrencehillhealthcentre.co.uk,0117 954 3060
-Bridge View Medical,1.2,yes,no,http://bridgeviewmedical.nhs.uk,0117 966 9724
 Gaywood House Surgery,1.5,yes,no,http://www.bridgeviewmedical.nhs.uk,0117 966 9724
-Fallodon Way Medical Centre,1.5,yes,no,http://fwmc.org.uk/,0117 962 4692
-BS1 Surgery,0.9,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724
-Montpelier Health Centre,0.8,yes,no,https://www.montpelierhealthcentre.co.uk/,0117 942 6811
-Broadmead Medical Centre,0.8,yes,yes,https://www.broadmeadmedicalcentre.nhs.uk,0117 954 9828
-Charlotte Keel Medical Practice,1.5,yes,yes,http://www.charlottekeelmedical.co.uk,0117 902 7145
-Pembroke Road Surgery,0.5,yes,yes,https://www.pembrokeroadsurgery.co.uk,0117 973 3790
-The Family Practice,0.1,yes,yes,https://www.thefamilypracticewesterncollege.nhs.uk/,0117 946 6455
-Whiteladies Medical Group,0.3,yes,yes,http://www.whiteladiesmedical.nhs.uk,0117 973 1201
-Compass Health,0.7,no,yes,http://homelesshealthservice.co.uk/,0117 989 3450
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number
-The Armada Family Practice,3.7,yes,no,http://www.armadapractice.co.uk/,01275 832285
-Hillview Family Practice,3.8,yes,no,http://www.hillviewfamilypractice.nhs.uk/,0117 301 5240
-Hartwood Healthcare,3.8,yes,no,Not available,0117 301 5226
-Fishponds Family Practice,3.7,yes,no,http://www.thefishpondsfamilypractice.nhs.uk,0117 235 4220
-Beechwood Medical Practice,3.7,yes,no,http://www.beechwoodmedicalpractice.co.uk,0117 908 2360
-Conygre Medical Centre,3.7,yes,no,http://www.stokegiffordmedical.co.uk,0117 979 9430
-Shirehampton Group Practice,3.6,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 916 2226
-Student Health Service,0.1,yes,yes,http://www.bris.ac.uk/depts/studenthealthservice/,0117 330 2720
-Long Ashton Surgery,3.5,yes,no,http://www.tyntesfield.nhs.uk,01275 392134
-The Old School Surgery,3.6,yes,no,https://www.oldschoolsurgery.org.uk,0117 965 3102
-Pioneer Medical Group,3.4,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919
-Pioneer Ridingleaze,3.5,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919
-Fireclay Health,3.4,yes,no,http://www.fireclayhealth.nhs.uk,0117 961 2161
-Shirehampton Group Practice Branch Surgery,3.4,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 982 2131
-Grange Road Surgery,3.4,yes,no,http://www.grangeroadsurgery.co.uk,0117 964 4343
-Air Balloon Surgery,3.2,yes,no,https://www.airballoonsurgery.co.uk,0117 909 9912
-Southmead & Henbury Family Practice,3.0,yes,no,https://www.mendipvale.nhs.uk/,0117 950 7150
-Willow Tree Surgery,3.4,yes,no,http://www.southmeadhealth.nhs.uk,0117 950 7150
-Birchwood Medical Practice,2.7,yes,no,https://www.birchwoodbristol.nhs.uk/,0117 330 4225
-Nightingale Valley Practice,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300
-UWE Health Centre,3.7,yes,no,https://www.oldschoolsurgery.org.uk/uwe/,0117 328 6666
-Riverside Surgery,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300
-Priory Surgery,2.6,yes,no,https://www.priorysurgerybristol.co.uk/,0117 949 3988
-Monks Park Surgery,2.7,yes,no,https://www.mendipvale.nhs.uk/practices/monks-park/,0117 969 3106
-Sea Mills Surgery,2.4,yes,no,http://www.seamillssurgery.nhs.uk/,0117 968 1182
-Greenway Community Practice,2.6,yes,no,http://www.greenwaycommunitypractice.nhs.uk,0117 959 8939
 Horfield HC,2.3,yes,no,http://www.horfieldhealthcentre.nhs.uk,0117 969 5391
-The Lennard Surgery,2.5,yes,no,http://www.thelennardsurgery.co.uk,0117 964 2211
-The Merrywood Practice,2.3,yes,no,http://www.merrywoodpractice.nhs.uk/,0117 944 9750
-Westbury on Trym Primary Care Centre,2.2,yes,no,http://www.westburysurgery.co.uk,0117 962 3406
-Wells Road Surgery,2.2,yes,no,Not available,0117 977 0018
-The Wellspring Surgery,2.0,yes,no,http://www.wellspringsurgerybristol.nhs.uk,0117 955 7711
-The Crest Family Practice,2.4,yes,no,http://www.crestfamilypractice.co.uk,0117 944 9700
-East Trees Health Centre,2.0,yes,no,https://www.easttreeshealthcentre.co.uk/,0117 244 4123
-Marksbury Road Surgery,2.1,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724
-Gaywood House Surgery,1.5,yes,no,http://www.bridgeviewmedical.nhs.uk,0117 966 9724
-The Malago Surgery,1.6,yes,no,https://bridgeviewmedical.nhs.uk/surgery-information/contact-information.php,0117 966 9724
-Fallodon Way Medical Centre,1.5,yes,no,http://fwmc.org.uk/,0117 962 4692
-Bedminster Family Practice,1.3,yes,no,http://www.bedminsterfamilypractice.co.uk/index.aspx,0117 966 3149
 Lawrence Hill Health Centre,1.5,yes,no,https://www.lawrencehillhealthcentre.co.uk,0117 954 3060
-BS1 Surgery,0.9,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724
-Broadmead Medical Centre,0.8,yes,yes,https://www.broadmeadmedicalcentre.nhs.uk,0117 954 9828
-Montpelier Health Centre,0.8,yes,no,https://www.montpelierhealthcentre.co.uk/,0117 942 6811
-Bridge View Medical,1.2,yes,no,http://bridgeviewmedical.nhs.uk,0117 966 9724
-Charlotte Keel Medical Practice,1.5,yes,yes,http://www.charlottekeelmedical.co.uk,0117 902 7145
-Compass Health,0.7,no,yes,http://homelesshealthservice.co.uk/,0117 989 3450
-Pembroke Road Surgery,0.5,yes,yes,https://www.pembrokeroadsurgery.co.uk,0117 973 3790
-Whiteladies Medical Group,0.3,yes,yes,http://www.whiteladiesmedical.nhs.uk,0117 973 1201
-The Family Practice,0.1,yes,yes,https://www.thefamilypracticewesterncollege.nhs.uk/,0117 946 6455
-Gloucester Road Medical Centre,1.8,yes,no,http://www.grmc.nhs.uk,0117 949 7774
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number
-Gloucester Road Medical Centre,1.8,yes,no,http://www.grmc.nhs.uk,0117 949 7774
-Marksbury Road Surgery,2.1,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724
-The Merrywood Practice,2.3,yes,no,http://www.merrywoodpractice.nhs.uk/,0117 944 9750
-East Trees Health Centre,2.0,yes,no,https://www.easttreeshealthcentre.co.uk/,0117 244 4123
-Westbury on Trym Primary Care Centre,2.2,yes,no,http://www.westburysurgery.co.uk,0117 962 3406
-Wells Road Surgery,2.2,yes,no,Not available,0117 977 0018
-The Wellspring Surgery,2.0,yes,no,http://www.wellspringsurgerybristol.nhs.uk,0117 955 7711
-Horfield HC,2.3,yes,no,http://www.horfieldhealthcentre.nhs.uk,0117 969 5391
-The Malago Surgery,1.6,yes,no,https://bridgeviewmedical.nhs.uk/surgery-information/contact-information.php,0117 966 9724
-Lawrence Hill Health Centre,1.5,yes,no,https://www.lawrencehillhealthcentre.co.uk,0117 954 3060
-Bedminster Family Practice,1.3,yes,no,http://www.bedminsterfamilypractice.co.uk/index.aspx,0117 966 3149
-Gaywood House Surgery,1.5,yes,no,http://www.bridgeviewmedical.nhs.uk,0117 966 9724
-Fallodon Way Medical Centre,1.5,yes,no,http://fwmc.org.uk/,0117 962 4692
-BS1 Surgery,0.9,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724
-Hillview Family Practice,3.8,yes,no,http://www.hillviewfamilypractice.nhs.uk/,0117 301 5240
-Conygre Medical Centre,3.7,yes,no,http://www.stokegiffordmedical.co.uk,0117 979 9430
-Hartwood Healthcare,3.8,yes,no,Not available,0117 301 5226
-The Armada Family Practice,3.7,yes,no,http://www.armadapractice.co.uk/,01275 832285
-Fishponds Family Practice,3.7,yes,no,http://www.thefishpondsfamilypractice.nhs.uk,0117 235 4220
-UWE Health Centre,3.7,yes,no,https://www.oldschoolsurgery.org.uk/uwe/,0117 328 6666
-Bridge View Medical,1.2,yes,no,http://bridgeviewmedical.nhs.uk,0117 966 9724
-Montpelier Health Centre,0.8,yes,no,https://www.montpelierhealthcentre.co.uk/,0117 942 6811
-The Old School Surgery,3.6,yes,no,https://www.oldschoolsurgery.org.uk,0117 965 3102
-Long Ashton Surgery,3.5,yes,no,http://www.tyntesfield.nhs.uk,01275 392134
-Willow Tree Surgery,3.4,yes,no,http://www.southmeadhealth.nhs.uk,0117 950 7150
-Beechwood Medical Practice,3.7,yes,no,http://www.beechwoodmedicalpractice.co.uk,0117 908 2360
-Fireclay Health,3.4,yes,no,http://www.fireclayhealth.nhs.uk,0117 961 2161
-Shirehampton Group Practice,3.6,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 916 2226
-Grange Road Surgery,3.4,yes,no,http://www.grangeroadsurgery.co.uk,0117 964 4343
-Pioneer Ridingleaze,3.5,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919
-Shirehampton Group Practice Branch Surgery,3.4,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 982 2131
-Air Balloon Surgery,3.2,yes,no,https://www.airballoonsurgery.co.uk,0117 909 9912
-Southmead & Henbury Family Practice,3.0,yes,no,https://www.mendipvale.nhs.uk/,0117 950 7150
-Nightingale Valley Practice,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300
-Pioneer Medical Group,3.4,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919
-Monks Park Surgery,2.7,yes,no,https://www.mendipvale.nhs.uk/practices/monks-park/,0117 969 3106
-Riverside Surgery,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300
-Greenway Community Practice,2.6,yes,no,http://www.greenwaycommunitypractice.nhs.uk,0117 959 8939
-Birchwood Medical Practice,2.7,yes,no,https://www.birchwoodbristol.nhs.uk/,0117 330 4225
-Priory Surgery,2.6,yes,no,https://www.priorysurgerybristol.co.uk/,0117 949 3988
-The Lennard Surgery,2.5,yes,no,http://www.thelennardsurgery.co.uk,0117 964 2211
-The Crest Family Practice,2.4,yes,no,http://www.crestfamilypractice.co.uk,0117 944 9700
-Charlotte Keel Medical Practice,1.5,yes,yes,http://www.charlottekeelmedical.co.uk,0117 902 7145
-Pembroke Road Surgery,0.5,yes,yes,https://www.pembrokeroadsurgery.co.uk,0117 973 3790
-Compass Health,0.7,no,yes,http://homelesshealthservice.co.uk/,0117 989 3450
-Broadmead Medical Centre,0.8,yes,yes,https://www.broadmeadmedicalcentre.nhs.uk,0117 954 9828
-The Family Practice,0.1,yes,yes,https://www.thefamilypracticewesterncollege.nhs.uk/,0117 946 6455
-Student Health Service,0.1,yes,yes,http://www.bris.ac.uk/depts/studenthealthservice/,0117 330 2720
-Sea Mills Surgery,2.4,yes,no,http://www.seamillssurgery.nhs.uk/,0117 968 1182
-Whiteladies Medical Group,0.3,yes,yes,http://www.whiteladiesmedical.nhs.uk,0117 973 1201
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number
-Student Health Service,0.1,yes,yes,http://www.bris.ac.uk/depts/studenthealthservice/,0117 330 2720
-Fishponds Family Practice,3.7,yes,no,http://www.thefishpondsfamilypractice.nhs.uk,0117 235 4220
-UWE Health Centre,3.7,yes,no,https://www.oldschoolsurgery.org.uk/uwe/,0117 328 6666
-Hillview Family Practice,3.8,yes,no,http://www.hillviewfamilypractice.nhs.uk/,0117 301 5240
-Beechwood Medical Practice,3.7,yes,no,http://www.beechwoodmedicalpractice.co.uk,0117 908 2360
-The Armada Family Practice,3.7,yes,no,http://www.armadapractice.co.uk/,01275 832285
-Hartwood Healthcare,3.8,yes,no,Not available,0117 301 5226
-Conygre Medical Centre,3.7,yes,no,http://www.stokegiffordmedical.co.uk,0117 979 9430
-Shirehampton Group Practice,3.6,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 916 2226
-Pioneer Ridingleaze,3.5,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919
-Shirehampton Group Practice Branch Surgery,3.4,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 982 2131
-Long Ashton Surgery,3.5,yes,no,http://www.tyntesfield.nhs.uk,01275 392134
-Willow Tree Surgery,3.4,yes,no,http://www.southmeadhealth.nhs.uk,0117 950 7150
-Pioneer Medical Group,3.4,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919
-The Old School Surgery,3.6,yes,no,https://www.oldschoolsurgery.org.uk,0117 965 3102
-Grange Road Surgery,3.4,yes,no,http://www.grangeroadsurgery.co.uk,0117 964 4343
-Fireclay Health,3.4,yes,no,http://www.fireclayhealth.nhs.uk,0117 961 2161
-Southmead & Henbury Family Practice,3.0,yes,no,https://www.mendipvale.nhs.uk/,0117 950 7150
-Air Balloon Surgery,3.2,yes,no,https://www.airballoonsurgery.co.uk,0117 909 9912
-Riverside Surgery,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300
-Monks Park Surgery,2.7,yes,no,https://www.mendipvale.nhs.uk/practices/monks-park/,0117 969 3106
-Birchwood Medical Practice,2.7,yes,no,https://www.birchwoodbristol.nhs.uk/,0117 330 4225
-Greenway Community Practice,2.6,yes,no,http://www.greenwaycommunitypractice.nhs.uk,0117 959 8939
-Priory Surgery,2.6,yes,no,https://www.priorysurgerybristol.co.uk/,0117 949 3988
-The Lennard Surgery,2.5,yes,no,http://www.thelennardsurgery.co.uk,0117 964 2211
-Nightingale Valley Practice,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300
-The Merrywood Practice,2.3,yes,no,http://www.merrywoodpractice.nhs.uk/,0117 944 9750
-The Crest Family Practice,2.4,yes,no,http://www.crestfamilypractice.co.uk,0117 944 9700
-Sea Mills Surgery,2.4,yes,no,http://www.seamillssurgery.nhs.uk/,0117 968 1182
-Wells Road Surgery,2.2,yes,no,Not available,0117 977 0018
-Marksbury Road Surgery,2.1,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724
-Horfield HC,2.3,yes,no,http://www.horfieldhealthcentre.nhs.uk,0117 969 5391
-The Wellspring Surgery,2.0,yes,no,http://www.wellspringsurgerybristol.nhs.uk,0117 955 7711
-Westbury on Trym Primary Care Centre,2.2,yes,no,http://www.westburysurgery.co.uk,0117 962 3406
-East Trees Health Centre,2.0,yes,no,https://www.easttreeshealthcentre.co.uk/,0117 244 4123
-Gaywood House Surgery,1.5,yes,no,http://www.bridgeviewmedical.nhs.uk,0117 966 9724
-Gloucester Road Medical Centre,1.8,yes,no,http://www.grmc.nhs.uk,0117 949 7774
 Fallodon Way Medical Centre,1.5,yes,no,http://fwmc.org.uk/,0117 962 4692
 Bridge View Medical,1.2,yes,no,http://bridgeviewmedical.nhs.uk,0117 966 9724
 BS1 Surgery,0.9,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724
-Lawrence Hill Health Centre,1.5,yes,no,https://www.lawrencehillhealthcentre.co.uk,0117 954 3060
-The Malago Surgery,1.6,yes,no,https://bridgeviewmedical.nhs.uk/surgery-information/contact-information.php,0117 966 9724
-Bedminster Family Practice,1.3,yes,no,http://www.bedminsterfamilypractice.co.uk/index.aspx,0117 966 3149
-Broadmead Medical Centre,0.8,yes,yes,https://www.broadmeadmedicalcentre.nhs.uk,0117 954 9828
 Charlotte Keel Medical Practice,1.5,yes,yes,http://www.charlottekeelmedical.co.uk,0117 902 7145
+Broadmead Medical Centre,0.8,yes,yes,https://www.broadmeadmedicalcentre.nhs.uk,0117 954 9828
 Compass Health,0.7,no,yes,http://homelesshealthservice.co.uk/,0117 989 3450
+Whiteladies Medical Group,0.3,yes,yes,http://www.whiteladiesmedical.nhs.uk,0117 973 1201
+Montpelier Health Centre,0.8,yes,no,https://www.montpelierhealthcentre.co.uk/,0117 942 6811
 Pembroke Road Surgery,0.5,yes,yes,https://www.pembrokeroadsurgery.co.uk,0117 973 3790
 The Family Practice,0.1,yes,yes,https://www.thefamilypracticewesterncollege.nhs.uk/,0117 946 6455
-Montpelier Health Centre,0.8,yes,no,https://www.montpelierhealthcentre.co.uk/,0117 942 6811
-Whiteladies Medical Group,0.3,yes,yes,http://www.whiteladiesmedical.nhs.uk,0117 973 1201
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number
-Marksbury Road Surgery,2.1,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724
-Lawrence Hill Health Centre,1.5,yes,no,https://www.lawrencehillhealthcentre.co.uk,0117 954 3060
-Gaywood House Surgery,1.5,yes,no,http://www.bridgeviewmedical.nhs.uk,0117 966 9724
-East Trees Health Centre,2.0,yes,no,https://www.easttreeshealthcentre.co.uk/,0117 244 4123
-Fallodon Way Medical Centre,1.5,yes,no,http://fwmc.org.uk/,0117 962 4692
-The Wellspring Surgery,2.0,yes,no,http://www.wellspringsurgerybristol.nhs.uk,0117 955 7711
-Bridge View Medical,1.2,yes,no,http://bridgeviewmedical.nhs.uk,0117 966 9724
-The Malago Surgery,1.6,yes,no,https://bridgeviewmedical.nhs.uk/surgery-information/contact-information.php,0117 966 9724
-Gloucester Road Medical Centre,1.8,yes,no,http://www.grmc.nhs.uk,0117 949 7774
-Charlotte Keel Medical Practice,1.5,yes,yes,http://www.charlottekeelmedical.co.uk,0117 902 7145
 Bedminster Family Practice,1.3,yes,no,http://www.bedminsterfamilypractice.co.uk/index.aspx,0117 966 3149
-Montpelier Health Centre,0.8,yes,no,https://www.montpelierhealthcentre.co.uk/,0117 942 6811
-BS1 Surgery,0.9,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724
-Broadmead Medical Centre,0.8,yes,yes,https://www.broadmeadmedicalcentre.nhs.uk,0117 954 9828
-Pembroke Road Surgery,0.5,yes,yes,https://www.pembrokeroadsurgery.co.uk,0117 973 3790
-The Armada Family Practice,3.7,yes,no,http://www.armadapractice.co.uk/,01275 832285
-Hartwood Healthcare,3.8,yes,no,Not available,0117 301 5226
-Compass Health,0.7,no,yes,http://homelesshealthservice.co.uk/,0117 989 3450
-UWE Health Centre,3.7,yes,no,https://www.oldschoolsurgery.org.uk/uwe/,0117 328 6666
-Hillview Family Practice,3.8,yes,no,http://www.hillviewfamilypractice.nhs.uk/,0117 301 5240
-Fishponds Family Practice,3.7,yes,no,http://www.thefishpondsfamilypractice.nhs.uk,0117 235 4220
-Conygre Medical Centre,3.7,yes,no,http://www.stokegiffordmedical.co.uk,0117 979 9430
-Shirehampton Group Practice,3.6,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 916 2226
-The Old School Surgery,3.6,yes,no,https://www.oldschoolsurgery.org.uk,0117 965 3102
-Willow Tree Surgery,3.4,yes,no,http://www.southmeadhealth.nhs.uk,0117 950 7150
-Long Ashton Surgery,3.5,yes,no,http://www.tyntesfield.nhs.uk,01275 392134
-Beechwood Medical Practice,3.7,yes,no,http://www.beechwoodmedicalpractice.co.uk,0117 908 2360
-Pioneer Ridingleaze,3.5,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919
-Grange Road Surgery,3.4,yes,no,http://www.grangeroadsurgery.co.uk,0117 964 4343
-Pioneer Medical Group,3.4,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919
-Fireclay Health,3.4,yes,no,http://www.fireclayhealth.nhs.uk,0117 961 2161
-Air Balloon Surgery,3.2,yes,no,https://www.airballoonsurgery.co.uk,0117 909 9912
-Riverside Surgery,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300
-Nightingale Valley Practice,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300
-Monks Park Surgery,2.7,yes,no,https://www.mendipvale.nhs.uk/practices/monks-park/,0117 969 3106
-Greenway Community Practice,2.6,yes,no,http://www.greenwaycommunitypractice.nhs.uk,0117 959 8939
-Birchwood Medical Practice,2.7,yes,no,https://www.birchwoodbristol.nhs.uk/,0117 330 4225
-Priory Surgery,2.6,yes,no,https://www.priorysurgerybristol.co.uk/,0117 949 3988
-Shirehampton Group Practice Branch Surgery,3.4,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 982 2131
-The Crest Family Practice,2.4,yes,no,http://www.crestfamilypractice.co.uk,0117 944 9700
-Southmead & Henbury Family Practice,3.0,yes,no,https://www.mendipvale.nhs.uk/,0117 950 7150
-Sea Mills Surgery,2.4,yes,no,http://www.seamillssurgery.nhs.uk/,0117 968 1182
-The Merrywood Practice,2.3,yes,no,http://www.merrywoodpractice.nhs.uk/,0117 944 9750
-The Lennard Surgery,2.5,yes,no,http://www.thelennardsurgery.co.uk,0117 964 2211
-Whiteladies Medical Group,0.3,yes,yes,http://www.whiteladiesmedical.nhs.uk,0117 973 1201
-Horfield HC,2.3,yes,no,http://www.horfieldhealthcentre.nhs.uk,0117 969 5391
-The Family Practice,0.1,yes,yes,https://www.thefamilypracticewesterncollege.nhs.uk/,0117 946 6455
-Wells Road Surgery,2.2,yes,no,Not available,0117 977 0018
-Westbury on Trym Primary Care Centre,2.2,yes,no,http://www.westburysurgery.co.uk,0117 962 3406
 Student Health Service,0.1,yes,yes,http://www.bris.ac.uk/depts/studenthealthservice/,0117 330 2720
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number
-Long Ashton Surgery,3.5,yes,no,http://www.tyntesfield.nhs.uk,01275 392134
-Student Health Service,0.1,yes,yes,http://www.bris.ac.uk/depts/studenthealthservice/,0117 330 2720
-Shirehampton Group Practice Branch Surgery,3.4,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 982 2131
-Fireclay Health,3.4,yes,no,http://www.fireclayhealth.nhs.uk,0117 961 2161
-Grange Road Surgery,3.4,yes,no,http://www.grangeroadsurgery.co.uk,0117 964 4343
-Pioneer Medical Group,3.4,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919
-Pioneer Ridingleaze,3.5,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919
-Nightingale Valley Practice,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300
-Willow Tree Surgery,3.4,yes,no,http://www.southmeadhealth.nhs.uk,0117 950 7150
-Greenway Community Practice,2.6,yes,no,http://www.greenwaycommunitypractice.nhs.uk,0117 959 8939
-Monks Park Surgery,2.7,yes,no,https://www.mendipvale.nhs.uk/practices/monks-park/,0117 969 3106
-Air Balloon Surgery,3.2,yes,no,https://www.airballoonsurgery.co.uk,0117 909 9912
-Southmead & Henbury Family Practice,3.0,yes,no,https://www.mendipvale.nhs.uk/,0117 950 7150
-Riverside Surgery,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300
-Hartwood Healthcare,3.8,yes,no,Not available,0117 301 5226
-Priory Surgery,2.6,yes,no,https://www.priorysurgerybristol.co.uk/,0117 949 3988
-Birchwood Medical Practice,2.7,yes,no,https://www.birchwoodbristol.nhs.uk/,0117 330 4225
-Conygre Medical Centre,3.7,yes,no,http://www.stokegiffordmedical.co.uk,0117 979 9430
-Hillview Family Practice,3.8,yes,no,http://www.hillviewfamilypractice.nhs.uk/,0117 301 5240
-UWE Health Centre,3.7,yes,no,https://www.oldschoolsurgery.org.uk/uwe/,0117 328 6666
-Beechwood Medical Practice,3.7,yes,no,http://www.beechwoodmedicalpractice.co.uk,0117 908 2360
-The Lennard Surgery,2.5,yes,no,http://www.thelennardsurgery.co.uk,0117 964 2211
-The Crest Family Practice,2.4,yes,no,http://www.crestfamilypractice.co.uk,0117 944 9700
-Fishponds Family Practice,3.7,yes,no,http://www.thefishpondsfamilypractice.nhs.uk,0117 235 4220
-Shirehampton Group Practice,3.6,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 916 2226
-Sea Mills Surgery,2.4,yes,no,http://www.seamillssurgery.nhs.uk/,0117 968 1182
-The Merrywood Practice,2.3,yes,no,http://www.merrywoodpractice.nhs.uk/,0117 944 9750
-Horfield HC,2.3,yes,no,http://www.horfieldhealthcentre.nhs.uk,0117 969 5391
-The Old School Surgery,3.6,yes,no,https://www.oldschoolsurgery.org.uk,0117 965 3102
-Wells Road Surgery,2.2,yes,no,Not available,0117 977 0018
-East Trees Health Centre,2.0,yes,no,https://www.easttreeshealthcentre.co.uk/,0117 244 4123
-The Malago Surgery,1.6,yes,no,https://bridgeviewmedical.nhs.uk/surgery-information/contact-information.php,0117 966 9724
-Marksbury Road Surgery,2.1,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724
-Westbury on Trym Primary Care Centre,2.2,yes,no,http://www.westburysurgery.co.uk,0117 962 3406
-Fallodon Way Medical Centre,1.5,yes,no,http://fwmc.org.uk/,0117 962 4692
-Gloucester Road Medical Centre,1.8,yes,no,http://www.grmc.nhs.uk,0117 949 7774
-Lawrence Hill Health Centre,1.5,yes,no,https://www.lawrencehillhealthcentre.co.uk,0117 954 3060
-The Wellspring Surgery,2.0,yes,no,http://www.wellspringsurgerybristol.nhs.uk,0117 955 7711
-Gaywood House Surgery,1.5,yes,no,http://www.bridgeviewmedical.nhs.uk,0117 966 9724
-Bridge View Medical,1.2,yes,no,http://bridgeviewmedical.nhs.uk,0117 966 9724
-Bedminster Family Practice,1.3,yes,no,http://www.bedminsterfamilypractice.co.uk/index.aspx,0117 966 3149
-Montpelier Health Centre,0.8,yes,no,https://www.montpelierhealthcentre.co.uk/,0117 942 6811
-The Armada Family Practice,3.7,yes,no,http://www.armadapractice.co.uk/,01275 832285
-Broadmead Medical Centre,0.8,yes,yes,https://www.broadmeadmedicalcentre.nhs.uk,0117 954 9828
-Pembroke Road Surgery,0.5,yes,yes,https://www.pembrokeroadsurgery.co.uk,0117 973 3790
-Charlotte Keel Medical Practice,1.5,yes,yes,http://www.charlottekeelmedical.co.uk,0117 902 7145
-BS1 Surgery,0.9,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724
-The Family Practice,0.1,yes,yes,https://www.thefamilypracticewesterncollege.nhs.uk/,0117 946 6455
-Compass Health,0.7,no,yes,http://homelesshealthservice.co.uk/,0117 989 3450
-Whiteladies Medical Group,0.3,yes,yes,http://www.whiteladiesmedical.nhs.uk,0117 973 1201
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number
-Hartwood Healthcare,3.8,yes,no,Not available,0117 301 5226
-Beechwood Medical Practice,3.7,yes,no,http://www.beechwoodmedicalpractice.co.uk,0117 908 2360
-Student Health Service,0.1,yes,yes,http://www.bris.ac.uk/depts/studenthealthservice/,0117 330 2720
-The Armada Family Practice,3.7,yes,no,http://www.armadapractice.co.uk/,01275 832285
-Fishponds Family Practice,3.7,yes,no,http://www.thefishpondsfamilypractice.nhs.uk,0117 235 4220
-Hillview Family Practice,3.8,yes,no,http://www.hillviewfamilypractice.nhs.uk/,0117 301 5240
-UWE Health Centre,3.7,yes,no,https://www.oldschoolsurgery.org.uk/uwe/,0117 328 6666
-Long Ashton Surgery,3.5,yes,no,http://www.tyntesfield.nhs.uk,01275 392134
-Pioneer Ridingleaze,3.5,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919
-The Old School Surgery,3.6,yes,no,https://www.oldschoolsurgery.org.uk,0117 965 3102
-Grange Road Surgery,3.4,yes,no,http://www.grangeroadsurgery.co.uk,0117 964 4343
-Willow Tree Surgery,3.4,yes,no,http://www.southmeadhealth.nhs.uk,0117 950 7150
-Shirehampton Group Practice,3.6,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 916 2226
-Pioneer Medical Group,3.4,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919
-Southmead & Henbury Family Practice,3.0,yes,no,https://www.mendipvale.nhs.uk/,0117 950 7150
-Fireclay Health,3.4,yes,no,http://www.fireclayhealth.nhs.uk,0117 961 2161
-Shirehampton Group Practice Branch Surgery,3.4,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 982 2131
-Air Balloon Surgery,3.2,yes,no,https://www.airballoonsurgery.co.uk,0117 909 9912
-Conygre Medical Centre,3.7,yes,no,http://www.stokegiffordmedical.co.uk,0117 979 9430
-Birchwood Medical Practice,2.7,yes,no,https://www.birchwoodbristol.nhs.uk/,0117 330 4225
-Riverside Surgery,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300
-Greenway Community Practice,2.6,yes,no,http://www.greenwaycommunitypractice.nhs.uk,0117 959 8939
-Monks Park Surgery,2.7,yes,no,https://www.mendipvale.nhs.uk/practices/monks-park/,0117 969 3106
-The Lennard Surgery,2.5,yes,no,http://www.thelennardsurgery.co.uk,0117 964 2211
-Nightingale Valley Practice,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300
-Priory Surgery,2.6,yes,no,https://www.priorysurgerybristol.co.uk/,0117 949 3988
-The Crest Family Practice,2.4,yes,no,http://www.crestfamilypractice.co.uk,0117 944 9700
-Sea Mills Surgery,2.4,yes,no,http://www.seamillssurgery.nhs.uk/,0117 968 1182
-Westbury on Trym Primary Care Centre,2.2,yes,no,http://www.westburysurgery.co.uk,0117 962 3406
-Horfield HC,2.3,yes,no,http://www.horfieldhealthcentre.nhs.uk,0117 969 5391
-The Merrywood Practice,2.3,yes,no,http://www.merrywoodpractice.nhs.uk/,0117 944 9750
-Marksbury Road Surgery,2.1,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724
-East Trees Health Centre,2.0,yes,no,https://www.easttreeshealthcentre.co.uk/,0117 244 4123
-Wells Road Surgery,2.2,yes,no,Not available,0117 977 0018
-Gaywood House Surgery,1.5,yes,no,http://www.bridgeviewmedical.nhs.uk,0117 966 9724
-The Malago Surgery,1.6,yes,no,https://bridgeviewmedical.nhs.uk/surgery-information/contact-information.php,0117 966 9724
-Gloucester Road Medical Centre,1.8,yes,no,http://www.grmc.nhs.uk,0117 949 7774
-The Wellspring Surgery,2.0,yes,no,http://www.wellspringsurgerybristol.nhs.uk,0117 955 7711
-Fallodon Way Medical Centre,1.5,yes,no,http://fwmc.org.uk/,0117 962 4692
-BS1 Surgery,0.9,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724
-Lawrence Hill Health Centre,1.5,yes,no,https://www.lawrencehillhealthcentre.co.uk,0117 954 3060
-Bridge View Medical,1.2,yes,no,http://bridgeviewmedical.nhs.uk,0117 966 9724
-Montpelier Health Centre,0.8,yes,no,https://www.montpelierhealthcentre.co.uk/,0117 942 6811
-Bedminster Family Practice,1.3,yes,no,http://www.bedminsterfamilypractice.co.uk/index.aspx,0117 966 3149
-Whiteladies Medical Group,0.3,yes,yes,http://www.whiteladiesmedical.nhs.uk,0117 973 1201
-Broadmead Medical Centre,0.8,yes,yes,https://www.broadmeadmedicalcentre.nhs.uk,0117 954 9828
-Charlotte Keel Medical Practice,1.5,yes,yes,http://www.charlottekeelmedical.co.uk,0117 902 7145
-Compass Health,0.7,no,yes,http://homelesshealthservice.co.uk/,0117 989 3450
-The Family Practice,0.1,yes,yes,https://www.thefamilypracticewesterncollege.nhs.uk/,0117 946 6455
-Pembroke Road Surgery,0.5,yes,yes,https://www.pembrokeroadsurgery.co.uk,0117 973 3790

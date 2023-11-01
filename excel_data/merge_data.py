@@ -102,16 +102,21 @@ def extract_and_merge_data():
 
     gp_name_list = [name.upper() for name in gp_name_list]
   
-    # add new columns 
-    new_data = {
-    'Region': [np.nan] * len(df1['name']),
-    'PCN': [np.nan] * len(df1['name']),
-    'Total_Patients': [np.nan] * len(df1['name']),
-    'Total_GP_FTE': [np.nan] * len(df1['name']),
-    }
+    # # add new columns 
+    # new_data = {
+    # 'Region': [np.nan] * len(df1['name']),
+    # 'PCN': [np.nan] * len(df1['name']),
+    # 'Total_Patients': [np.nan] * len(df1['name']),
+    # 'Total_GP_FTE': [np.nan] * len(df1['name']),
+    # }
     
-     # Combine the initial_data DataFrame with your existing df1
-    df1 = pd.concat([df1, pd.DataFrame(new_data)], axis=1)
+    #  # Combine the initial_data DataFrame with your existing df1
+    # df1 = pd.concat([df1, pd.DataFrame(new_data)], axis=1)
+
+    df1['Region'] = np.nan
+    df1['PCN'] = np.nan
+    df1['Total_Patients'] = np.nan
+    df1['Total_GP_FTE'] = np.nan
 
 
     for name in gp_name_list:
