@@ -1,0 +1,459 @@
+name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,Region,PCN,Total_Patients,Total_GP_FTE
+Student Health Service,0.1,yes,yes,http://www.bris.ac.uk/depts/studenthealthservice/,0117 330 2720,South West,HEALTHWEST PCN,19919,9.9
+Shirehampton Group Practice Branch Surgery,3.4,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 982 2131,Not available,Not available,Not available,Not available
+Fireclay Health,3.4,yes,no,http://www.fireclayhealth.nhs.uk,0117 961 2161,South West,FOSS (FIRECLAY and OLD SCHOOL SURGERY) PCN,23862,10.76421461
+Grange Road Surgery,3.4,yes,no,http://www.grangeroadsurgery.co.uk,0117 964 4343,South West,SWIFT PCN,11857,9.386666667
+Air Balloon Surgery,3.2,yes,no,https://www.airballoonsurgery.co.uk,0117 909 9912,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",13268,8.544
+Southmead & Henbury Family Practice,3.0,yes,no,https://www.mendipvale.nhs.uk/,0117 950 7150,South West,CONCORD MENDIP PCN,11132,3.573333333
+Pioneer Medical Group,3.4,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919,South West,NORTHERN ARC PCN,22321,12.12
+Nightingale Valley Practice,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300,South West,CONNEXUS PCN,15059,12.032
+Greenway Community Practice,2.6,yes,no,http://www.greenwaycommunitypractice.nhs.uk,0117 959 8939,South West,AFFINITY (BNSSG) PCN,10747,4.553066667
+Monks Park Surgery,2.7,yes,no,https://www.mendipvale.nhs.uk/practices/monks-park/,0117 969 3106,South West,CONCORD MENDIP PCN,9028,3.327535439
+Priory Surgery,2.6,yes,no,https://www.priorysurgerybristol.co.uk/,0117 949 3988,South East,CYGNET PCN,12145,6.68976
+Sea Mills Surgery,2.4,yes,no,http://www.seamillssurgery.nhs.uk/,0117 968 1182,South West,CONCORD MENDIP PCN,8443,5.2
+Riverside Surgery,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300,North East and Yorkshire,NORTH LINCOLNSHIRE EAST PCN,12190,7.916
+Hillview Family Practice,3.8,yes,no,http://www.hillviewfamilypractice.nhs.uk/,0117 301 5240,South West,SWIFT PCN,7239,1.906666667
+The Crest Family Practice,2.4,yes,no,http://www.crestfamilypractice.co.uk,0117 944 9700,South West,SWIFT PCN,7104,2.807339696
+Hartwood Healthcare,3.8,yes,no,Not available,0117 301 5226,South West,SWIFT PCN,8391,4.853333333
+Conygre Medical Centre,3.7,yes,no,http://www.stokegiffordmedical.co.uk,0117 979 9430,Not available,Not available,Not available,Not available
+The Lennard Surgery,2.5,yes,no,http://www.thelennardsurgery.co.uk,0117 964 2211,South West,SWIFT PCN,8601,6.448533333
+Birchwood Medical Practice,2.7,yes,no,https://www.birchwoodbristol.nhs.uk/,0117 330 4225,Midlands,APEX PCN,10288,11.52
+UWE Health Centre,3.7,yes,no,https://www.oldschoolsurgery.org.uk/uwe/,0117 328 6666,Not available,Not available,Not available,Not available
+Fishponds Family Practice,3.7,yes,no,http://www.thefishpondsfamilypractice.nhs.uk,0117 235 4220,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",13231,9.333333333
+The Armada Family Practice,3.7,yes,no,http://www.armadapractice.co.uk/,01275 832285,South West,SWIFT PCN,16298,8.970666667
+The Old School Surgery,3.6,yes,no,https://www.oldschoolsurgery.org.uk,0117 965 3102,Midlands,FOSSEWAY PCN,7764,3.173333333
+Shirehampton Group Practice,3.6,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 916 2226,South West,NORTHERN ARC PCN,11187,7.91112
+Horfield HC,2.3,yes,no,http://www.horfieldhealthcentre.nhs.uk,0117 969 5391,South West,PHOENIX (BNSSG) PCN,17706,15.3
+Long Ashton Surgery,3.5,yes,no,http://www.tyntesfield.nhs.uk,01275 392134,Not available,Not available,Not available,Not available
+Pioneer Ridingleaze,3.5,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919,Not available,Not available,Not available,Not available
+Beechwood Medical Practice,3.7,yes,no,http://www.beechwoodmedicalpractice.co.uk,0117 908 2360,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",12391,8.413333333
+Westbury on Trym Primary Care Centre,2.2,yes,no,http://www.westburysurgery.co.uk,0117 962 3406,South West,AFFINITY (BNSSG) PCN,11897,6.48
+Wells Road Surgery,2.2,yes,no,Not available,0117 977 0018,South West,CONNEXUS PCN,9206,3.2
+The Merrywood Practice,2.3,yes,no,http://www.merrywoodpractice.nhs.uk/,0117 944 9750,South West,SWIFT PCN,7279,5.253333333
+Marksbury Road Surgery,2.1,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724,Not available,Not available,Not available,Not available
+Gloucester Road Medical Centre,1.8,yes,no,http://www.grmc.nhs.uk,0117 949 7774,South West,PHOENIX (BNSSG) PCN,21956,11.09333333
+The Malago Surgery,1.6,yes,no,https://bridgeviewmedical.nhs.uk/surgery-information/contact-information.php,0117 966 9724,Not available,Not available,Not available,Not available
+Willow Tree Surgery,3.4,yes,no,http://www.southmeadhealth.nhs.uk,0117 950 7150,East of England,PETERBOROUGH PARTNERSHIPS PCN,5875,0.533333333
+Gaywood House Surgery,1.5,yes,no,http://www.bridgeviewmedical.nhs.uk,0117 966 9724,Not available,Not available,Not available,Not available
+Lawrence Hill Health Centre,1.5,yes,no,https://www.lawrencehillhealthcentre.co.uk,0117 954 3060,South West,BRISTOL INNER CITY PCN,10099,5.426666667
+East Trees Health Centre,2.0,yes,no,https://www.easttreeshealthcentre.co.uk/,0117 244 4123,South West,BRISTOL INNER CITY PCN,15596,8.413333333
+The Wellspring Surgery,2.0,yes,no,http://www.wellspringsurgerybristol.nhs.uk,0117 955 7711,Midlands,NOTTINGHAM CITY EAST PCN,10671,6.514666667
+Bedminster Family Practice,1.3,yes,no,http://www.bedminsterfamilypractice.co.uk/index.aspx,0117 966 3149,South West,SWIFT PCN,12764,8.395733334
+Fallodon Way Medical Centre,1.5,yes,no,http://fwmc.org.uk/,0117 962 4692,South West,AFFINITY (BNSSG) PCN,11525,6.980868773
+Montpelier Health Centre,0.8,yes,no,https://www.montpelierhealthcentre.co.uk/,0117 942 6811,South West,BRISTOL INNER CITY PCN,20620,10.544
+BS1 Surgery,0.9,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724,Not available,Not available,Not available,Not available
+Charlotte Keel Medical Practice,1.5,yes,yes,http://www.charlottekeelmedical.co.uk,0117 902 7145,South West,BRISTOL INNER CITY PCN,19845,12.87733333
+Bridge View Medical,1.2,yes,no,http://bridgeviewmedical.nhs.uk,0117 966 9724,South West,BRIDGE VIEW PCN,38773,18.31893333
+Whiteladies Medical Group,0.3,yes,yes,http://www.whiteladiesmedical.nhs.uk,0117 973 1201,South West,HEALTHWEST PCN,15716,10.34666667
+Compass Health,0.7,no,yes,http://homelesshealthservice.co.uk/,0117 989 3450,Not available,Not available,Not available,Not available
+The Family Practice,0.1,yes,yes,https://www.thefamilypracticewesterncollege.nhs.uk/,0117 946 6455,North West,BARROW AND MILLOM PCN,2986,2.68
+Broadmead Medical Centre,0.8,yes,yes,https://www.broadmeadmedicalcentre.nhs.uk,0117 954 9828,South West,BRISTOL INNER CITY PCN,11697,4.44
+Pembroke Road Surgery,0.5,yes,yes,https://www.pembrokeroadsurgery.co.uk,0117 973 3790,South West,HEALTHWEST PCN,20054,11.17333333
+name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,Not available,Not available,Not available,Not available
+The Family Practice,0.1,yes,yes,https://www.thefamilypracticewesterncollege.nhs.uk/,0117 946 6455,North West,BARROW AND MILLOM PCN,2986,2.68
+Whiteladies Medical Group,0.3,yes,yes,http://www.whiteladiesmedical.nhs.uk,0117 973 1201,South West,HEALTHWEST PCN,15716,10.34666667
+Compass Health,0.7,no,yes,http://homelesshealthservice.co.uk/,0117 989 3450,Not available,Not available,Not available,Not available
+Broadmead Medical Centre,0.8,yes,yes,https://www.broadmeadmedicalcentre.nhs.uk,0117 954 9828,South West,BRISTOL INNER CITY PCN,11697,4.44
+Greenway Community Practice,2.6,yes,no,http://www.greenwaycommunitypractice.nhs.uk,0117 959 8939,South West,AFFINITY (BNSSG) PCN,10747,4.553066667
+Charlotte Keel Medical Practice,1.5,yes,yes,http://www.charlottekeelmedical.co.uk,0117 902 7145,South West,BRISTOL INNER CITY PCN,19845,12.87733333
+Pembroke Road Surgery,0.5,yes,yes,https://www.pembrokeroadsurgery.co.uk,0117 973 3790,South West,HEALTHWEST PCN,20054,11.17333333
+Priory Surgery,2.6,yes,no,https://www.priorysurgerybristol.co.uk/,0117 949 3988,South East,CYGNET PCN,12145,6.68976
+The Merrywood Practice,2.3,yes,no,http://www.merrywoodpractice.nhs.uk/,0117 944 9750,South West,SWIFT PCN,7279,5.253333333
+The Crest Family Practice,2.4,yes,no,http://www.crestfamilypractice.co.uk,0117 944 9700,South West,SWIFT PCN,7104,2.807339696
+Student Health Service,0.1,yes,yes,http://www.bris.ac.uk/depts/studenthealthservice/,0117 330 2720,South West,HEALTHWEST PCN,19919,9.9
+Horfield HC,2.3,yes,no,http://www.horfieldhealthcentre.nhs.uk,0117 969 5391,South West,PHOENIX (BNSSG) PCN,17706,15.3
+The Lennard Surgery,2.5,yes,no,http://www.thelennardsurgery.co.uk,0117 964 2211,South West,SWIFT PCN,8601,6.448533333
+Westbury on Trym Primary Care Centre,2.2,yes,no,http://www.westburysurgery.co.uk,0117 962 3406,South West,AFFINITY (BNSSG) PCN,11897,6.48
+The Armada Family Practice,3.7,yes,no,http://www.armadapractice.co.uk/,01275 832285,South West,SWIFT PCN,16298,8.970666667
+Hillview Family Practice,3.8,yes,no,http://www.hillviewfamilypractice.nhs.uk/,0117 301 5240,South West,SWIFT PCN,7239,1.906666667
+Sea Mills Surgery,2.4,yes,no,http://www.seamillssurgery.nhs.uk/,0117 968 1182,South West,CONCORD MENDIP PCN,8443,5.2
+Hartwood Healthcare,3.8,yes,no,Not available,0117 301 5226,South West,SWIFT PCN,8391,4.853333333
+UWE Health Centre,3.7,yes,no,https://www.oldschoolsurgery.org.uk/uwe/,0117 328 6666,Not available,Not available,Not available,Not available
+Fishponds Family Practice,3.7,yes,no,http://www.thefishpondsfamilypractice.nhs.uk,0117 235 4220,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",13231,9.333333333
+The Old School Surgery,3.6,yes,no,https://www.oldschoolsurgery.org.uk,0117 965 3102,Midlands,FOSSEWAY PCN,7764,3.173333333
+Beechwood Medical Practice,3.7,yes,no,http://www.beechwoodmedicalpractice.co.uk,0117 908 2360,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",12391,8.413333333
+Wells Road Surgery,2.2,yes,no,Not available,0117 977 0018,South West,CONNEXUS PCN,9206,3.2
+Conygre Medical Centre,3.7,yes,no,http://www.stokegiffordmedical.co.uk,0117 979 9430,Not available,Not available,Not available,Not available
+Shirehampton Group Practice,3.6,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 916 2226,South West,NORTHERN ARC PCN,11187,7.91112
+Pioneer Ridingleaze,3.5,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919,Not available,Not available,Not available,Not available
+Shirehampton Group Practice Branch Surgery,3.4,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 982 2131,Not available,Not available,Not available,Not available
+Grange Road Surgery,3.4,yes,no,http://www.grangeroadsurgery.co.uk,0117 964 4343,South West,SWIFT PCN,11857,9.386666667
+Willow Tree Surgery,3.4,yes,no,http://www.southmeadhealth.nhs.uk,0117 950 7150,East of England,PETERBOROUGH PARTNERSHIPS PCN,5875,0.533333333
+Air Balloon Surgery,3.2,yes,no,https://www.airballoonsurgery.co.uk,0117 909 9912,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",13268,8.544
+Long Ashton Surgery,3.5,yes,no,http://www.tyntesfield.nhs.uk,01275 392134,Not available,Not available,Not available,Not available
+Nightingale Valley Practice,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300,South West,CONNEXUS PCN,15059,12.032
+Fireclay Health,3.4,yes,no,http://www.fireclayhealth.nhs.uk,0117 961 2161,South West,FOSS (FIRECLAY and OLD SCHOOL SURGERY) PCN,23862,10.76421461
+Birchwood Medical Practice,2.7,yes,no,https://www.birchwoodbristol.nhs.uk/,0117 330 4225,Midlands,APEX PCN,10288,11.52
+Riverside Surgery,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300,North East and Yorkshire,NORTH LINCOLNSHIRE EAST PCN,12190,7.916
+Southmead & Henbury Family Practice,3.0,yes,no,https://www.mendipvale.nhs.uk/,0117 950 7150,South West,CONCORD MENDIP PCN,11132,3.573333333
+East Trees Health Centre,2.0,yes,no,https://www.easttreeshealthcentre.co.uk/,0117 244 4123,South West,BRISTOL INNER CITY PCN,15596,8.413333333
+Monks Park Surgery,2.7,yes,no,https://www.mendipvale.nhs.uk/practices/monks-park/,0117 969 3106,South West,CONCORD MENDIP PCN,9028,3.327535439
+The Wellspring Surgery,2.0,yes,no,http://www.wellspringsurgerybristol.nhs.uk,0117 955 7711,Midlands,NOTTINGHAM CITY EAST PCN,10671,6.514666667
+Gloucester Road Medical Centre,1.8,yes,no,http://www.grmc.nhs.uk,0117 949 7774,South West,PHOENIX (BNSSG) PCN,21956,11.09333333
+The Malago Surgery,1.6,yes,no,https://bridgeviewmedical.nhs.uk/surgery-information/contact-information.php,0117 966 9724,Not available,Not available,Not available,Not available
+Pioneer Medical Group,3.4,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919,South West,NORTHERN ARC PCN,22321,12.12
+Fallodon Way Medical Centre,1.5,yes,no,http://fwmc.org.uk/,0117 962 4692,South West,AFFINITY (BNSSG) PCN,11525,6.980868773
+Lawrence Hill Health Centre,1.5,yes,no,https://www.lawrencehillhealthcentre.co.uk,0117 954 3060,South West,BRISTOL INNER CITY PCN,10099,5.426666667
+Bridge View Medical,1.2,yes,no,http://bridgeviewmedical.nhs.uk,0117 966 9724,South West,BRIDGE VIEW PCN,38773,18.31893333
+Montpelier Health Centre,0.8,yes,no,https://www.montpelierhealthcentre.co.uk/,0117 942 6811,South West,BRISTOL INNER CITY PCN,20620,10.544
+Gaywood House Surgery,1.5,yes,no,http://www.bridgeviewmedical.nhs.uk,0117 966 9724,Not available,Not available,Not available,Not available
+Bedminster Family Practice,1.3,yes,no,http://www.bedminsterfamilypractice.co.uk/index.aspx,0117 966 3149,South West,SWIFT PCN,12764,8.395733334
+BS1 Surgery,0.9,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724,Not available,Not available,Not available,Not available
+Marksbury Road Surgery,2.1,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724,Not available,Not available,Not available,Not available
+name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,Not available,Not available,Not available,Not available
+Hillview Family Practice,3.8,yes,no,http://www.hillviewfamilypractice.nhs.uk/,0117 301 5240,South West,SWIFT PCN,7239,1.906666667
+Hartwood Healthcare,3.8,yes,no,Not available,0117 301 5226,South West,SWIFT PCN,8391,4.853333333
+Beechwood Medical Practice,3.7,yes,no,http://www.beechwoodmedicalpractice.co.uk,0117 908 2360,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",12391,8.413333333
+UWE Health Centre,3.7,yes,no,https://www.oldschoolsurgery.org.uk/uwe/,0117 328 6666,Not available,Not available,Not available,Not available
+Student Health Service,0.1,yes,yes,http://www.bris.ac.uk/depts/studenthealthservice/,0117 330 2720,South West,HEALTHWEST PCN,19919,9.9
+The Armada Family Practice,3.7,yes,no,http://www.armadapractice.co.uk/,01275 832285,South West,SWIFT PCN,16298,8.970666667
+The Old School Surgery,3.6,yes,no,https://www.oldschoolsurgery.org.uk,0117 965 3102,Midlands,FOSSEWAY PCN,7764,3.173333333
+Fishponds Family Practice,3.7,yes,no,http://www.thefishpondsfamilypractice.nhs.uk,0117 235 4220,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",13231,9.333333333
+Shirehampton Group Practice,3.6,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 916 2226,South West,NORTHERN ARC PCN,11187,7.91112
+Willow Tree Surgery,3.4,yes,no,http://www.southmeadhealth.nhs.uk,0117 950 7150,East of England,PETERBOROUGH PARTNERSHIPS PCN,5875,0.533333333
+Long Ashton Surgery,3.5,yes,no,http://www.tyntesfield.nhs.uk,01275 392134,Not available,Not available,Not available,Not available
+Pioneer Ridingleaze,3.5,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919,Not available,Not available,Not available,Not available
+Conygre Medical Centre,3.7,yes,no,http://www.stokegiffordmedical.co.uk,0117 979 9430,Not available,Not available,Not available,Not available
+Fireclay Health,3.4,yes,no,http://www.fireclayhealth.nhs.uk,0117 961 2161,South West,FOSS (FIRECLAY and OLD SCHOOL SURGERY) PCN,23862,10.76421461
+Shirehampton Group Practice Branch Surgery,3.4,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 982 2131,Not available,Not available,Not available,Not available
+Pioneer Medical Group,3.4,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919,South West,NORTHERN ARC PCN,22321,12.12
+Southmead & Henbury Family Practice,3.0,yes,no,https://www.mendipvale.nhs.uk/,0117 950 7150,South West,CONCORD MENDIP PCN,11132,3.573333333
+Air Balloon Surgery,3.2,yes,no,https://www.airballoonsurgery.co.uk,0117 909 9912,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",13268,8.544
+Riverside Surgery,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300,North East and Yorkshire,NORTH LINCOLNSHIRE EAST PCN,12190,7.916
+Birchwood Medical Practice,2.7,yes,no,https://www.birchwoodbristol.nhs.uk/,0117 330 4225,Midlands,APEX PCN,10288,11.52
+Nightingale Valley Practice,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300,South West,CONNEXUS PCN,15059,12.032
+Priory Surgery,2.6,yes,no,https://www.priorysurgerybristol.co.uk/,0117 949 3988,South East,CYGNET PCN,12145,6.68976
+Greenway Community Practice,2.6,yes,no,http://www.greenwaycommunitypractice.nhs.uk,0117 959 8939,South West,AFFINITY (BNSSG) PCN,10747,4.553066667
+Grange Road Surgery,3.4,yes,no,http://www.grangeroadsurgery.co.uk,0117 964 4343,South West,SWIFT PCN,11857,9.386666667
+Monks Park Surgery,2.7,yes,no,https://www.mendipvale.nhs.uk/practices/monks-park/,0117 969 3106,South West,CONCORD MENDIP PCN,9028,3.327535439
+The Crest Family Practice,2.4,yes,no,http://www.crestfamilypractice.co.uk,0117 944 9700,South West,SWIFT PCN,7104,2.807339696
+The Lennard Surgery,2.5,yes,no,http://www.thelennardsurgery.co.uk,0117 964 2211,South West,SWIFT PCN,8601,6.448533333
+The Merrywood Practice,2.3,yes,no,http://www.merrywoodpractice.nhs.uk/,0117 944 9750,South West,SWIFT PCN,7279,5.253333333
+Westbury on Trym Primary Care Centre,2.2,yes,no,http://www.westburysurgery.co.uk,0117 962 3406,South West,AFFINITY (BNSSG) PCN,11897,6.48
+Wells Road Surgery,2.2,yes,no,Not available,0117 977 0018,South West,CONNEXUS PCN,9206,3.2
+Sea Mills Surgery,2.4,yes,no,http://www.seamillssurgery.nhs.uk/,0117 968 1182,South West,CONCORD MENDIP PCN,8443,5.2
+Horfield HC,2.3,yes,no,http://www.horfieldhealthcentre.nhs.uk,0117 969 5391,South West,PHOENIX (BNSSG) PCN,17706,15.3
+Gloucester Road Medical Centre,1.8,yes,no,http://www.grmc.nhs.uk,0117 949 7774,South West,PHOENIX (BNSSG) PCN,21956,11.09333333
+East Trees Health Centre,2.0,yes,no,https://www.easttreeshealthcentre.co.uk/,0117 244 4123,South West,BRISTOL INNER CITY PCN,15596,8.413333333
+The Wellspring Surgery,2.0,yes,no,http://www.wellspringsurgerybristol.nhs.uk,0117 955 7711,Midlands,NOTTINGHAM CITY EAST PCN,10671,6.514666667
+The Malago Surgery,1.6,yes,no,https://bridgeviewmedical.nhs.uk/surgery-information/contact-information.php,0117 966 9724,Not available,Not available,Not available,Not available
+Marksbury Road Surgery,2.1,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724,Not available,Not available,Not available,Not available
+Bedminster Family Practice,1.3,yes,no,http://www.bedminsterfamilypractice.co.uk/index.aspx,0117 966 3149,South West,SWIFT PCN,12764,8.395733334
+Lawrence Hill Health Centre,1.5,yes,no,https://www.lawrencehillhealthcentre.co.uk,0117 954 3060,South West,BRISTOL INNER CITY PCN,10099,5.426666667
+Bridge View Medical,1.2,yes,no,http://bridgeviewmedical.nhs.uk,0117 966 9724,South West,BRIDGE VIEW PCN,38773,18.31893333
+Gaywood House Surgery,1.5,yes,no,http://www.bridgeviewmedical.nhs.uk,0117 966 9724,Not available,Not available,Not available,Not available
+Fallodon Way Medical Centre,1.5,yes,no,http://fwmc.org.uk/,0117 962 4692,South West,AFFINITY (BNSSG) PCN,11525,6.980868773
+BS1 Surgery,0.9,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724,Not available,Not available,Not available,Not available
+Montpelier Health Centre,0.8,yes,no,https://www.montpelierhealthcentre.co.uk/,0117 942 6811,South West,BRISTOL INNER CITY PCN,20620,10.544
+Broadmead Medical Centre,0.8,yes,yes,https://www.broadmeadmedicalcentre.nhs.uk,0117 954 9828,South West,BRISTOL INNER CITY PCN,11697,4.44
+Charlotte Keel Medical Practice,1.5,yes,yes,http://www.charlottekeelmedical.co.uk,0117 902 7145,South West,BRISTOL INNER CITY PCN,19845,12.87733333
+Pembroke Road Surgery,0.5,yes,yes,https://www.pembrokeroadsurgery.co.uk,0117 973 3790,South West,HEALTHWEST PCN,20054,11.17333333
+The Family Practice,0.1,yes,yes,https://www.thefamilypracticewesterncollege.nhs.uk/,0117 946 6455,North West,BARROW AND MILLOM PCN,2986,2.68
+Whiteladies Medical Group,0.3,yes,yes,http://www.whiteladiesmedical.nhs.uk,0117 973 1201,South West,HEALTHWEST PCN,15716,10.34666667
+Compass Health,0.7,no,yes,http://homelesshealthservice.co.uk/,0117 989 3450,Not available,Not available,Not available,Not available
+name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,Not available,Not available,Not available,Not available
+The Armada Family Practice,3.7,yes,no,http://www.armadapractice.co.uk/,01275 832285,South West,SWIFT PCN,16298,8.970666667
+Hillview Family Practice,3.8,yes,no,http://www.hillviewfamilypractice.nhs.uk/,0117 301 5240,South West,SWIFT PCN,7239,1.906666667
+Hartwood Healthcare,3.8,yes,no,Not available,0117 301 5226,South West,SWIFT PCN,8391,4.853333333
+Fishponds Family Practice,3.7,yes,no,http://www.thefishpondsfamilypractice.nhs.uk,0117 235 4220,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",13231,9.333333333
+Beechwood Medical Practice,3.7,yes,no,http://www.beechwoodmedicalpractice.co.uk,0117 908 2360,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",12391,8.413333333
+Conygre Medical Centre,3.7,yes,no,http://www.stokegiffordmedical.co.uk,0117 979 9430,Not available,Not available,Not available,Not available
+Shirehampton Group Practice,3.6,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 916 2226,South West,NORTHERN ARC PCN,11187,7.91112
+Student Health Service,0.1,yes,yes,http://www.bris.ac.uk/depts/studenthealthservice/,0117 330 2720,South West,HEALTHWEST PCN,19919,9.9
+Long Ashton Surgery,3.5,yes,no,http://www.tyntesfield.nhs.uk,01275 392134,Not available,Not available,Not available,Not available
+The Old School Surgery,3.6,yes,no,https://www.oldschoolsurgery.org.uk,0117 965 3102,Midlands,FOSSEWAY PCN,7764,3.173333333
+Pioneer Medical Group,3.4,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919,South West,NORTHERN ARC PCN,22321,12.12
+Pioneer Ridingleaze,3.5,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919,Not available,Not available,Not available,Not available
+Fireclay Health,3.4,yes,no,http://www.fireclayhealth.nhs.uk,0117 961 2161,South West,FOSS (FIRECLAY and OLD SCHOOL SURGERY) PCN,23862,10.76421461
+Shirehampton Group Practice Branch Surgery,3.4,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 982 2131,Not available,Not available,Not available,Not available
+Grange Road Surgery,3.4,yes,no,http://www.grangeroadsurgery.co.uk,0117 964 4343,South West,SWIFT PCN,11857,9.386666667
+Air Balloon Surgery,3.2,yes,no,https://www.airballoonsurgery.co.uk,0117 909 9912,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",13268,8.544
+Southmead & Henbury Family Practice,3.0,yes,no,https://www.mendipvale.nhs.uk/,0117 950 7150,South West,CONCORD MENDIP PCN,11132,3.573333333
+Willow Tree Surgery,3.4,yes,no,http://www.southmeadhealth.nhs.uk,0117 950 7150,East of England,PETERBOROUGH PARTNERSHIPS PCN,5875,0.533333333
+Birchwood Medical Practice,2.7,yes,no,https://www.birchwoodbristol.nhs.uk/,0117 330 4225,Midlands,APEX PCN,10288,11.52
+Nightingale Valley Practice,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300,South West,CONNEXUS PCN,15059,12.032
+UWE Health Centre,3.7,yes,no,https://www.oldschoolsurgery.org.uk/uwe/,0117 328 6666,Not available,Not available,Not available,Not available
+Riverside Surgery,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300,North East and Yorkshire,NORTH LINCOLNSHIRE EAST PCN,12190,7.916
+Priory Surgery,2.6,yes,no,https://www.priorysurgerybristol.co.uk/,0117 949 3988,South East,CYGNET PCN,12145,6.68976
+Monks Park Surgery,2.7,yes,no,https://www.mendipvale.nhs.uk/practices/monks-park/,0117 969 3106,South West,CONCORD MENDIP PCN,9028,3.327535439
+Sea Mills Surgery,2.4,yes,no,http://www.seamillssurgery.nhs.uk/,0117 968 1182,South West,CONCORD MENDIP PCN,8443,5.2
+Greenway Community Practice,2.6,yes,no,http://www.greenwaycommunitypractice.nhs.uk,0117 959 8939,South West,AFFINITY (BNSSG) PCN,10747,4.553066667
+Horfield HC,2.3,yes,no,http://www.horfieldhealthcentre.nhs.uk,0117 969 5391,South West,PHOENIX (BNSSG) PCN,17706,15.3
+The Lennard Surgery,2.5,yes,no,http://www.thelennardsurgery.co.uk,0117 964 2211,South West,SWIFT PCN,8601,6.448533333
+The Merrywood Practice,2.3,yes,no,http://www.merrywoodpractice.nhs.uk/,0117 944 9750,South West,SWIFT PCN,7279,5.253333333
+Westbury on Trym Primary Care Centre,2.2,yes,no,http://www.westburysurgery.co.uk,0117 962 3406,South West,AFFINITY (BNSSG) PCN,11897,6.48
+Wells Road Surgery,2.2,yes,no,Not available,0117 977 0018,South West,CONNEXUS PCN,9206,3.2
+The Wellspring Surgery,2.0,yes,no,http://www.wellspringsurgerybristol.nhs.uk,0117 955 7711,Midlands,NOTTINGHAM CITY EAST PCN,10671,6.514666667
+The Crest Family Practice,2.4,yes,no,http://www.crestfamilypractice.co.uk,0117 944 9700,South West,SWIFT PCN,7104,2.807339696
+East Trees Health Centre,2.0,yes,no,https://www.easttreeshealthcentre.co.uk/,0117 244 4123,South West,BRISTOL INNER CITY PCN,15596,8.413333333
+Marksbury Road Surgery,2.1,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724,Not available,Not available,Not available,Not available
+Gaywood House Surgery,1.5,yes,no,http://www.bridgeviewmedical.nhs.uk,0117 966 9724,Not available,Not available,Not available,Not available
+The Malago Surgery,1.6,yes,no,https://bridgeviewmedical.nhs.uk/surgery-information/contact-information.php,0117 966 9724,Not available,Not available,Not available,Not available
+Fallodon Way Medical Centre,1.5,yes,no,http://fwmc.org.uk/,0117 962 4692,South West,AFFINITY (BNSSG) PCN,11525,6.980868773
+Bedminster Family Practice,1.3,yes,no,http://www.bedminsterfamilypractice.co.uk/index.aspx,0117 966 3149,South West,SWIFT PCN,12764,8.395733334
+Lawrence Hill Health Centre,1.5,yes,no,https://www.lawrencehillhealthcentre.co.uk,0117 954 3060,South West,BRISTOL INNER CITY PCN,10099,5.426666667
+BS1 Surgery,0.9,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724,Not available,Not available,Not available,Not available
+Broadmead Medical Centre,0.8,yes,yes,https://www.broadmeadmedicalcentre.nhs.uk,0117 954 9828,South West,BRISTOL INNER CITY PCN,11697,4.44
+Montpelier Health Centre,0.8,yes,no,https://www.montpelierhealthcentre.co.uk/,0117 942 6811,South West,BRISTOL INNER CITY PCN,20620,10.544
+Bridge View Medical,1.2,yes,no,http://bridgeviewmedical.nhs.uk,0117 966 9724,South West,BRIDGE VIEW PCN,38773,18.31893333
+Charlotte Keel Medical Practice,1.5,yes,yes,http://www.charlottekeelmedical.co.uk,0117 902 7145,South West,BRISTOL INNER CITY PCN,19845,12.87733333
+Compass Health,0.7,no,yes,http://homelesshealthservice.co.uk/,0117 989 3450,Not available,Not available,Not available,Not available
+Pembroke Road Surgery,0.5,yes,yes,https://www.pembrokeroadsurgery.co.uk,0117 973 3790,South West,HEALTHWEST PCN,20054,11.17333333
+Whiteladies Medical Group,0.3,yes,yes,http://www.whiteladiesmedical.nhs.uk,0117 973 1201,South West,HEALTHWEST PCN,15716,10.34666667
+The Family Practice,0.1,yes,yes,https://www.thefamilypracticewesterncollege.nhs.uk/,0117 946 6455,North West,BARROW AND MILLOM PCN,2986,2.68
+Gloucester Road Medical Centre,1.8,yes,no,http://www.grmc.nhs.uk,0117 949 7774,South West,PHOENIX (BNSSG) PCN,21956,11.09333333
+name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,Not available,Not available,Not available,Not available
+Gloucester Road Medical Centre,1.8,yes,no,http://www.grmc.nhs.uk,0117 949 7774,South West,PHOENIX (BNSSG) PCN,21956,11.09333333
+Marksbury Road Surgery,2.1,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724,Not available,Not available,Not available,Not available
+The Merrywood Practice,2.3,yes,no,http://www.merrywoodpractice.nhs.uk/,0117 944 9750,South West,SWIFT PCN,7279,5.253333333
+East Trees Health Centre,2.0,yes,no,https://www.easttreeshealthcentre.co.uk/,0117 244 4123,South West,BRISTOL INNER CITY PCN,15596,8.413333333
+Westbury on Trym Primary Care Centre,2.2,yes,no,http://www.westburysurgery.co.uk,0117 962 3406,South West,AFFINITY (BNSSG) PCN,11897,6.48
+Wells Road Surgery,2.2,yes,no,Not available,0117 977 0018,South West,CONNEXUS PCN,9206,3.2
+The Wellspring Surgery,2.0,yes,no,http://www.wellspringsurgerybristol.nhs.uk,0117 955 7711,Midlands,NOTTINGHAM CITY EAST PCN,10671,6.514666667
+Horfield HC,2.3,yes,no,http://www.horfieldhealthcentre.nhs.uk,0117 969 5391,South West,PHOENIX (BNSSG) PCN,17706,15.3
+The Malago Surgery,1.6,yes,no,https://bridgeviewmedical.nhs.uk/surgery-information/contact-information.php,0117 966 9724,Not available,Not available,Not available,Not available
+Lawrence Hill Health Centre,1.5,yes,no,https://www.lawrencehillhealthcentre.co.uk,0117 954 3060,South West,BRISTOL INNER CITY PCN,10099,5.426666667
+Bedminster Family Practice,1.3,yes,no,http://www.bedminsterfamilypractice.co.uk/index.aspx,0117 966 3149,South West,SWIFT PCN,12764,8.395733334
+Gaywood House Surgery,1.5,yes,no,http://www.bridgeviewmedical.nhs.uk,0117 966 9724,Not available,Not available,Not available,Not available
+Fallodon Way Medical Centre,1.5,yes,no,http://fwmc.org.uk/,0117 962 4692,South West,AFFINITY (BNSSG) PCN,11525,6.980868773
+BS1 Surgery,0.9,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724,Not available,Not available,Not available,Not available
+Hillview Family Practice,3.8,yes,no,http://www.hillviewfamilypractice.nhs.uk/,0117 301 5240,South West,SWIFT PCN,7239,1.906666667
+Conygre Medical Centre,3.7,yes,no,http://www.stokegiffordmedical.co.uk,0117 979 9430,Not available,Not available,Not available,Not available
+Hartwood Healthcare,3.8,yes,no,Not available,0117 301 5226,South West,SWIFT PCN,8391,4.853333333
+The Armada Family Practice,3.7,yes,no,http://www.armadapractice.co.uk/,01275 832285,South West,SWIFT PCN,16298,8.970666667
+Fishponds Family Practice,3.7,yes,no,http://www.thefishpondsfamilypractice.nhs.uk,0117 235 4220,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",13231,9.333333333
+UWE Health Centre,3.7,yes,no,https://www.oldschoolsurgery.org.uk/uwe/,0117 328 6666,Not available,Not available,Not available,Not available
+Bridge View Medical,1.2,yes,no,http://bridgeviewmedical.nhs.uk,0117 966 9724,South West,BRIDGE VIEW PCN,38773,18.31893333
+Montpelier Health Centre,0.8,yes,no,https://www.montpelierhealthcentre.co.uk/,0117 942 6811,South West,BRISTOL INNER CITY PCN,20620,10.544
+The Old School Surgery,3.6,yes,no,https://www.oldschoolsurgery.org.uk,0117 965 3102,Midlands,FOSSEWAY PCN,7764,3.173333333
+Long Ashton Surgery,3.5,yes,no,http://www.tyntesfield.nhs.uk,01275 392134,Not available,Not available,Not available,Not available
+Willow Tree Surgery,3.4,yes,no,http://www.southmeadhealth.nhs.uk,0117 950 7150,East of England,PETERBOROUGH PARTNERSHIPS PCN,5875,0.533333333
+Beechwood Medical Practice,3.7,yes,no,http://www.beechwoodmedicalpractice.co.uk,0117 908 2360,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",12391,8.413333333
+Fireclay Health,3.4,yes,no,http://www.fireclayhealth.nhs.uk,0117 961 2161,South West,FOSS (FIRECLAY and OLD SCHOOL SURGERY) PCN,23862,10.76421461
+Shirehampton Group Practice,3.6,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 916 2226,South West,NORTHERN ARC PCN,11187,7.91112
+Grange Road Surgery,3.4,yes,no,http://www.grangeroadsurgery.co.uk,0117 964 4343,South West,SWIFT PCN,11857,9.386666667
+Pioneer Ridingleaze,3.5,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919,Not available,Not available,Not available,Not available
+Shirehampton Group Practice Branch Surgery,3.4,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 982 2131,Not available,Not available,Not available,Not available
+Air Balloon Surgery,3.2,yes,no,https://www.airballoonsurgery.co.uk,0117 909 9912,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",13268,8.544
+Southmead & Henbury Family Practice,3.0,yes,no,https://www.mendipvale.nhs.uk/,0117 950 7150,South West,CONCORD MENDIP PCN,11132,3.573333333
+Nightingale Valley Practice,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300,South West,CONNEXUS PCN,15059,12.032
+Pioneer Medical Group,3.4,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919,South West,NORTHERN ARC PCN,22321,12.12
+Monks Park Surgery,2.7,yes,no,https://www.mendipvale.nhs.uk/practices/monks-park/,0117 969 3106,South West,CONCORD MENDIP PCN,9028,3.327535439
+Riverside Surgery,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300,North East and Yorkshire,NORTH LINCOLNSHIRE EAST PCN,12190,7.916
+Greenway Community Practice,2.6,yes,no,http://www.greenwaycommunitypractice.nhs.uk,0117 959 8939,South West,AFFINITY (BNSSG) PCN,10747,4.553066667
+Birchwood Medical Practice,2.7,yes,no,https://www.birchwoodbristol.nhs.uk/,0117 330 4225,Midlands,APEX PCN,10288,11.52
+Priory Surgery,2.6,yes,no,https://www.priorysurgerybristol.co.uk/,0117 949 3988,South East,CYGNET PCN,12145,6.68976
+The Lennard Surgery,2.5,yes,no,http://www.thelennardsurgery.co.uk,0117 964 2211,South West,SWIFT PCN,8601,6.448533333
+The Crest Family Practice,2.4,yes,no,http://www.crestfamilypractice.co.uk,0117 944 9700,South West,SWIFT PCN,7104,2.807339696
+Charlotte Keel Medical Practice,1.5,yes,yes,http://www.charlottekeelmedical.co.uk,0117 902 7145,South West,BRISTOL INNER CITY PCN,19845,12.87733333
+Pembroke Road Surgery,0.5,yes,yes,https://www.pembrokeroadsurgery.co.uk,0117 973 3790,South West,HEALTHWEST PCN,20054,11.17333333
+Compass Health,0.7,no,yes,http://homelesshealthservice.co.uk/,0117 989 3450,Not available,Not available,Not available,Not available
+Broadmead Medical Centre,0.8,yes,yes,https://www.broadmeadmedicalcentre.nhs.uk,0117 954 9828,South West,BRISTOL INNER CITY PCN,11697,4.44
+The Family Practice,0.1,yes,yes,https://www.thefamilypracticewesterncollege.nhs.uk/,0117 946 6455,North West,BARROW AND MILLOM PCN,2986,2.68
+Student Health Service,0.1,yes,yes,http://www.bris.ac.uk/depts/studenthealthservice/,0117 330 2720,South West,HEALTHWEST PCN,19919,9.9
+Sea Mills Surgery,2.4,yes,no,http://www.seamillssurgery.nhs.uk/,0117 968 1182,South West,CONCORD MENDIP PCN,8443,5.2
+Whiteladies Medical Group,0.3,yes,yes,http://www.whiteladiesmedical.nhs.uk,0117 973 1201,South West,HEALTHWEST PCN,15716,10.34666667
+name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,Not available,Not available,Not available,Not available
+Student Health Service,0.1,yes,yes,http://www.bris.ac.uk/depts/studenthealthservice/,0117 330 2720,South West,HEALTHWEST PCN,19919,9.9
+Fishponds Family Practice,3.7,yes,no,http://www.thefishpondsfamilypractice.nhs.uk,0117 235 4220,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",13231,9.333333333
+UWE Health Centre,3.7,yes,no,https://www.oldschoolsurgery.org.uk/uwe/,0117 328 6666,Not available,Not available,Not available,Not available
+Hillview Family Practice,3.8,yes,no,http://www.hillviewfamilypractice.nhs.uk/,0117 301 5240,South West,SWIFT PCN,7239,1.906666667
+Beechwood Medical Practice,3.7,yes,no,http://www.beechwoodmedicalpractice.co.uk,0117 908 2360,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",12391,8.413333333
+The Armada Family Practice,3.7,yes,no,http://www.armadapractice.co.uk/,01275 832285,South West,SWIFT PCN,16298,8.970666667
+Hartwood Healthcare,3.8,yes,no,Not available,0117 301 5226,South West,SWIFT PCN,8391,4.853333333
+Conygre Medical Centre,3.7,yes,no,http://www.stokegiffordmedical.co.uk,0117 979 9430,Not available,Not available,Not available,Not available
+Shirehampton Group Practice,3.6,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 916 2226,South West,NORTHERN ARC PCN,11187,7.91112
+Pioneer Ridingleaze,3.5,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919,Not available,Not available,Not available,Not available
+Shirehampton Group Practice Branch Surgery,3.4,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 982 2131,Not available,Not available,Not available,Not available
+Long Ashton Surgery,3.5,yes,no,http://www.tyntesfield.nhs.uk,01275 392134,Not available,Not available,Not available,Not available
+Willow Tree Surgery,3.4,yes,no,http://www.southmeadhealth.nhs.uk,0117 950 7150,East of England,PETERBOROUGH PARTNERSHIPS PCN,5875,0.533333333
+Pioneer Medical Group,3.4,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919,South West,NORTHERN ARC PCN,22321,12.12
+The Old School Surgery,3.6,yes,no,https://www.oldschoolsurgery.org.uk,0117 965 3102,Midlands,FOSSEWAY PCN,7764,3.173333333
+Grange Road Surgery,3.4,yes,no,http://www.grangeroadsurgery.co.uk,0117 964 4343,South West,SWIFT PCN,11857,9.386666667
+Fireclay Health,3.4,yes,no,http://www.fireclayhealth.nhs.uk,0117 961 2161,South West,FOSS (FIRECLAY and OLD SCHOOL SURGERY) PCN,23862,10.76421461
+Southmead & Henbury Family Practice,3.0,yes,no,https://www.mendipvale.nhs.uk/,0117 950 7150,South West,CONCORD MENDIP PCN,11132,3.573333333
+Air Balloon Surgery,3.2,yes,no,https://www.airballoonsurgery.co.uk,0117 909 9912,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",13268,8.544
+Riverside Surgery,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300,North East and Yorkshire,NORTH LINCOLNSHIRE EAST PCN,12190,7.916
+Monks Park Surgery,2.7,yes,no,https://www.mendipvale.nhs.uk/practices/monks-park/,0117 969 3106,South West,CONCORD MENDIP PCN,9028,3.327535439
+Birchwood Medical Practice,2.7,yes,no,https://www.birchwoodbristol.nhs.uk/,0117 330 4225,Midlands,APEX PCN,10288,11.52
+Greenway Community Practice,2.6,yes,no,http://www.greenwaycommunitypractice.nhs.uk,0117 959 8939,South West,AFFINITY (BNSSG) PCN,10747,4.553066667
+Priory Surgery,2.6,yes,no,https://www.priorysurgerybristol.co.uk/,0117 949 3988,South East,CYGNET PCN,12145,6.68976
+The Lennard Surgery,2.5,yes,no,http://www.thelennardsurgery.co.uk,0117 964 2211,South West,SWIFT PCN,8601,6.448533333
+Nightingale Valley Practice,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300,South West,CONNEXUS PCN,15059,12.032
+The Merrywood Practice,2.3,yes,no,http://www.merrywoodpractice.nhs.uk/,0117 944 9750,South West,SWIFT PCN,7279,5.253333333
+The Crest Family Practice,2.4,yes,no,http://www.crestfamilypractice.co.uk,0117 944 9700,South West,SWIFT PCN,7104,2.807339696
+Sea Mills Surgery,2.4,yes,no,http://www.seamillssurgery.nhs.uk/,0117 968 1182,South West,CONCORD MENDIP PCN,8443,5.2
+Wells Road Surgery,2.2,yes,no,Not available,0117 977 0018,South West,CONNEXUS PCN,9206,3.2
+Marksbury Road Surgery,2.1,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724,Not available,Not available,Not available,Not available
+Horfield HC,2.3,yes,no,http://www.horfieldhealthcentre.nhs.uk,0117 969 5391,South West,PHOENIX (BNSSG) PCN,17706,15.3
+The Wellspring Surgery,2.0,yes,no,http://www.wellspringsurgerybristol.nhs.uk,0117 955 7711,Midlands,NOTTINGHAM CITY EAST PCN,10671,6.514666667
+Westbury on Trym Primary Care Centre,2.2,yes,no,http://www.westburysurgery.co.uk,0117 962 3406,South West,AFFINITY (BNSSG) PCN,11897,6.48
+East Trees Health Centre,2.0,yes,no,https://www.easttreeshealthcentre.co.uk/,0117 244 4123,South West,BRISTOL INNER CITY PCN,15596,8.413333333
+Gaywood House Surgery,1.5,yes,no,http://www.bridgeviewmedical.nhs.uk,0117 966 9724,Not available,Not available,Not available,Not available
+Gloucester Road Medical Centre,1.8,yes,no,http://www.grmc.nhs.uk,0117 949 7774,South West,PHOENIX (BNSSG) PCN,21956,11.09333333
+Fallodon Way Medical Centre,1.5,yes,no,http://fwmc.org.uk/,0117 962 4692,South West,AFFINITY (BNSSG) PCN,11525,6.980868773
+Bridge View Medical,1.2,yes,no,http://bridgeviewmedical.nhs.uk,0117 966 9724,South West,BRIDGE VIEW PCN,38773,18.31893333
+BS1 Surgery,0.9,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724,Not available,Not available,Not available,Not available
+Lawrence Hill Health Centre,1.5,yes,no,https://www.lawrencehillhealthcentre.co.uk,0117 954 3060,South West,BRISTOL INNER CITY PCN,10099,5.426666667
+The Malago Surgery,1.6,yes,no,https://bridgeviewmedical.nhs.uk/surgery-information/contact-information.php,0117 966 9724,Not available,Not available,Not available,Not available
+Bedminster Family Practice,1.3,yes,no,http://www.bedminsterfamilypractice.co.uk/index.aspx,0117 966 3149,South West,SWIFT PCN,12764,8.395733334
+Broadmead Medical Centre,0.8,yes,yes,https://www.broadmeadmedicalcentre.nhs.uk,0117 954 9828,South West,BRISTOL INNER CITY PCN,11697,4.44
+Charlotte Keel Medical Practice,1.5,yes,yes,http://www.charlottekeelmedical.co.uk,0117 902 7145,South West,BRISTOL INNER CITY PCN,19845,12.87733333
+Compass Health,0.7,no,yes,http://homelesshealthservice.co.uk/,0117 989 3450,Not available,Not available,Not available,Not available
+Pembroke Road Surgery,0.5,yes,yes,https://www.pembrokeroadsurgery.co.uk,0117 973 3790,South West,HEALTHWEST PCN,20054,11.17333333
+The Family Practice,0.1,yes,yes,https://www.thefamilypracticewesterncollege.nhs.uk/,0117 946 6455,North West,BARROW AND MILLOM PCN,2986,2.68
+Montpelier Health Centre,0.8,yes,no,https://www.montpelierhealthcentre.co.uk/,0117 942 6811,South West,BRISTOL INNER CITY PCN,20620,10.544
+Whiteladies Medical Group,0.3,yes,yes,http://www.whiteladiesmedical.nhs.uk,0117 973 1201,South West,HEALTHWEST PCN,15716,10.34666667
+name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,Not available,Not available,Not available,Not available
+Marksbury Road Surgery,2.1,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724,Not available,Not available,Not available,Not available
+Lawrence Hill Health Centre,1.5,yes,no,https://www.lawrencehillhealthcentre.co.uk,0117 954 3060,South West,BRISTOL INNER CITY PCN,10099,5.426666667
+Gaywood House Surgery,1.5,yes,no,http://www.bridgeviewmedical.nhs.uk,0117 966 9724,Not available,Not available,Not available,Not available
+East Trees Health Centre,2.0,yes,no,https://www.easttreeshealthcentre.co.uk/,0117 244 4123,South West,BRISTOL INNER CITY PCN,15596,8.413333333
+Fallodon Way Medical Centre,1.5,yes,no,http://fwmc.org.uk/,0117 962 4692,South West,AFFINITY (BNSSG) PCN,11525,6.980868773
+The Wellspring Surgery,2.0,yes,no,http://www.wellspringsurgerybristol.nhs.uk,0117 955 7711,Midlands,NOTTINGHAM CITY EAST PCN,10671,6.514666667
+Bridge View Medical,1.2,yes,no,http://bridgeviewmedical.nhs.uk,0117 966 9724,South West,BRIDGE VIEW PCN,38773,18.31893333
+The Malago Surgery,1.6,yes,no,https://bridgeviewmedical.nhs.uk/surgery-information/contact-information.php,0117 966 9724,Not available,Not available,Not available,Not available
+Gloucester Road Medical Centre,1.8,yes,no,http://www.grmc.nhs.uk,0117 949 7774,South West,PHOENIX (BNSSG) PCN,21956,11.09333333
+Charlotte Keel Medical Practice,1.5,yes,yes,http://www.charlottekeelmedical.co.uk,0117 902 7145,South West,BRISTOL INNER CITY PCN,19845,12.87733333
+Bedminster Family Practice,1.3,yes,no,http://www.bedminsterfamilypractice.co.uk/index.aspx,0117 966 3149,South West,SWIFT PCN,12764,8.395733334
+Montpelier Health Centre,0.8,yes,no,https://www.montpelierhealthcentre.co.uk/,0117 942 6811,South West,BRISTOL INNER CITY PCN,20620,10.544
+BS1 Surgery,0.9,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724,Not available,Not available,Not available,Not available
+Broadmead Medical Centre,0.8,yes,yes,https://www.broadmeadmedicalcentre.nhs.uk,0117 954 9828,South West,BRISTOL INNER CITY PCN,11697,4.44
+Pembroke Road Surgery,0.5,yes,yes,https://www.pembrokeroadsurgery.co.uk,0117 973 3790,South West,HEALTHWEST PCN,20054,11.17333333
+The Armada Family Practice,3.7,yes,no,http://www.armadapractice.co.uk/,01275 832285,South West,SWIFT PCN,16298,8.970666667
+Hartwood Healthcare,3.8,yes,no,Not available,0117 301 5226,South West,SWIFT PCN,8391,4.853333333
+Compass Health,0.7,no,yes,http://homelesshealthservice.co.uk/,0117 989 3450,Not available,Not available,Not available,Not available
+UWE Health Centre,3.7,yes,no,https://www.oldschoolsurgery.org.uk/uwe/,0117 328 6666,Not available,Not available,Not available,Not available
+Hillview Family Practice,3.8,yes,no,http://www.hillviewfamilypractice.nhs.uk/,0117 301 5240,South West,SWIFT PCN,7239,1.906666667
+Fishponds Family Practice,3.7,yes,no,http://www.thefishpondsfamilypractice.nhs.uk,0117 235 4220,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",13231,9.333333333
+Conygre Medical Centre,3.7,yes,no,http://www.stokegiffordmedical.co.uk,0117 979 9430,Not available,Not available,Not available,Not available
+Shirehampton Group Practice,3.6,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 916 2226,South West,NORTHERN ARC PCN,11187,7.91112
+The Old School Surgery,3.6,yes,no,https://www.oldschoolsurgery.org.uk,0117 965 3102,Midlands,FOSSEWAY PCN,7764,3.173333333
+Willow Tree Surgery,3.4,yes,no,http://www.southmeadhealth.nhs.uk,0117 950 7150,East of England,PETERBOROUGH PARTNERSHIPS PCN,5875,0.533333333
+Long Ashton Surgery,3.5,yes,no,http://www.tyntesfield.nhs.uk,01275 392134,Not available,Not available,Not available,Not available
+Beechwood Medical Practice,3.7,yes,no,http://www.beechwoodmedicalpractice.co.uk,0117 908 2360,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",12391,8.413333333
+Pioneer Ridingleaze,3.5,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919,Not available,Not available,Not available,Not available
+Grange Road Surgery,3.4,yes,no,http://www.grangeroadsurgery.co.uk,0117 964 4343,South West,SWIFT PCN,11857,9.386666667
+Pioneer Medical Group,3.4,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919,South West,NORTHERN ARC PCN,22321,12.12
+Fireclay Health,3.4,yes,no,http://www.fireclayhealth.nhs.uk,0117 961 2161,South West,FOSS (FIRECLAY and OLD SCHOOL SURGERY) PCN,23862,10.76421461
+Air Balloon Surgery,3.2,yes,no,https://www.airballoonsurgery.co.uk,0117 909 9912,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",13268,8.544
+Riverside Surgery,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300,North East and Yorkshire,NORTH LINCOLNSHIRE EAST PCN,12190,7.916
+Nightingale Valley Practice,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300,South West,CONNEXUS PCN,15059,12.032
+Monks Park Surgery,2.7,yes,no,https://www.mendipvale.nhs.uk/practices/monks-park/,0117 969 3106,South West,CONCORD MENDIP PCN,9028,3.327535439
+Greenway Community Practice,2.6,yes,no,http://www.greenwaycommunitypractice.nhs.uk,0117 959 8939,South West,AFFINITY (BNSSG) PCN,10747,4.553066667
+Birchwood Medical Practice,2.7,yes,no,https://www.birchwoodbristol.nhs.uk/,0117 330 4225,Midlands,APEX PCN,10288,11.52
+Priory Surgery,2.6,yes,no,https://www.priorysurgerybristol.co.uk/,0117 949 3988,South East,CYGNET PCN,12145,6.68976
+Shirehampton Group Practice Branch Surgery,3.4,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 982 2131,Not available,Not available,Not available,Not available
+The Crest Family Practice,2.4,yes,no,http://www.crestfamilypractice.co.uk,0117 944 9700,South West,SWIFT PCN,7104,2.807339696
+Southmead & Henbury Family Practice,3.0,yes,no,https://www.mendipvale.nhs.uk/,0117 950 7150,South West,CONCORD MENDIP PCN,11132,3.573333333
+Sea Mills Surgery,2.4,yes,no,http://www.seamillssurgery.nhs.uk/,0117 968 1182,South West,CONCORD MENDIP PCN,8443,5.2
+The Merrywood Practice,2.3,yes,no,http://www.merrywoodpractice.nhs.uk/,0117 944 9750,South West,SWIFT PCN,7279,5.253333333
+The Lennard Surgery,2.5,yes,no,http://www.thelennardsurgery.co.uk,0117 964 2211,South West,SWIFT PCN,8601,6.448533333
+Whiteladies Medical Group,0.3,yes,yes,http://www.whiteladiesmedical.nhs.uk,0117 973 1201,South West,HEALTHWEST PCN,15716,10.34666667
+Horfield HC,2.3,yes,no,http://www.horfieldhealthcentre.nhs.uk,0117 969 5391,South West,PHOENIX (BNSSG) PCN,17706,15.3
+The Family Practice,0.1,yes,yes,https://www.thefamilypracticewesterncollege.nhs.uk/,0117 946 6455,North West,BARROW AND MILLOM PCN,2986,2.68
+Wells Road Surgery,2.2,yes,no,Not available,0117 977 0018,South West,CONNEXUS PCN,9206,3.2
+Westbury on Trym Primary Care Centre,2.2,yes,no,http://www.westburysurgery.co.uk,0117 962 3406,South West,AFFINITY (BNSSG) PCN,11897,6.48
+Student Health Service,0.1,yes,yes,http://www.bris.ac.uk/depts/studenthealthservice/,0117 330 2720,South West,HEALTHWEST PCN,19919,9.9
+name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,Not available,Not available,Not available,Not available
+Long Ashton Surgery,3.5,yes,no,http://www.tyntesfield.nhs.uk,01275 392134,Not available,Not available,Not available,Not available
+Student Health Service,0.1,yes,yes,http://www.bris.ac.uk/depts/studenthealthservice/,0117 330 2720,South West,HEALTHWEST PCN,19919,9.9
+Shirehampton Group Practice Branch Surgery,3.4,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 982 2131,Not available,Not available,Not available,Not available
+Fireclay Health,3.4,yes,no,http://www.fireclayhealth.nhs.uk,0117 961 2161,South West,FOSS (FIRECLAY and OLD SCHOOL SURGERY) PCN,23862,10.76421461
+Grange Road Surgery,3.4,yes,no,http://www.grangeroadsurgery.co.uk,0117 964 4343,South West,SWIFT PCN,11857,9.386666667
+Pioneer Medical Group,3.4,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919,South West,NORTHERN ARC PCN,22321,12.12
+Pioneer Ridingleaze,3.5,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919,Not available,Not available,Not available,Not available
+Nightingale Valley Practice,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300,South West,CONNEXUS PCN,15059,12.032
+Willow Tree Surgery,3.4,yes,no,http://www.southmeadhealth.nhs.uk,0117 950 7150,East of England,PETERBOROUGH PARTNERSHIPS PCN,5875,0.533333333
+Greenway Community Practice,2.6,yes,no,http://www.greenwaycommunitypractice.nhs.uk,0117 959 8939,South West,AFFINITY (BNSSG) PCN,10747,4.553066667
+Monks Park Surgery,2.7,yes,no,https://www.mendipvale.nhs.uk/practices/monks-park/,0117 969 3106,South West,CONCORD MENDIP PCN,9028,3.327535439
+Air Balloon Surgery,3.2,yes,no,https://www.airballoonsurgery.co.uk,0117 909 9912,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",13268,8.544
+Southmead & Henbury Family Practice,3.0,yes,no,https://www.mendipvale.nhs.uk/,0117 950 7150,South West,CONCORD MENDIP PCN,11132,3.573333333
+Riverside Surgery,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300,North East and Yorkshire,NORTH LINCOLNSHIRE EAST PCN,12190,7.916
+Hartwood Healthcare,3.8,yes,no,Not available,0117 301 5226,South West,SWIFT PCN,8391,4.853333333
+Priory Surgery,2.6,yes,no,https://www.priorysurgerybristol.co.uk/,0117 949 3988,South East,CYGNET PCN,12145,6.68976
+Birchwood Medical Practice,2.7,yes,no,https://www.birchwoodbristol.nhs.uk/,0117 330 4225,Midlands,APEX PCN,10288,11.52
+Conygre Medical Centre,3.7,yes,no,http://www.stokegiffordmedical.co.uk,0117 979 9430,Not available,Not available,Not available,Not available
+Hillview Family Practice,3.8,yes,no,http://www.hillviewfamilypractice.nhs.uk/,0117 301 5240,South West,SWIFT PCN,7239,1.906666667
+UWE Health Centre,3.7,yes,no,https://www.oldschoolsurgery.org.uk/uwe/,0117 328 6666,Not available,Not available,Not available,Not available
+Beechwood Medical Practice,3.7,yes,no,http://www.beechwoodmedicalpractice.co.uk,0117 908 2360,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",12391,8.413333333
+The Lennard Surgery,2.5,yes,no,http://www.thelennardsurgery.co.uk,0117 964 2211,South West,SWIFT PCN,8601,6.448533333
+The Crest Family Practice,2.4,yes,no,http://www.crestfamilypractice.co.uk,0117 944 9700,South West,SWIFT PCN,7104,2.807339696
+Fishponds Family Practice,3.7,yes,no,http://www.thefishpondsfamilypractice.nhs.uk,0117 235 4220,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",13231,9.333333333
+Shirehampton Group Practice,3.6,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 916 2226,South West,NORTHERN ARC PCN,11187,7.91112
+Sea Mills Surgery,2.4,yes,no,http://www.seamillssurgery.nhs.uk/,0117 968 1182,South West,CONCORD MENDIP PCN,8443,5.2
+The Merrywood Practice,2.3,yes,no,http://www.merrywoodpractice.nhs.uk/,0117 944 9750,South West,SWIFT PCN,7279,5.253333333
+Horfield HC,2.3,yes,no,http://www.horfieldhealthcentre.nhs.uk,0117 969 5391,South West,PHOENIX (BNSSG) PCN,17706,15.3
+The Old School Surgery,3.6,yes,no,https://www.oldschoolsurgery.org.uk,0117 965 3102,Midlands,FOSSEWAY PCN,7764,3.173333333
+Wells Road Surgery,2.2,yes,no,Not available,0117 977 0018,South West,CONNEXUS PCN,9206,3.2
+East Trees Health Centre,2.0,yes,no,https://www.easttreeshealthcentre.co.uk/,0117 244 4123,South West,BRISTOL INNER CITY PCN,15596,8.413333333
+The Malago Surgery,1.6,yes,no,https://bridgeviewmedical.nhs.uk/surgery-information/contact-information.php,0117 966 9724,Not available,Not available,Not available,Not available
+Marksbury Road Surgery,2.1,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724,Not available,Not available,Not available,Not available
+Westbury on Trym Primary Care Centre,2.2,yes,no,http://www.westburysurgery.co.uk,0117 962 3406,South West,AFFINITY (BNSSG) PCN,11897,6.48
+Fallodon Way Medical Centre,1.5,yes,no,http://fwmc.org.uk/,0117 962 4692,South West,AFFINITY (BNSSG) PCN,11525,6.980868773
+Gloucester Road Medical Centre,1.8,yes,no,http://www.grmc.nhs.uk,0117 949 7774,South West,PHOENIX (BNSSG) PCN,21956,11.09333333
+Lawrence Hill Health Centre,1.5,yes,no,https://www.lawrencehillhealthcentre.co.uk,0117 954 3060,South West,BRISTOL INNER CITY PCN,10099,5.426666667
+The Wellspring Surgery,2.0,yes,no,http://www.wellspringsurgerybristol.nhs.uk,0117 955 7711,Midlands,NOTTINGHAM CITY EAST PCN,10671,6.514666667
+Gaywood House Surgery,1.5,yes,no,http://www.bridgeviewmedical.nhs.uk,0117 966 9724,Not available,Not available,Not available,Not available
+Bridge View Medical,1.2,yes,no,http://bridgeviewmedical.nhs.uk,0117 966 9724,South West,BRIDGE VIEW PCN,38773,18.31893333
+Bedminster Family Practice,1.3,yes,no,http://www.bedminsterfamilypractice.co.uk/index.aspx,0117 966 3149,South West,SWIFT PCN,12764,8.395733334
+Montpelier Health Centre,0.8,yes,no,https://www.montpelierhealthcentre.co.uk/,0117 942 6811,South West,BRISTOL INNER CITY PCN,20620,10.544
+The Armada Family Practice,3.7,yes,no,http://www.armadapractice.co.uk/,01275 832285,South West,SWIFT PCN,16298,8.970666667
+Broadmead Medical Centre,0.8,yes,yes,https://www.broadmeadmedicalcentre.nhs.uk,0117 954 9828,South West,BRISTOL INNER CITY PCN,11697,4.44
+Pembroke Road Surgery,0.5,yes,yes,https://www.pembrokeroadsurgery.co.uk,0117 973 3790,South West,HEALTHWEST PCN,20054,11.17333333
+Charlotte Keel Medical Practice,1.5,yes,yes,http://www.charlottekeelmedical.co.uk,0117 902 7145,South West,BRISTOL INNER CITY PCN,19845,12.87733333
+BS1 Surgery,0.9,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724,Not available,Not available,Not available,Not available
+The Family Practice,0.1,yes,yes,https://www.thefamilypracticewesterncollege.nhs.uk/,0117 946 6455,North West,BARROW AND MILLOM PCN,2986,2.68
+Compass Health,0.7,no,yes,http://homelesshealthservice.co.uk/,0117 989 3450,Not available,Not available,Not available,Not available
+Whiteladies Medical Group,0.3,yes,yes,http://www.whiteladiesmedical.nhs.uk,0117 973 1201,South West,HEALTHWEST PCN,15716,10.34666667
+name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,Not available,Not available,Not available,Not available
+Hartwood Healthcare,3.8,yes,no,Not available,0117 301 5226,South West,SWIFT PCN,8391,4.853333333
+Beechwood Medical Practice,3.7,yes,no,http://www.beechwoodmedicalpractice.co.uk,0117 908 2360,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",12391,8.413333333
+Student Health Service,0.1,yes,yes,http://www.bris.ac.uk/depts/studenthealthservice/,0117 330 2720,South West,HEALTHWEST PCN,19919,9.9
+The Armada Family Practice,3.7,yes,no,http://www.armadapractice.co.uk/,01275 832285,South West,SWIFT PCN,16298,8.970666667
+Fishponds Family Practice,3.7,yes,no,http://www.thefishpondsfamilypractice.nhs.uk,0117 235 4220,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",13231,9.333333333
+Hillview Family Practice,3.8,yes,no,http://www.hillviewfamilypractice.nhs.uk/,0117 301 5240,South West,SWIFT PCN,7239,1.906666667
+UWE Health Centre,3.7,yes,no,https://www.oldschoolsurgery.org.uk/uwe/,0117 328 6666,Not available,Not available,Not available,Not available
+Long Ashton Surgery,3.5,yes,no,http://www.tyntesfield.nhs.uk,01275 392134,Not available,Not available,Not available,Not available
+Pioneer Ridingleaze,3.5,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919,Not available,Not available,Not available,Not available
+The Old School Surgery,3.6,yes,no,https://www.oldschoolsurgery.org.uk,0117 965 3102,Midlands,FOSSEWAY PCN,7764,3.173333333
+Grange Road Surgery,3.4,yes,no,http://www.grangeroadsurgery.co.uk,0117 964 4343,South West,SWIFT PCN,11857,9.386666667
+Willow Tree Surgery,3.4,yes,no,http://www.southmeadhealth.nhs.uk,0117 950 7150,East of England,PETERBOROUGH PARTNERSHIPS PCN,5875,0.533333333
+Shirehampton Group Practice,3.6,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 916 2226,South West,NORTHERN ARC PCN,11187,7.91112
+Pioneer Medical Group,3.4,yes,no,http://www.pioneermedicalgroup.co.uk,0117 959 1919,South West,NORTHERN ARC PCN,22321,12.12
+Southmead & Henbury Family Practice,3.0,yes,no,https://www.mendipvale.nhs.uk/,0117 950 7150,South West,CONCORD MENDIP PCN,11132,3.573333333
+Fireclay Health,3.4,yes,no,http://www.fireclayhealth.nhs.uk,0117 961 2161,South West,FOSS (FIRECLAY and OLD SCHOOL SURGERY) PCN,23862,10.76421461
+Shirehampton Group Practice Branch Surgery,3.4,yes,no,https://www.shirehamptongrouppractice.co.uk,0117 982 2131,Not available,Not available,Not available,Not available
+Air Balloon Surgery,3.2,yes,no,https://www.airballoonsurgery.co.uk,0117 909 9912,South West,"FABB (FISHPONDS, AIR BALLOON and BEECHWOOD) PCN",13268,8.544
+Conygre Medical Centre,3.7,yes,no,http://www.stokegiffordmedical.co.uk,0117 979 9430,Not available,Not available,Not available,Not available
+Birchwood Medical Practice,2.7,yes,no,https://www.birchwoodbristol.nhs.uk/,0117 330 4225,Midlands,APEX PCN,10288,11.52
+Riverside Surgery,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300,North East and Yorkshire,NORTH LINCOLNSHIRE EAST PCN,12190,7.916
+Greenway Community Practice,2.6,yes,no,http://www.greenwaycommunitypractice.nhs.uk,0117 959 8939,South West,AFFINITY (BNSSG) PCN,10747,4.553066667
+Monks Park Surgery,2.7,yes,no,https://www.mendipvale.nhs.uk/practices/monks-park/,0117 969 3106,South West,CONCORD MENDIP PCN,9028,3.327535439
+The Lennard Surgery,2.5,yes,no,http://www.thelennardsurgery.co.uk,0117 964 2211,South West,SWIFT PCN,8601,6.448533333
+Nightingale Valley Practice,2.7,yes,no,http://www.nightingalevalleypractice.co.uk,0117 330 4300,South West,CONNEXUS PCN,15059,12.032
+Priory Surgery,2.6,yes,no,https://www.priorysurgerybristol.co.uk/,0117 949 3988,South East,CYGNET PCN,12145,6.68976
+The Crest Family Practice,2.4,yes,no,http://www.crestfamilypractice.co.uk,0117 944 9700,South West,SWIFT PCN,7104,2.807339696
+Sea Mills Surgery,2.4,yes,no,http://www.seamillssurgery.nhs.uk/,0117 968 1182,South West,CONCORD MENDIP PCN,8443,5.2
+Westbury on Trym Primary Care Centre,2.2,yes,no,http://www.westburysurgery.co.uk,0117 962 3406,South West,AFFINITY (BNSSG) PCN,11897,6.48
+Horfield HC,2.3,yes,no,http://www.horfieldhealthcentre.nhs.uk,0117 969 5391,South West,PHOENIX (BNSSG) PCN,17706,15.3
+The Merrywood Practice,2.3,yes,no,http://www.merrywoodpractice.nhs.uk/,0117 944 9750,South West,SWIFT PCN,7279,5.253333333
+Marksbury Road Surgery,2.1,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724,Not available,Not available,Not available,Not available
+East Trees Health Centre,2.0,yes,no,https://www.easttreeshealthcentre.co.uk/,0117 244 4123,South West,BRISTOL INNER CITY PCN,15596,8.413333333
+Wells Road Surgery,2.2,yes,no,Not available,0117 977 0018,South West,CONNEXUS PCN,9206,3.2
+Gaywood House Surgery,1.5,yes,no,http://www.bridgeviewmedical.nhs.uk,0117 966 9724,Not available,Not available,Not available,Not available
+The Malago Surgery,1.6,yes,no,https://bridgeviewmedical.nhs.uk/surgery-information/contact-information.php,0117 966 9724,Not available,Not available,Not available,Not available
+Gloucester Road Medical Centre,1.8,yes,no,http://www.grmc.nhs.uk,0117 949 7774,South West,PHOENIX (BNSSG) PCN,21956,11.09333333
+The Wellspring Surgery,2.0,yes,no,http://www.wellspringsurgerybristol.nhs.uk,0117 955 7711,Midlands,NOTTINGHAM CITY EAST PCN,10671,6.514666667
+Fallodon Way Medical Centre,1.5,yes,no,http://fwmc.org.uk/,0117 962 4692,South West,AFFINITY (BNSSG) PCN,11525,6.980868773
+BS1 Surgery,0.9,yes,no,http://www.bridgeviewmedical.nhs.uk/,0117 966 9724,Not available,Not available,Not available,Not available
+Lawrence Hill Health Centre,1.5,yes,no,https://www.lawrencehillhealthcentre.co.uk,0117 954 3060,South West,BRISTOL INNER CITY PCN,10099,5.426666667
+Bridge View Medical,1.2,yes,no,http://bridgeviewmedical.nhs.uk,0117 966 9724,South West,BRIDGE VIEW PCN,38773,18.31893333
+Montpelier Health Centre,0.8,yes,no,https://www.montpelierhealthcentre.co.uk/,0117 942 6811,South West,BRISTOL INNER CITY PCN,20620,10.544
+Bedminster Family Practice,1.3,yes,no,http://www.bedminsterfamilypractice.co.uk/index.aspx,0117 966 3149,South West,SWIFT PCN,12764,8.395733334
+Whiteladies Medical Group,0.3,yes,yes,http://www.whiteladiesmedical.nhs.uk,0117 973 1201,South West,HEALTHWEST PCN,15716,10.34666667
+Broadmead Medical Centre,0.8,yes,yes,https://www.broadmeadmedicalcentre.nhs.uk,0117 954 9828,South West,BRISTOL INNER CITY PCN,11697,4.44
+Charlotte Keel Medical Practice,1.5,yes,yes,http://www.charlottekeelmedical.co.uk,0117 902 7145,South West,BRISTOL INNER CITY PCN,19845,12.87733333
+Compass Health,0.7,no,yes,http://homelesshealthservice.co.uk/,0117 989 3450,Not available,Not available,Not available,Not available
+The Family Practice,0.1,yes,yes,https://www.thefamilypracticewesterncollege.nhs.uk/,0117 946 6455,North West,BARROW AND MILLOM PCN,2986,2.68
+Pembroke Road Surgery,0.5,yes,yes,https://www.pembrokeroadsurgery.co.uk,0117 973 3790,South West,HEALTHWEST PCN,20054,11.17333333
