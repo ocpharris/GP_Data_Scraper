@@ -32,6 +32,8 @@ class GpspiderSpider(scrapy.Spider):
             gp_item = GpItem()
             relative_url = gp.css('div h2 a ::attr(href)').get() #define url for gp
             gp_item['miles_away'] = gp.css('p[id^="distance_"]::text').get()
+            gp_item['gp_address'] = response.css('div #address_0::text').get()
+
 
             gp_text = gp.get()
             if gp_text in in_catchment_texts:
@@ -54,8 +56,7 @@ class GpspiderSpider(scrapy.Spider):
         gp_item['accepting_patients'] = response.css('#gp_accepting_patients_banner_text ::text').get()
         gp_item['phone_number'] = response.css('#contact_info_panel_phone_text ::text').get()
         gp_item['gp_website'] = response.css('a#contact_info_panel_website_link ::attr(href)').get()
-        gp_item['gp_address'] = response.css('div #address_0::text').get()
-
+        
         yield gp_item
 
 
