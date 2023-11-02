@@ -37,7 +37,7 @@ def crawl_spider(postcode):
     # Modify the settings as needed
     settings.set("FEED_URI", output_path)  # Update the output file path
     settings.set("FEED_FORMAT" , "csv")
-    settings.set("FEED_EXPORT_FIELDS" , ['name', 'miles_away', 'accepting_patients', 'in_catchment', 'gp_website', 'phone_number'])
+    settings.set("FEED_EXPORT_FIELDS" , ['name', 'miles_away', 'accepting_patients', 'in_catchment', 'gp_website', 'phone_number','gp_address'])
 
     # Initialize CrawlerProcess with your Scrapy project's settings
     process = CrawlerProcess(settings=settings)
@@ -140,7 +140,7 @@ def extract_and_merge_data():
             df1.loc[df1['name'].str.upper() == name, 'Total_Patients'] = 'Not available'
             df1.loc[df1['name'].str.upper() == name, 'Total_GP_FTE'] = 'Not available'
 
-        df1.to_csv('output_file.csv', index=False)
+        df1.to_csv('output_file1.csv', index=False)
 
 
 # Get the current date
