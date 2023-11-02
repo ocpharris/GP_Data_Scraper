@@ -40,6 +40,22 @@ class GpscraperPipeline:
             value = adapter.get(not_available_key)
             if value == None:
                 adapter[not_available_key] = 'Not available'
+
+        # tidy up address
+        address_list = adapter.get('gp_address')
+        address_string = ', '.join(address_list)
+        cleaned_address = ' '.join(address_string.split()).replace('"', '')
+        adapter['gp_address'] = cleaned_address
+
+
+
+
+                
+
+        
+
+
+
         
 
 
