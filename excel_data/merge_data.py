@@ -1,3 +1,4 @@
+import argparse
 import pandas as pd
 import requests     
 import numpy as np
@@ -19,6 +20,12 @@ sys.path.append(data_scraper_path)
 from GPscraper.spiders.GPspider import GpspiderSpider
 
 
+def __init__(self, postcode, *args, **kwargs):
+    super(GpspiderSpider, self).__init__(*args, **kwargs)
+
+
+    self.postcode = postcode
+
 
 def generate_url(postcode):
     return f"https://www.nhs.uk/service-search/find-a-gp/results/{postcode}"
@@ -29,6 +36,14 @@ def generate_url(postcode):
 def crawl_spider(postcode):
     
 # Initialize the CrawlerProcess with a complete path to the output file
+    
+    # Get the current date
+    current_date = datetime.now()
+
+    # Format the date as "dd_mm_yy"
+    formatted_date = current_date.strftime("%d_%m_%y")
+
+    output_filename = f"{postcode}_{formatted_date}.csv"
     
     output_path = os.path.join(os.getcwd(), output_filename)
 
@@ -86,9 +101,17 @@ def write_excel():
         print(f"An error occurred: {e}")
 
 # function to extract relevent data from excel file 
-def extract_and_merge_data():
+def extract_and_merge_data(postcode):
 
     data_scraper_path = os.path.abspath(r"C:\Users\oharris\Repos\GP_Data_Scraper\excel_data\gp_practice_level_sept2023.xlsx")
+
+        # Get the current date
+    current_date = datetime.now()
+
+    # Format the date as "dd_mm_yy"
+    formatted_date = current_date.strftime("%d_%m_%y")
+
+    output_filename = f"{postcode}_{formatted_date}.csv"
 
     # Read the CSV file into a Pandas DataFrame
     df1 = pd.read_csv(output_filename)
@@ -140,24 +163,22 @@ def extract_and_merge_data():
             df1.loc[df1['name'].str.upper() == name, 'Total_Patients'] = 'Not available'
             df1.loc[df1['name'].str.upper() == name, 'Total_GP_FTE'] = 'Not available'
 
-        df1.to_csv('output_file1.csv', index=False)
+        merged_gp_data = f"gp_data_{postcode}_{formatted_date}.csv"
+        df1.to_csv(merged_gp_data, index=False)
 
 
-# Get the current date
-current_date = datetime.now()
 
-# Format the date as "dd_mm_yy"
-formatted_date = current_date.strftime("%d_%m_%y")
+def main(postcode):
+    # Run the web scraper
+    crawl_spider(postcode)
 
-# Example postcode to use in the web scraper
-postcode = 'bs82aa'
+    # Extract data from the downloaded Excel file
+    write_excel()
+    extract_and_merge_data(postcode)
 
-output_filename = f"{postcode}_{formatted_date}.csv"
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="GP Data Scraper")
+    parser.add_argument("postcode", type=str, help="Specify the postcode")
 
-# Run the web scraper
-crawl_spider(postcode)
-
-# Extract data from the downloaded Excel file
-write_excel()
-
-extract_and_merge_data()
+    args = parser.parse_args()
+    main(args.postcode)

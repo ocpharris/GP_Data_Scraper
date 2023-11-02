@@ -16,6 +16,7 @@ from GPscraper.spiders.GPspider import GpspiderSpider
 
 
 
+
 def generate_url(postcode):
     return f"https://www.nhs.uk/service-search/find-a-gp/results/{postcode}"
 
