@@ -1,12 +1,24 @@
 
 import tkinter as tk
 from tkinter import ttk
+
+import argparse
+import pandas as pd
+import requests     
+import numpy as np
+import zipfile
+import io
 import sys
 import os
 from scrapy.crawler import CrawlerProcess
 from datetime import datetime
 from scrapy.utils.project import get_project_settings
 
+
+
+# # Redirect standard output and error to a log file
+# sys.stdout = open('stdout.log', 'w')
+# sys.stderr = open('stderr.log', 'w')
 
 # Determine the path to the GPscraper project directory
 data_scraper_path = os.path.abspath(r"C:\Users\oharris\Repos\GP_Data_Scraper")
@@ -15,7 +27,8 @@ data_scraper_path = os.path.abspath(r"C:\Users\oharris\Repos\GP_Data_Scraper")
 sys.path.append(data_scraper_path)
 from GPscraper.spiders.GPspider import GpspiderSpider
 # from excel_data.merge_data import extract_and_merge_data
-from excel_data.merge_data import main
+# from merge_data import main
+from standalone_exec_gp_gui import main 
 
 
 
@@ -38,23 +51,6 @@ def scrape_data_button():
     postcode  = postcode_entry.get()
     
 
-# # Initialize the CrawlerProcess with a complete path to the output file
-#     output_filename = f"{postcode}_{formatted_date}.csv"
-#     output_path = os.path.join(os.getcwd(), output_filename)
-
-#     settings = get_project_settings()
-  
-#     # Modify the settings as needed
-#     settings.set("FEED_URI", output_path)  # Update the output file path
-#     settings.set("FEED_FORMAT" , "csv")
-#     settings.set("FEED_EXPORT_FIELDS" , ['name', 'miles_away', 'accepting_patients', 'in_catchment', 'gp_website', 'phone_number', 'gp_address'])
-
-#     # Initialize CrawlerProcess with your Scrapy project's settings
-#     process = CrawlerProcess(settings=settings)
-
-#     # Pass the spider class, not an instance
-#     process.crawl(GpspiderSpider, postcode=postcode)
-    
 
     try:
         # # Perform the scraping
