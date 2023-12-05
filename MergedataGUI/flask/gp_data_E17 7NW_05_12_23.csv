@@ -1,0 +1,51 @@
+name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,gp_address,Region,PCN,Total_Patients,Total_GP_FTE
+St James Medical Practice Limited,0.0,yes,yes,http://www.thestjamespractice.co.uk/,020 3233 0870,"St. James Health Centre, 47 St. James's Street, Walthamstow, London, Greater London, E17 7NH",London,WALTHAM FOREST WALTHAMSTOW WEST PCN,16071.0,5.76
+The Riverside Practice,1.4,yes,no,http://www.theriversidepractice-hackney.nhs.uk,020 8806 1928,"14 Urban Hive, Theydon Road, London, Greater London, E5 9BQ",London,HACKNEY DOWNS PCN,5126.0,1.96
+Healy Medical Centre,1.6,yes,no,http://www.healymedicalcentre.co.uk/,020 8806 1611,"200 Upper Clapton Road, London, Greater London, E5 9DH",London,HACKNEY DOWNS PCN,5658.0,1.386666667
+Hampton Medical Centre,1.7,yes,no,http://www.hamptonmedicalcentre.co.uk,020 8539 3232,"1 Pretoria Road, Leytonstone, London, Greater London, E11 4BB",East of England,BRETTON PARK and HAMPTON PCN,11345.0,4.146666667
+The Forest Surgery,1.5,yes,no,Not available,020 8498 4988,"2 Macdonald Road, Walthamstow, London, Greater London, E17 4BA",London,WALTHAM FOREST 8 PCN,7012.0,2.2
+Crawley Road Medical Centre,1.4,yes,no,http://www.crawleyroadmedicalcentre.co.uk/,020 8539 1880,"479 High Road, Leyton, London, Greater London, E10 5EL",London,WALTHAM FOREST INTEGRATED HEALTH PCN,10369.0,2.86186028
+Tynemouth Medical Practice,1.6,yes,no,http://www.tynemouthmedicalcentre.nhs.uk/,020 8808 4904,"Tynemouth Road, London, Greater London, N15 4RH",London,HARINGEY - WELBOURNE PCN,9396.0,7.533866667
+THE CLAPTON SURGERY,1.4,yes,no,https://www.theclaptonsurgery.co.uk,020 8806 7735,"Theydon Road Health Ctr, 14 Urban Hive, Theydon Rd, London, Greater London, E5 9BQ",London,HACKNEY DOWNS PCN,6137.0,1.493333333
+Waltham Forest Comm & Fam Hth Serv Ltd,1.3,yes,no,http://www.wfcafhs.co.uk,020 8430 7710,"6 Linford Road, Walthamstow, London, Greater London, E17 3LA",London,WALTHAM FOREST WALTHAMSTOW CENTRAL PCN,9176.0,3.904
+Dr Dhital Practice,1.3,yes,no,http://www.wfdhital.co.uk/,020 8430 7750,"6 Linford Road, Walthamstow, London, Greater London, E17 3LA",London,WALTHAM FOREST WALTHAMSTOW CENTRAL PCN,6311.0,2.346666667
+Addison Road Medical Practice,1.0,yes,no,http://www.addisonroadmedicalpractice.nhs.uk/,020 8176 9110,"46 Ravenswood Road, Walthamstow, London, Greater London, E17 9LY",London,WALTHAM FOREST WALTHAMSTOW CENTRAL PCN,16485.0,7.453333333
+Tottenham Hale Medical Practice,1.3,yes,no,http://www.lawrencehousegroup.co.uk/,020 8885 3567,"10 Lebus Street, London, Greater London, N17 9FD",London,HARINGEY - WELBOURNE PCN,4874.0,2.373333333
+The Bailey Practice,1.1,yes,no,https://www.thebaileypractice.co.uk/,020 8520 5138,"107 Shernhall Street, Walthamstow, London, Greater London, E17 9HS",London,WALTHAM FOREST 8 PCN,4459.0,1.493333333
+The Penrhyn Surgery,1.2,yes,no,http://penrhynsurgery.co.uk,020 8527 2563,"2A Penrhyn Avenue, Walthamstow, London, Greater London, E17 5DB",London,WALTHAM FOREST 8 PCN,9381.0,3.338666667
+Sinnott Medical Centre,0.9,yes,no,http://www.ltshealthcare.gpsurgery.net/,020 8709 3140,"8 St Andrew's Road, Walthamwstow, London, E17 6BD",London,WALTHAM FOREST 8 PCN,6807.0,2.08
+Grove Road Surgery,2.1,yes,no,http://www.ikwuekegrovesurgery.co.uk/,020 8800 9781,"1 Grove Road, Tottenham, London, Greater London, N15 5HJ",London,HARINGEY - N15/SOUTH EAST PCN,4458.0,3.466666667
+Claremont Medical Centre,0.9,yes,no,https://www.claremontmedical.co.uk,020 8527 1888,"27 Claremont Road, London, E17 5RJ",London,WALTHAM FOREST WALTHAMSTOW CENTRAL PCN,2816.0,0.426666667
+Dr Mohammed Green Man Medical Centre,2.1,yes,no,https://www.greenmanmedicalcentre.co.uk,020 8989 2606,"1 Hanbury Drive, Leytonstone, London, Greater London, E11 1GA",London,WALTHAM FOREST SOUTH LEYTONSTONE PCN,6969.0,3.626666667
+Spring Hill Practice,2.1,yes,no,http://www.springhillpractice.nhs.uk/,020 8806 6993,"57 Stamford Hill, London, Greater London, N16 5SR",London,SPRINGFIELD PARK PCN,15940.0,6.24
+Branch Surgery,2.2,yes,no,http://www.thewickhealthcentre.co.uk,020 8985 2664,"28 Median Road, London, Greater London, E5 0PL",Not available,Not available,Not available,Not available
+Lawrence House Surgery,2.1,yes,no,http://www.lawrencehousegroup.co.uk/lawrence-house-surgery,020 8801 6640,"107 Philip Lane, Tottenham, London, Greater London, N15 4JR",London,HARINGEY - WELBOURNE PCN,16697,13.86666667
+Athena Medical Centre,2.0,yes,no,http://www.athenamedicalcentre.co.uk,020 8985 6675,"21 Atherden Road, Clapton, London, Greater London, E5 0QP",London,HACKNEY MARSHES PCN,4948,2.084266667
+Kingsmead Healthcare,2.0,yes,no,https://www.kingsmeadhealthcare.co.uk/,020 8985 1930,"4 Kingsmead Way, London, Greater London, E9 5QG",London,HACKNEY MARSHES PCN,5353,1.6
+JS Medical Practice,1.9,yes,no,http://www.jsmedicalpractice.com,020 8808 1868,"104-108 Park Lane, London, Greater London, N17 0JP",London,HARINGEY - N15/SOUTH EAST PCN,12875,1.110933333
+Fountayne Road Health Centre,1.8,yes,no,http://www.thegadhvipractice.nhs.uk/,020 3928 0777,"1A Fountayne Road, London, N16 7EA",London,HACKNEY DOWNS PCN,5247,2.626666667
+Charlton House Medical Centre,1.9,yes,no,http://www.charltonhousemedicalcentre.co.uk,020 8808 2837,"579C High Road, London, N17 6SB",London,HARINGEY - NORTH EAST PCN,6298,1.706666667
+JS Medical Practice,2.1,yes,no,https://www.jsmedicalpractice.com,020 8808 7968,"107 Philip Lane, Tottenham, London, Greater London, N15 4JR",London,HARINGEY - N15/SOUTH EAST PCN,12875,1.110933333
+The Nightingale Practice,2.1,yes,no,Not available,020 8985 8388,"10 Kenninghall Road, Clapton, London, Greater London, E5 8BY",London,HACKNEY DOWNS PCN,12359,11.08
+Chingway Medical Practice,1.9,yes,no,http://www.churchillmedical.nhs.uk/,020 8430 7020,"7 Ching Way, Chingford, London, Greater London, E4 8YD",Not available,Not available,Not available,Not available
+Spring Hill Practice - Oldhill Street,1.8,no,no,Not available,Not available,"19-21 Oldhill Street, London, Greater London, N16 6LD",Not available,Not available,Not available,Not available
+The Elm Practice,1.8,yes,no,http://www.elmpractice.nhs.uk/,020 3928 0999,"1A Fountayne Road, London, Greater London, N16 7EA",London,HACKNEY DOWNS PCN,3100,1.906666667
+Rosewood Practice,1.8,yes,no,http://www.rosewoodpractice.nhs.uk,020 3928 0555,"1A Fountayne Road, London, Greater London, N16 7EA",London,HACKNEY DOWNS PCN,1891,0.853333333
+Fernlea Surgery,1.8,yes,no,http://www.fernlea.nhs.uk/,020 8809 6445,"114 High Road, South Tottenham, London, Greater London, N15 6JR",London,HARINGEY - WELBOURNE PCN,12149,7.213333334
+STAMFORD HILL GROUP PRACTICE,1.8,yes,no,https://www.stamfordhillgrouppractice.co.uk,020 8800 1000,"2 Egerton Road, Stamford Hill, London, Greater London, N16 6UA",London,SPRINGFIELD PARK PCN,17361,5.053333333
+Francis Road Medical Centre,1.8,yes,no,https://www.francisroadgp.co.uk,020 8539 3131,"94 Francis Road, Leyton, London, Greater London, E10 6PP",London,WALTHAM FOREST INTEGRATED HEALTH PCN,7130,4.781333333
+Bruce Grove Primary Health Care Ctr,1.8,yes,no,https://www.brucegrovephcc.nhs.uk/,020 8808 4710,"463 High Road, Tottenham, London, Greater London, N17 6QB",London,HARINGEY - NORTH EAST PCN,7387,2.88
+Dowsett Road Surgery,1.7,yes,no,http://www.lawrencehousegroup.co.uk/,020 8808 4203,"57 Dowsett Road, Tottenham, London, Greater London, N17 9DL",London,HARINGEY - WELBOURNE PCN,4756,2.8
+Dr S Phillips and Dr M Patel Practice,0.8,yes,no,http://www.seymourmedicalcentre.nhs.uk,020 8539 1221,"266 Lea Bridge Road, Leyton, London, Greater London, E10 7LD",London,WALTHAM FOREST WALTHAMSTOW WEST PCN,7259,2.026666667
+Leyton Healthcare 4Th Floor,1.7,yes,yes,http://www.leytonhealthcare.org.uk/,020 8430 8282,"4Th Floor, Oliver Road Medical Centre, 75 Oliver Road, London, Greater London, E10 5LG",London,WALTHAM FOREST LEYTON COLLABORATIVE PCN,14879,6.133333333
+Queens Road Medical Centre,0.5,yes,no,https://www.queensroadmedicalcentre.co.uk,020 8520 2625,"48 Queens Road, Walthamstow, London, E17 8PX",London,WALTHAM FOREST WALTHAMSTOW WEST PCN,8278,8.746666667
+The Lyndhurst Surgery,1.3,yes,yes,http://www.thelyndhurstsurgery.co.uk,020 8539 1663,"53 Lyndhurst Drive, Leyton, London, Greater London, E10 6JB",London,WALTHAM FOREST INTEGRATED HEALTH PCN,5049,3.626666667
+The Allum Medical Centre,1.7,yes,no,https://www.allumpractice.co.uk,020 8539 2513,"Fairlop Road, Leytonstone, London, Greater London, E11 1BN",London,WALTHAM FOREST INTEGRATED HEALTH PCN,14419,7.853333333
+Aegis Medical Centre,21.5,yes,yes,Not available,01268 532795,"568 Whitmore Way, Basildon, Essex, SS14 2ER",East of England,CENTRAL BASILDON PCN,4958,2.2
+Kings College Health Centre,6.0,yes,yes,http://www.kclnhshealthcentre.com,020 4548 9842,"3Rd Floor, Bush House, South East Wing, 300 Strand, London, WC2B 4PJ",London,SOUTH WESTMINSTER PCN,22563,5.573333333
+The Manor Practice,0.8,yes,yes,https://www.themanorpracticeleyton.co.uk,020 8539 8950,"454 Lea Bridge Road, Leyton, London, Greater London, E10 7DY",London,WALTHAM FOREST LEYTON COLLABORATIVE PCN,9750,2.56
+The Ecclesbourne Practice,1.3,yes,yes,http://www.ecclesbourneandrodingvalley.nhs.uk/,020 8539 2077,"Ecclesbourne, 1 Warwick Terrace, Lea Bridge Road, Leyton, London, Greater London, E17 9DP",London,WALTHAM FOREST INTEGRATED HEALTH PCN,9780,6.08
+Sma Medical Practice,1.2,yes,yes,http://smamedicalcentre.com/,020 8539 2078,"693 High Road Leyton, Leyton, London, Greater London, E10 6RA",London,WALTHAM FOREST LEYTON COLLABORATIVE PCN,11737,
+Grove Surgery,0.9,yes,yes,http://www.grovemedicalcentre.com/,0333 332 2221,"103-105 Grove Road, Walthamstow, London, Greater London, E17 9BU",East of England,BRECKLAND SURGERIES PCN,12853,7.773333333
+Dr Shantir Practice,0.7,yes,yes,http://www.drshantirpractice.co.uk,020 8520 7115,"354-358 Forest Road, Walthamstow, London, Greater London, E17 5JL",London,WALTHAM FOREST 8 PCN,7629,1.44
+The Firs,0.2,yes,yes,https://www.thefirs.org.uk,020 8223 9840,"26 Stephenson Road, Walthamstow, London, Greater London, E17 7JT",London,WALTHAM FOREST WALTHAMSTOW CENTRAL PCN,9388,2.76

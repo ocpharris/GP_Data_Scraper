@@ -10,6 +10,17 @@ from scrapy.crawler import CrawlerProcess
 from datetime import datetime
 from scrapy.utils.project import get_project_settings
 
+#
+#
+#
+#
+import multiprocessing
+#
+#
+#
+#
+
+
 
 
 
@@ -53,6 +64,23 @@ def crawl_spider(postcode, formatted_date):
     process.crawl(GpspiderSpider, postcode=postcode)
     # Start the web scraping process
     process.start()
+
+
+#
+#
+#
+# for flask
+def run_crawl_spider(postcode, formatted_date):
+    p = multiprocessing.Process(target=crawl_spider, args=(postcode, formatted_date))
+    p.start()
+    p.join()
+#
+#
+#
+#
+
+
+
 
 
 # function that reads and writes a downloaded excel spreadsheet
@@ -159,9 +187,42 @@ def main(postcode):
     write_excel()
     extract_and_merge_data(postcode, formatted_date=formatted_date)
 
+
+
+#
+#
+#
+#
+# for flask 
+def start_scrapy_process(postcode, formatted_date):
+    process = multiprocessing.Process(target=crawl_spider, args=(postcode,), kwargs={'formatted_date': formatted_date})
+    process.start()
+    process.join()
+
+def main_flask(postcode):
+    # Get the current date
+    current_date = datetime.now()
+
+    # Format the date as "dd_mm_yy"
+    formatted_date = current_date.strftime("%d_%m_%y")
+
+        # Run the web scraper in a separate process
+    start_scrapy_process(postcode, formatted_date)
+
+    # Extract data from the downloaded Excel file
+    write_excel()
+    extract_and_merge_data(postcode, formatted_date=formatted_date)
+#
+#
+#
+#
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="GP Data Scraper")
     parser.add_argument("postcode", type=str, help="Specify the postcode")
 
     args = parser.parse_args()
     main(args.postcode)
+
+
+
