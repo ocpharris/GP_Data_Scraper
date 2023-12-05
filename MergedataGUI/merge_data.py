@@ -12,6 +12,7 @@ from scrapy.utils.project import get_project_settings
 
 
 
+
 # Determine the path to the GPscraper project directory
 data_scraper_path = os.path.abspath(r"C:\Users\oharris\Repos\GP_Data_Scraper")
 

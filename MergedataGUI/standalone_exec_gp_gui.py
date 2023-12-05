@@ -18,6 +18,34 @@ data_scraper_path = os.path.abspath(r"C:\Users\oharris\Repos\GP_Data_Scraper")
 
 # Add the GPscraper project directory to the Python path
 sys.path.append(data_scraper_path)
+
+
+# # Get the base path when running as a PyInstaller executable
+# base_path = sys._MEIPASS if hasattr(sys, '_MEIPASS') else os.path.abspath(".")
+
+# # Construct the relative path to GP_scraper
+# relative_path = os.path.join(base_path, 'GP_scraper')
+
+# # Convert the relative path to an absolute path
+# absolute_path = os.path.abspath(relative_path)
+
+# # Append the absolute path to sys.path
+# sys.path.append(absolute_path)
+
+# Get the base path when running as a PyInstaller executable
+base_path = sys._MEIPASS if hasattr(sys, '_MEIPASS') else os.path.abspath(".")
+
+# Add the base path to sys.path
+sys.path.append(base_path)
+
+print('@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@')
+# print(f'relative path: {relative_path}')
+# print(f'absolute_path: {absolute_path}')
+# print(f'sys path: {sys.path}')
+
+print(f'base path: {base_path}')
+
+
 from GPscraper.spiders.GPspider import GpspiderSpider
 
 
@@ -39,6 +67,8 @@ def crawl_spider(postcode, formatted_date):
     output_filename = f"{postcode}_{formatted_date}.csv"
     
     output_path = os.path.join(os.getcwd(), output_filename)
+    print(output_path)
+    
 
     settings = get_project_settings()
   
@@ -104,7 +134,9 @@ def extract_and_merge_data(postcode, formatted_date):
     output_filename = f"{postcode}_{formatted_date}.csv"
 
     # Read the CSV file into a Pandas DataFrame
+    print('before')
     df1 = pd.read_csv(output_filename)
+    print('after')
     df2 = pd.read_excel(excel_file_path, engine='openpyxl')
 
     # Specify the column name you want to extract

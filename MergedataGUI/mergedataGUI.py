@@ -20,14 +20,19 @@ from scrapy.utils.project import get_project_settings
 # sys.stdout = open('stdout.log', 'w')
 # sys.stderr = open('stderr.log', 'w')
 
+
+
 # Determine the path to the GPscraper project directory
 data_scraper_path = os.path.abspath(r"C:\Users\oharris\Repos\GP_Data_Scraper")
 
 # Add the GPscraper project directory to the Python path
 sys.path.append(data_scraper_path)
-from GPscraper.spiders.GPspider import GpspiderSpider
-# from excel_data.merge_data import extract_and_merge_data
+# from GPscraper.spiders.GPspider import GpspiderSpider
+
+# for running locally, uncomment line below 
 # from merge_data import main
+
+#for standalone exe, uncomment line below
 from standalone_exec_gp_gui import main 
 
 
