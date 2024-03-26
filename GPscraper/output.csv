@@ -1,1413 +1,0 @@
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number
-Wyndham House Surgery,2.1,yes,yes,Not available,01392 860034
-Whipton Surgery,5.4,yes,no,https://www.thewhiptonsurgery.co.uk,01392 462770
-Pinhoe Surgery,5.4,yes,no,Not available,01392 469666
-Mount Pleasant Health Centre,5.1,yes,no,http://www.mountpleasanthealthcentre.co.uk/,01392 255722
-Whipton Branch Surgery,5.3,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266
-Exwick Health Centre,5.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676600
-Clock Tower Surgery,5.5,yes,no,http://www.devondoctors.co.uk/,01392 208290
-Student Health Centre,5.0,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676606
-Cheriton Fitzpaine Surgery,4.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 866322
-Broadclyst Surgery,4.7,yes,no,Not available,01392 469666
-Redlands Primary Care – Thorverton,0.2,yes,no,https://www.redlandsprimarycare.nhs.uk/,01363 727111
-Redlands Primary Care,5.6,yes,yes,https://www.redlandsprimarycare.nhs.uk/,01363 727111
-Treetops Surgery,13.7,yes,no,Not available,01395 226540
-Foxhayes Practice,5.7,yes,no,https://www.foxhayespractice.nhs.uk,01392 208789
-Bicton College of Agriculture,13.2,no,no,Not available,Not available
-Isca Medical Practice,5.5,yes,no,http://www.iscamp.co.uk,01392 273805
-Morchard Bishop Surgery,10.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 877208
-Amicus Health - Bampton Surgery,12.7,yes,no,https://www.amicushealth.nhs.uk,01398 331304
-Christow Surgery,11.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272
-Uffculme Surgery,11.0,yes,no,Not available,01884 840743
-Bow Medical Practice,12.2,yes,no,http://www.bowmedicalpractice.co.uk/,01363 82333
-Coleridge Medical Centre,11.4,yes,no,http://coleridgemedicalcentre.co.uk,01404 814447
-Cheriton Bishop Surgery,10.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272
-Woodbury Surgery,10.8,yes,no,http://www.woodburysurgery.co.uk,01395 232509
-Underhill Surgery,11.9,yes,no,http://www.claremontmedicalpractice.co.uk,01395 265797
-TOPSHAM SURGERY,9.0,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646
-Sampford Peverell Surgery,10.2,yes,no,Not available,01884 820304
-Willand Surgery,9.1,yes,no,Not available,01884 821878
-Mid Devon Medical Practice,10.8,yes,no,http://www.middevonmedicalpractice.co.uk/index.php,01884 860205
-Westbank Practice - Exminster Surgery,9.0,yes,no,http://www.westbankpractice.com/,01392 833230
-Ide Lane Surgery,7.4,yes,no,http://www.idelanesurgery.nhs.uk,01392 428900
-Westbank Practice,9.0,yes,no,http://www.westbankpractice.com,01626 890368
-Coleridge Medical Centre Sandfords Surgery,8.0,yes,no,http://www.coleridgemedicalcentre.co.uk,01404 814447
-Topsham Surgery at Sclns,7.3,no,no,Not available,Not available
-Glasshouse Medical Centre,7.8,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646
-Castle Place Practice,7.2,yes,no,https://castleplacepractice.nhs.uk,01884 252333
-Amicus Health,7.0,yes,no,http://amicushealth.nhs.uk/,01884 252337
-Bramblehaies Surgery,7.0,yes,no,http://www.bramblehaiessurgery.co.uk/,01884 33536
-WONFORD GREEN SURGERY,6.5,yes,no,http://www.wonfordgreensurgery.co.uk,01392 250135
-College Surgery Partnership,7.1,yes,no,http://www.collegesurgery.org.uk,01884 831300
-Cranbrook Medical Practice,6.4,yes,no,https://www.cranbrookmedicalpractice.nhs.uk/,01404 819207
-Blundells School,7.4,no,no,Not available,Not available
-St Thomas Medical Group,6.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676676
-South Lawn Medical Practice,5.9,yes,no,http://www.slmp.co.uk,01392 281100
-Southernhay House Surgery,5.8,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266
-Hill Barton Surgery,6.1,yes,no,http://www.hillbartonsurgery.co.uk/,01392 444242
-Heavitree Practice,5.9,yes,no,http://www.theheavitreepractice.co.uk,01392 222099
-BARNFIELD HILL SURGERY,5.8,yes,no,http://www.barnfieldhillsurgery.co.uk,01392 432761
-St Leonards Practice,5.7,yes,no,http://www.stleonardssurgery.co.uk,01392 201790
-Bradninch Surgery,4.9,yes,no,Not available,01392 881952
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,address
-Wyndham House Surgery,2.1,yes,yes,Not available,01392 860034,
-College Surgery Partnership,7.1,yes,no,http://www.collegesurgery.org.uk,01884 831300,
-Hill Barton Surgery,6.1,yes,no,http://www.hillbartonsurgery.co.uk/,01392 444242,
-Amicus Health,7.0,yes,no,http://amicushealth.nhs.uk/,01884 252337,
-St Thomas Medical Group,6.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676676,
-Bramblehaies Surgery,7.0,yes,no,http://www.bramblehaiessurgery.co.uk/,01884 33536,
-WONFORD GREEN SURGERY,6.5,yes,no,http://www.wonfordgreensurgery.co.uk,01392 250135,
-Southernhay House Surgery,5.8,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,
-Cranbrook Medical Practice,6.4,yes,no,https://www.cranbrookmedicalpractice.nhs.uk/,01404 819207,
-Heavitree Practice,5.9,yes,no,http://www.theheavitreepractice.co.uk,01392 222099,
-BARNFIELD HILL SURGERY,5.8,yes,no,http://www.barnfieldhillsurgery.co.uk,01392 432761,
-Foxhayes Practice,5.7,yes,no,https://www.foxhayespractice.nhs.uk,01392 208789,
-South Lawn Medical Practice,5.9,yes,no,http://www.slmp.co.uk,01392 281100,
-St Leonards Practice,5.7,yes,no,http://www.stleonardssurgery.co.uk,01392 201790,
-Treetops Surgery,13.7,yes,no,Not available,01395 226540,
-Bow Medical Practice,12.2,yes,no,http://www.bowmedicalpractice.co.uk/,01363 82333,
-Isca Medical Practice,5.5,yes,no,http://www.iscamp.co.uk,01392 273805,
-Bicton College of Agriculture,13.2,no,no,Not available,Not available,
-Clock Tower Surgery,5.5,yes,no,http://www.devondoctors.co.uk/,01392 208290,
-Uffculme Surgery,11.0,yes,no,Not available,01884 840743,
-Cheriton Bishop Surgery,10.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,
-Amicus Health - Bampton Surgery,12.7,yes,no,https://www.amicushealth.nhs.uk,01398 331304,
-Woodbury Surgery,10.8,yes,no,http://www.woodburysurgery.co.uk,01395 232509,
-Mid Devon Medical Practice,10.8,yes,no,http://www.middevonmedicalpractice.co.uk/index.php,01884 860205,
-Coleridge Medical Centre,11.4,yes,no,http://coleridgemedicalcentre.co.uk,01404 814447,
-Willand Surgery,9.1,yes,no,Not available,01884 821878,
-Westbank Practice - Exminster Surgery,9.0,yes,no,http://www.westbankpractice.com/,01392 833230,
-Westbank Practice,9.0,yes,no,http://www.westbankpractice.com,01626 890368,
-Christow Surgery,11.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,
-Morchard Bishop Surgery,10.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 877208,
-Underhill Surgery,11.9,yes,no,http://www.claremontmedicalpractice.co.uk,01395 265797,
-Coleridge Medical Centre Sandfords Surgery,8.0,yes,no,http://www.coleridgemedicalcentre.co.uk,01404 814447,
-Sampford Peverell Surgery,10.2,yes,no,Not available,01884 820304,
-TOPSHAM SURGERY,9.0,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,
-Topsham Surgery at Sclns,7.3,no,no,Not available,Not available,
-Ide Lane Surgery,7.4,yes,no,http://www.idelanesurgery.nhs.uk,01392 428900,
-Exwick Health Centre,5.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676600,
-Glasshouse Medical Centre,7.8,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,
-Whipton Branch Surgery,5.3,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,
-Whipton Surgery,5.4,yes,no,https://www.thewhiptonsurgery.co.uk,01392 462770,
-Castle Place Practice,7.2,yes,no,https://castleplacepractice.nhs.uk,01884 252333,
-Student Health Centre,5.0,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676606,
-Blundells School,7.4,no,no,Not available,Not available,
-Broadclyst Surgery,4.7,yes,no,Not available,01392 469666,
-Pinhoe Surgery,5.4,yes,no,Not available,01392 469666,
-Mount Pleasant Health Centre,5.1,yes,no,http://www.mountpleasanthealthcentre.co.uk/,01392 255722,
-Redlands Primary Care – Thorverton,0.2,yes,no,https://www.redlandsprimarycare.nhs.uk/,01363 727111,
-Cheriton Fitzpaine Surgery,4.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 866322,
-Bradninch Surgery,4.9,yes,no,Not available,01392 881952,
-Redlands Primary Care,5.6,yes,yes,https://www.redlandsprimarycare.nhs.uk/,01363 727111,
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,gp_address
-Heavitree Practice,5.9,yes,no,http://www.theheavitreepractice.co.uk,01392 222099,
-Southernhay House Surgery,5.8,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,
-Clock Tower Surgery,5.5,yes,no,http://www.devondoctors.co.uk/,01392 208290,
-St Leonards Practice,5.7,yes,no,http://www.stleonardssurgery.co.uk,01392 201790,
-Isca Medical Practice,5.5,yes,no,http://www.iscamp.co.uk,01392 273805,
-Pinhoe Surgery,5.4,yes,no,Not available,01392 469666,
-Exwick Health Centre,5.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676600,
-Whipton Branch Surgery,5.3,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,
-BARNFIELD HILL SURGERY,5.8,yes,no,http://www.barnfieldhillsurgery.co.uk,01392 432761,
-Whipton Surgery,5.4,yes,no,https://www.thewhiptonsurgery.co.uk,01392 462770,
-Student Health Centre,5.0,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676606,
-Bradninch Surgery,4.9,yes,no,Not available,01392 881952,
-Mount Pleasant Health Centre,5.1,yes,no,http://www.mountpleasanthealthcentre.co.uk/,01392 255722,
-Cheriton Fitzpaine Surgery,4.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 866322,
-Broadclyst Surgery,4.7,yes,no,Not available,01392 469666,
-Bow Medical Practice,12.2,yes,no,http://www.bowmedicalpractice.co.uk/,01363 82333,
-Foxhayes Practice,5.7,yes,no,https://www.foxhayespractice.nhs.uk,01392 208789,
-Underhill Surgery,11.9,yes,no,http://www.claremontmedicalpractice.co.uk,01395 265797,
-Amicus Health - Bampton Surgery,12.7,yes,no,https://www.amicushealth.nhs.uk,01398 331304,
-Bicton College of Agriculture,13.2,no,no,Not available,Not available,
-Christow Surgery,11.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,
-Treetops Surgery,13.7,yes,no,Not available,01395 226540,
-Coleridge Medical Centre,11.4,yes,no,http://coleridgemedicalcentre.co.uk,01404 814447,
-Uffculme Surgery,11.0,yes,no,Not available,01884 840743,
-Mid Devon Medical Practice,10.8,yes,no,http://www.middevonmedicalpractice.co.uk/index.php,01884 860205,
-Woodbury Surgery,10.8,yes,no,http://www.woodburysurgery.co.uk,01395 232509,
-Willand Surgery,9.1,yes,no,Not available,01884 821878,
-Morchard Bishop Surgery,10.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 877208,
-TOPSHAM SURGERY,9.0,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,
-Westbank Practice - Exminster Surgery,9.0,yes,no,http://www.westbankpractice.com/,01392 833230,
-Sampford Peverell Surgery,10.2,yes,no,Not available,01884 820304,
-Westbank Practice,9.0,yes,no,http://www.westbankpractice.com,01626 890368,
-Ide Lane Surgery,7.4,yes,no,http://www.idelanesurgery.nhs.uk,01392 428900,
-Coleridge Medical Centre Sandfords Surgery,8.0,yes,no,http://www.coleridgemedicalcentre.co.uk,01404 814447,
-Bramblehaies Surgery,7.0,yes,no,http://www.bramblehaiessurgery.co.uk/,01884 33536,
-Cheriton Bishop Surgery,10.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,
-Glasshouse Medical Centre,7.8,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,
-Castle Place Practice,7.2,yes,no,https://castleplacepractice.nhs.uk,01884 252333,
-Amicus Health,7.0,yes,no,http://amicushealth.nhs.uk/,01884 252337,
-Topsham Surgery at Sclns,7.3,no,no,Not available,Not available,
-Blundells School,7.4,no,no,Not available,Not available,
-College Surgery Partnership,7.1,yes,no,http://www.collegesurgery.org.uk,01884 831300,
-Cranbrook Medical Practice,6.4,yes,no,https://www.cranbrookmedicalpractice.nhs.uk/,01404 819207,
-Hill Barton Surgery,6.1,yes,no,http://www.hillbartonsurgery.co.uk/,01392 444242,
-Redlands Primary Care – Thorverton,0.2,yes,no,https://www.redlandsprimarycare.nhs.uk/,01363 727111,
-Redlands Primary Care,5.6,yes,yes,https://www.redlandsprimarycare.nhs.uk/,01363 727111,
-WONFORD GREEN SURGERY,6.5,yes,no,http://www.wonfordgreensurgery.co.uk,01392 250135,
-South Lawn Medical Practice,5.9,yes,no,http://www.slmp.co.uk,01392 281100,
-St Thomas Medical Group,6.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676676,
-Wyndham House Surgery,2.1,yes,yes,Not available,01392 860034,
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,gp_address
-Redlands Primary Care,5.6,yes,yes,https://www.redlandsprimarycare.nhs.uk/,01363 727111,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Wyndham House Surgery,2.1,yes,yes,Not available,01392 860034,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Broadclyst Surgery,4.7,yes,no,Not available,01392 469666,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Cheriton Fitzpaine Surgery,4.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 866322,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Student Health Centre,5.0,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676606,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Whipton Branch Surgery,5.3,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Mount Pleasant Health Centre,5.1,yes,no,http://www.mountpleasanthealthcentre.co.uk/,01392 255722,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Redlands Primary Care – Thorverton,0.2,yes,no,https://www.redlandsprimarycare.nhs.uk/,01363 727111,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Bradninch Surgery,4.9,yes,no,Not available,01392 881952,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Whipton Surgery,5.4,yes,no,https://www.thewhiptonsurgery.co.uk,01392 462770,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Clock Tower Surgery,5.5,yes,no,http://www.devondoctors.co.uk/,01392 208290,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Amicus Health - Bampton Surgery,12.7,yes,no,https://www.amicushealth.nhs.uk,01398 331304,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Exwick Health Centre,5.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676600,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Heavitree Practice,5.9,yes,no,http://www.theheavitreepractice.co.uk,01392 222099,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Treetops Surgery,13.7,yes,no,Not available,01395 226540,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Foxhayes Practice,5.7,yes,no,https://www.foxhayespractice.nhs.uk,01392 208789,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Bicton College of Agriculture,13.2,no,no,Not available,Not available,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Pinhoe Surgery,5.4,yes,no,Not available,01392 469666,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Mid Devon Medical Practice,10.8,yes,no,http://www.middevonmedicalpractice.co.uk/index.php,01884 860205,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Uffculme Surgery,11.0,yes,no,Not available,01884 840743,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Coleridge Medical Centre,11.4,yes,no,http://coleridgemedicalcentre.co.uk,01404 814447,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Cheriton Bishop Surgery,10.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Morchard Bishop Surgery,10.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 877208,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Woodbury Surgery,10.8,yes,no,http://www.woodburysurgery.co.uk,01395 232509,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Sampford Peverell Surgery,10.2,yes,no,Not available,01884 820304,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Willand Surgery,9.1,yes,no,Not available,01884 821878,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Christow Surgery,11.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Isca Medical Practice,5.5,yes,no,http://www.iscamp.co.uk,01392 273805,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Bow Medical Practice,12.2,yes,no,http://www.bowmedicalpractice.co.uk/,01363 82333,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Underhill Surgery,11.9,yes,no,http://www.claremontmedicalpractice.co.uk,01395 265797,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Westbank Practice - Exminster Surgery,9.0,yes,no,http://www.westbankpractice.com/,01392 833230,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-TOPSHAM SURGERY,9.0,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Westbank Practice,9.0,yes,no,http://www.westbankpractice.com,01626 890368,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Blundells School,7.4,no,no,Not available,Not available,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Ide Lane Surgery,7.4,yes,no,http://www.idelanesurgery.nhs.uk,01392 428900,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Coleridge Medical Centre Sandfords Surgery,8.0,yes,no,http://www.coleridgemedicalcentre.co.uk,01404 814447,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Castle Place Practice,7.2,yes,no,https://castleplacepractice.nhs.uk,01884 252333,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Glasshouse Medical Centre,7.8,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Topsham Surgery at Sclns,7.3,no,no,Not available,Not available,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-College Surgery Partnership,7.1,yes,no,http://www.collegesurgery.org.uk,01884 831300,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Cranbrook Medical Practice,6.4,yes,no,https://www.cranbrookmedicalpractice.nhs.uk/,01404 819207,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-South Lawn Medical Practice,5.9,yes,no,http://www.slmp.co.uk,01392 281100,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Bramblehaies Surgery,7.0,yes,no,http://www.bramblehaiessurgery.co.uk/,01884 33536,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Hill Barton Surgery,6.1,yes,no,http://www.hillbartonsurgery.co.uk/,01392 444242,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-St Thomas Medical Group,6.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676676,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Amicus Health,7.0,yes,no,http://amicushealth.nhs.uk/,01884 252337,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Southernhay House Surgery,5.8,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-WONFORD GREEN SURGERY,6.5,yes,no,http://www.wonfordgreensurgery.co.uk,01392 250135,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-BARNFIELD HILL SURGERY,5.8,yes,no,http://www.barnfieldhillsurgery.co.uk,01392 432761,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-St Leonards Practice,5.7,yes,no,http://www.stleonardssurgery.co.uk,01392 201790,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,gp_address
-Wyndham House Surgery,2.1,yes,yes,Not available,01392 860034,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Broadclyst Surgery,4.7,yes,no,Not available,01392 469666,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Redlands Primary Care – Thorverton,0.2,yes,no,https://www.redlandsprimarycare.nhs.uk/,01363 727111,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Redlands Primary Care,5.6,yes,yes,https://www.redlandsprimarycare.nhs.uk/,01363 727111,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Mount Pleasant Health Centre,5.1,yes,no,http://www.mountpleasanthealthcentre.co.uk/,01392 255722,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Cheriton Fitzpaine Surgery,4.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 866322,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Bradninch Surgery,4.9,yes,no,Not available,01392 881952,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Student Health Centre,5.0,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676606,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Whipton Branch Surgery,5.3,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Pinhoe Surgery,5.4,yes,no,Not available,01392 469666,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Clock Tower Surgery,5.5,yes,no,http://www.devondoctors.co.uk/,01392 208290,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Exwick Health Centre,5.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676600,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Whipton Surgery,5.4,yes,no,https://www.thewhiptonsurgery.co.uk,01392 462770,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-St Leonards Practice,5.7,yes,no,http://www.stleonardssurgery.co.uk,01392 201790,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Amicus Health,7.0,yes,no,http://amicushealth.nhs.uk/,01884 252337,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Coleridge Medical Centre Sandfords Surgery,8.0,yes,no,http://www.coleridgemedicalcentre.co.uk,01404 814447,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Isca Medical Practice,5.5,yes,no,http://www.iscamp.co.uk,01392 273805,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Foxhayes Practice,5.7,yes,no,https://www.foxhayespractice.nhs.uk,01392 208789,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Ide Lane Surgery,7.4,yes,no,http://www.idelanesurgery.nhs.uk,01392 428900,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Westbank Practice - Exminster Surgery,9.0,yes,no,http://www.westbankpractice.com/,01392 833230,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Westbank Practice,9.0,yes,no,http://www.westbankpractice.com,01626 890368,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Amicus Health - Bampton Surgery,12.7,yes,no,https://www.amicushealth.nhs.uk,01398 331304,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Treetops Surgery,13.7,yes,no,Not available,01395 226540,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-TOPSHAM SURGERY,9.0,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Willand Surgery,9.1,yes,no,Not available,01884 821878,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Glasshouse Medical Centre,7.8,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Bicton College of Agriculture,13.2,no,no,Not available,Not available,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Christow Surgery,11.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Underhill Surgery,11.9,yes,no,http://www.claremontmedicalpractice.co.uk,01395 265797,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Coleridge Medical Centre,11.4,yes,no,http://coleridgemedicalcentre.co.uk,01404 814447,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Bow Medical Practice,12.2,yes,no,http://www.bowmedicalpractice.co.uk/,01363 82333,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Morchard Bishop Surgery,10.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 877208,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Cheriton Bishop Surgery,10.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Mid Devon Medical Practice,10.8,yes,no,http://www.middevonmedicalpractice.co.uk/index.php,01884 860205,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Woodbury Surgery,10.8,yes,no,http://www.woodburysurgery.co.uk,01395 232509,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Blundells School,7.4,no,no,Not available,Not available,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Uffculme Surgery,11.0,yes,no,Not available,01884 840743,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Topsham Surgery at Sclns,7.3,no,no,Not available,Not available,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Castle Place Practice,7.2,yes,no,https://castleplacepractice.nhs.uk,01884 252333,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-College Surgery Partnership,7.1,yes,no,http://www.collegesurgery.org.uk,01884 831300,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Sampford Peverell Surgery,10.2,yes,no,Not available,01884 820304,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-WONFORD GREEN SURGERY,6.5,yes,no,http://www.wonfordgreensurgery.co.uk,01392 250135,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Bramblehaies Surgery,7.0,yes,no,http://www.bramblehaiessurgery.co.uk/,01884 33536,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-St Thomas Medical Group,6.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676676,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Heavitree Practice,5.9,yes,no,http://www.theheavitreepractice.co.uk,01392 222099,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Cranbrook Medical Practice,6.4,yes,no,https://www.cranbrookmedicalpractice.nhs.uk/,01404 819207,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-South Lawn Medical Practice,5.9,yes,no,http://www.slmp.co.uk,01392 281100,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-BARNFIELD HILL SURGERY,5.8,yes,no,http://www.barnfieldhillsurgery.co.uk,01392 432761,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Southernhay House Surgery,5.8,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Hill Barton Surgery,6.1,yes,no,http://www.hillbartonsurgery.co.uk/,01392 444242,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,gp_address
-Redlands Primary Care,5.6,yes,yes,https://www.redlandsprimarycare.nhs.uk/,01363 727111,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Wyndham House Surgery,2.1,yes,yes,Not available,01392 860034,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Mount Pleasant Health Centre,5.1,yes,no,http://www.mountpleasanthealthcentre.co.uk/,01392 255722,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Whipton Branch Surgery,5.3,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Student Health Centre,5.0,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676606,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Cheriton Fitzpaine Surgery,4.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 866322,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Bradninch Surgery,4.9,yes,no,Not available,01392 881952,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Redlands Primary Care – Thorverton,0.2,yes,no,https://www.redlandsprimarycare.nhs.uk/,01363 727111,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Pinhoe Surgery,5.4,yes,no,Not available,01392 469666,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Isca Medical Practice,5.5,yes,no,http://www.iscamp.co.uk,01392 273805,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Exwick Health Centre,5.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676600,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Whipton Surgery,5.4,yes,no,https://www.thewhiptonsurgery.co.uk,01392 462770,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Heavitree Practice,5.9,yes,no,http://www.theheavitreepractice.co.uk,01392 222099,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Clock Tower Surgery,5.5,yes,no,http://www.devondoctors.co.uk/,01392 208290,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Glasshouse Medical Centre,7.8,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Amicus Health - Bampton Surgery,12.7,yes,no,https://www.amicushealth.nhs.uk,01398 331304,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Southernhay House Surgery,5.8,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Treetops Surgery,13.7,yes,no,Not available,01395 226540,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Bow Medical Practice,12.2,yes,no,http://www.bowmedicalpractice.co.uk/,01363 82333,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Bicton College of Agriculture,13.2,no,no,Not available,Not available,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Christow Surgery,11.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Broadclyst Surgery,4.7,yes,no,Not available,01392 469666,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Uffculme Surgery,11.0,yes,no,Not available,01884 840743,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Mid Devon Medical Practice,10.8,yes,no,http://www.middevonmedicalpractice.co.uk/index.php,01884 860205,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Cheriton Bishop Surgery,10.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Woodbury Surgery,10.8,yes,no,http://www.woodburysurgery.co.uk,01395 232509,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Willand Surgery,9.1,yes,no,Not available,01884 821878,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Underhill Surgery,11.9,yes,no,http://www.claremontmedicalpractice.co.uk,01395 265797,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Morchard Bishop Surgery,10.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 877208,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Sampford Peverell Surgery,10.2,yes,no,Not available,01884 820304,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Coleridge Medical Centre,11.4,yes,no,http://coleridgemedicalcentre.co.uk,01404 814447,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Westbank Practice - Exminster Surgery,9.0,yes,no,http://www.westbankpractice.com/,01392 833230,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Coleridge Medical Centre Sandfords Surgery,8.0,yes,no,http://www.coleridgemedicalcentre.co.uk,01404 814447,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Topsham Surgery at Sclns,7.3,no,no,Not available,Not available,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-TOPSHAM SURGERY,9.0,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Westbank Practice,9.0,yes,no,http://www.westbankpractice.com,01626 890368,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Bramblehaies Surgery,7.0,yes,no,http://www.bramblehaiessurgery.co.uk/,01884 33536,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-College Surgery Partnership,7.1,yes,no,http://www.collegesurgery.org.uk,01884 831300,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Amicus Health,7.0,yes,no,http://amicushealth.nhs.uk/,01884 252337,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Blundells School,7.4,no,no,Not available,Not available,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-WONFORD GREEN SURGERY,6.5,yes,no,http://www.wonfordgreensurgery.co.uk,01392 250135,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Ide Lane Surgery,7.4,yes,no,http://www.idelanesurgery.nhs.uk,01392 428900,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Castle Place Practice,7.2,yes,no,https://castleplacepractice.nhs.uk,01884 252333,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-South Lawn Medical Practice,5.9,yes,no,http://www.slmp.co.uk,01392 281100,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-BARNFIELD HILL SURGERY,5.8,yes,no,http://www.barnfieldhillsurgery.co.uk,01392 432761,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Cranbrook Medical Practice,6.4,yes,no,https://www.cranbrookmedicalpractice.nhs.uk/,01404 819207,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Hill Barton Surgery,6.1,yes,no,http://www.hillbartonsurgery.co.uk/,01392 444242,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-Foxhayes Practice,5.7,yes,no,https://www.foxhayespractice.nhs.uk,01392 208789,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-St Thomas Medical Group,6.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676676,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-St Leonards Practice,5.7,yes,no,http://www.stleonardssurgery.co.uk,01392 201790,"F, o, r, e, S, t, r, e, e, t, ,, S, i, l, v, e, r, t, o, n, ,, E, x, e, t, e, r, ,, D, e, v, o, n, ,, E, X, 5, 4, H, Z"
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,gp_address
-Bradninch Surgery,4.9,yes,no,Not available,01392 881952,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Wyndham House Surgery,2.1,yes,yes,Not available,01392 860034,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Broadclyst Surgery,4.7,yes,no,Not available,01392 469666,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Redlands Primary Care – Thorverton,0.2,yes,no,https://www.redlandsprimarycare.nhs.uk/,01363 727111,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Redlands Primary Care,5.6,yes,yes,https://www.redlandsprimarycare.nhs.uk/,01363 727111,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Cheriton Fitzpaine Surgery,4.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 866322,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Student Health Centre,5.0,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676606,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Whipton Branch Surgery,5.3,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Whipton Surgery,5.4,yes,no,https://www.thewhiptonsurgery.co.uk,01392 462770,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Exwick Health Centre,5.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676600,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-St Leonards Practice,5.7,yes,no,http://www.stleonardssurgery.co.uk,01392 201790,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Pinhoe Surgery,5.4,yes,no,Not available,01392 469666,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Mount Pleasant Health Centre,5.1,yes,no,http://www.mountpleasanthealthcentre.co.uk/,01392 255722,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Clock Tower Surgery,5.5,yes,no,http://www.devondoctors.co.uk/,01392 208290,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Foxhayes Practice,5.7,yes,no,https://www.foxhayespractice.nhs.uk,01392 208789,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Treetops Surgery,13.7,yes,no,Not available,01395 226540,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Bicton College of Agriculture,13.2,no,no,Not available,Not available,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Christow Surgery,11.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Bow Medical Practice,12.2,yes,no,http://www.bowmedicalpractice.co.uk/,01363 82333,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Isca Medical Practice,5.5,yes,no,http://www.iscamp.co.uk,01392 273805,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Coleridge Medical Centre,11.4,yes,no,http://coleridgemedicalcentre.co.uk,01404 814447,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Underhill Surgery,11.9,yes,no,http://www.claremontmedicalpractice.co.uk,01395 265797,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Amicus Health - Bampton Surgery,12.7,yes,no,https://www.amicushealth.nhs.uk,01398 331304,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Mid Devon Medical Practice,10.8,yes,no,http://www.middevonmedicalpractice.co.uk/index.php,01884 860205,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Uffculme Surgery,11.0,yes,no,Not available,01884 840743,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Woodbury Surgery,10.8,yes,no,http://www.woodburysurgery.co.uk,01395 232509,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Morchard Bishop Surgery,10.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 877208,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Cheriton Bishop Surgery,10.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Sampford Peverell Surgery,10.2,yes,no,Not available,01884 820304,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Westbank Practice - Exminster Surgery,9.0,yes,no,http://www.westbankpractice.com/,01392 833230,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Coleridge Medical Centre Sandfords Surgery,8.0,yes,no,http://www.coleridgemedicalcentre.co.uk,01404 814447,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Westbank Practice,9.0,yes,no,http://www.westbankpractice.com,01626 890368,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-TOPSHAM SURGERY,9.0,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Willand Surgery,9.1,yes,no,Not available,01884 821878,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Ide Lane Surgery,7.4,yes,no,http://www.idelanesurgery.nhs.uk,01392 428900,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Glasshouse Medical Centre,7.8,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Topsham Surgery at Sclns,7.3,no,no,Not available,Not available,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Castle Place Practice,7.2,yes,no,https://castleplacepractice.nhs.uk,01884 252333,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Cranbrook Medical Practice,6.4,yes,no,https://www.cranbrookmedicalpractice.nhs.uk/,01404 819207,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Bramblehaies Surgery,7.0,yes,no,http://www.bramblehaiessurgery.co.uk/,01884 33536,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-College Surgery Partnership,7.1,yes,no,http://www.collegesurgery.org.uk,01884 831300,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Hill Barton Surgery,6.1,yes,no,http://www.hillbartonsurgery.co.uk/,01392 444242,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-WONFORD GREEN SURGERY,6.5,yes,no,http://www.wonfordgreensurgery.co.uk,01392 250135,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Blundells School,7.4,no,no,Not available,Not available,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Southernhay House Surgery,5.8,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Amicus Health,7.0,yes,no,http://amicushealth.nhs.uk/,01884 252337,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-St Thomas Medical Group,6.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676676,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-South Lawn Medical Practice,5.9,yes,no,http://www.slmp.co.uk,01392 281100,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Heavitree Practice,5.9,yes,no,http://www.theheavitreepractice.co.uk,01392 222099,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-BARNFIELD HILL SURGERY,5.8,yes,no,http://www.barnfieldhillsurgery.co.uk,01392 432761,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,gp_address
-Wyndham House Surgery,2.1,yes,yes,Not available,01392 860034,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Mount Pleasant Health Centre,5.1,yes,no,http://www.mountpleasanthealthcentre.co.uk/,01392 255722,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Bradninch Surgery,4.9,yes,no,Not available,01392 881952,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Broadclyst Surgery,4.7,yes,no,Not available,01392 469666,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Redlands Primary Care – Thorverton,0.2,yes,no,https://www.redlandsprimarycare.nhs.uk/,01363 727111,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Redlands Primary Care,5.6,yes,yes,https://www.redlandsprimarycare.nhs.uk/,01363 727111,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Cheriton Fitzpaine Surgery,4.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 866322,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Foxhayes Practice,5.7,yes,no,https://www.foxhayespractice.nhs.uk,01392 208789,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Whipton Surgery,5.4,yes,no,https://www.thewhiptonsurgery.co.uk,01392 462770,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Isca Medical Practice,5.5,yes,no,http://www.iscamp.co.uk,01392 273805,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Pinhoe Surgery,5.4,yes,no,Not available,01392 469666,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Clock Tower Surgery,5.5,yes,no,http://www.devondoctors.co.uk/,01392 208290,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Bicton College of Agriculture,13.2,no,no,Not available,Not available,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Exwick Health Centre,5.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676600,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Whipton Branch Surgery,5.3,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Amicus Health - Bampton Surgery,12.7,yes,no,https://www.amicushealth.nhs.uk,01398 331304,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Underhill Surgery,11.9,yes,no,http://www.claremontmedicalpractice.co.uk,01395 265797,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Treetops Surgery,13.7,yes,no,Not available,01395 226540,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Southernhay House Surgery,5.8,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Cheriton Bishop Surgery,10.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Coleridge Medical Centre,11.4,yes,no,http://coleridgemedicalcentre.co.uk,01404 814447,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Bow Medical Practice,12.2,yes,no,http://www.bowmedicalpractice.co.uk/,01363 82333,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Uffculme Surgery,11.0,yes,no,Not available,01884 840743,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Student Health Centre,5.0,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676606,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Christow Surgery,11.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Morchard Bishop Surgery,10.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 877208,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Woodbury Surgery,10.8,yes,no,http://www.woodburysurgery.co.uk,01395 232509,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Mid Devon Medical Practice,10.8,yes,no,http://www.middevonmedicalpractice.co.uk/index.php,01884 860205,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Sampford Peverell Surgery,10.2,yes,no,Not available,01884 820304,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Westbank Practice - Exminster Surgery,9.0,yes,no,http://www.westbankpractice.com/,01392 833230,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Willand Surgery,9.1,yes,no,Not available,01884 821878,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Glasshouse Medical Centre,7.8,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Coleridge Medical Centre Sandfords Surgery,8.0,yes,no,http://www.coleridgemedicalcentre.co.uk,01404 814447,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Ide Lane Surgery,7.4,yes,no,http://www.idelanesurgery.nhs.uk,01392 428900,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Blundells School,7.4,no,no,Not available,Not available,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Westbank Practice,9.0,yes,no,http://www.westbankpractice.com,01626 890368,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-TOPSHAM SURGERY,9.0,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Bramblehaies Surgery,7.0,yes,no,http://www.bramblehaiessurgery.co.uk/,01884 33536,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Cranbrook Medical Practice,6.4,yes,no,https://www.cranbrookmedicalpractice.nhs.uk/,01404 819207,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Amicus Health,7.0,yes,no,http://amicushealth.nhs.uk/,01884 252337,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-St Thomas Medical Group,6.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676676,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Topsham Surgery at Sclns,7.3,no,no,Not available,Not available,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Castle Place Practice,7.2,yes,no,https://castleplacepractice.nhs.uk,01884 252333,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-College Surgery Partnership,7.1,yes,no,http://www.collegesurgery.org.uk,01884 831300,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Hill Barton Surgery,6.1,yes,no,http://www.hillbartonsurgery.co.uk/,01392 444242,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-WONFORD GREEN SURGERY,6.5,yes,no,http://www.wonfordgreensurgery.co.uk,01392 250135,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-BARNFIELD HILL SURGERY,5.8,yes,no,http://www.barnfieldhillsurgery.co.uk,01392 432761,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-South Lawn Medical Practice,5.9,yes,no,http://www.slmp.co.uk,01392 281100,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Heavitree Practice,5.9,yes,no,http://www.theheavitreepractice.co.uk,01392 222099,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-St Leonards Practice,5.7,yes,no,http://www.stleonardssurgery.co.uk,01392 201790,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,gp_address
-Wyndham House Surgery,2.1,yes,yes,Not available,01392 860034,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Redlands Primary Care – Thorverton,0.2,yes,no,https://www.redlandsprimarycare.nhs.uk/,01363 727111,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Whipton Branch Surgery,5.3,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Cheriton Fitzpaine Surgery,4.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 866322,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Whipton Surgery,5.4,yes,no,https://www.thewhiptonsurgery.co.uk,01392 462770,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Bradninch Surgery,4.9,yes,no,Not available,01392 881952,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Broadclyst Surgery,4.7,yes,no,Not available,01392 469666,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Redlands Primary Care,5.6,yes,yes,https://www.redlandsprimarycare.nhs.uk/,01363 727111,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Student Health Centre,5.0,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676606,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Exwick Health Centre,5.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676600,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Foxhayes Practice,5.7,yes,no,https://www.foxhayespractice.nhs.uk,01392 208789,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Pinhoe Surgery,5.4,yes,no,Not available,01392 469666,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Isca Medical Practice,5.5,yes,no,http://www.iscamp.co.uk,01392 273805,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Mount Pleasant Health Centre,5.1,yes,no,http://www.mountpleasanthealthcentre.co.uk/,01392 255722,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-South Lawn Medical Practice,5.9,yes,no,http://www.slmp.co.uk,01392 281100,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Treetops Surgery,13.7,yes,no,Not available,01395 226540,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Mid Devon Medical Practice,10.8,yes,no,http://www.middevonmedicalpractice.co.uk/index.php,01884 860205,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-BARNFIELD HILL SURGERY,5.8,yes,no,http://www.barnfieldhillsurgery.co.uk,01392 432761,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Clock Tower Surgery,5.5,yes,no,http://www.devondoctors.co.uk/,01392 208290,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Amicus Health - Bampton Surgery,12.7,yes,no,https://www.amicushealth.nhs.uk,01398 331304,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Bicton College of Agriculture,13.2,no,no,Not available,Not available,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Underhill Surgery,11.9,yes,no,http://www.claremontmedicalpractice.co.uk,01395 265797,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Bow Medical Practice,12.2,yes,no,http://www.bowmedicalpractice.co.uk/,01363 82333,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Cheriton Bishop Surgery,10.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Christow Surgery,11.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Coleridge Medical Centre,11.4,yes,no,http://coleridgemedicalcentre.co.uk,01404 814447,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Uffculme Surgery,11.0,yes,no,Not available,01884 840743,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Morchard Bishop Surgery,10.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 877208,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Sampford Peverell Surgery,10.2,yes,no,Not available,01884 820304,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Willand Surgery,9.1,yes,no,Not available,01884 821878,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Woodbury Surgery,10.8,yes,no,http://www.woodburysurgery.co.uk,01395 232509,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Westbank Practice,9.0,yes,no,http://www.westbankpractice.com,01626 890368,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Coleridge Medical Centre Sandfords Surgery,8.0,yes,no,http://www.coleridgemedicalcentre.co.uk,01404 814447,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Blundells School,7.4,no,no,Not available,Not available,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Glasshouse Medical Centre,7.8,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Ide Lane Surgery,7.4,yes,no,http://www.idelanesurgery.nhs.uk,01392 428900,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Westbank Practice - Exminster Surgery,9.0,yes,no,http://www.westbankpractice.com/,01392 833230,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Castle Place Practice,7.2,yes,no,https://castleplacepractice.nhs.uk,01884 252333,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-TOPSHAM SURGERY,9.0,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Amicus Health,7.0,yes,no,http://amicushealth.nhs.uk/,01884 252337,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Topsham Surgery at Sclns,7.3,no,no,Not available,Not available,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Bramblehaies Surgery,7.0,yes,no,http://www.bramblehaiessurgery.co.uk/,01884 33536,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Cranbrook Medical Practice,6.4,yes,no,https://www.cranbrookmedicalpractice.nhs.uk/,01404 819207,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-WONFORD GREEN SURGERY,6.5,yes,no,http://www.wonfordgreensurgery.co.uk,01392 250135,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Heavitree Practice,5.9,yes,no,http://www.theheavitreepractice.co.uk,01392 222099,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Southernhay House Surgery,5.8,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-St Thomas Medical Group,6.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676676,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Hill Barton Surgery,6.1,yes,no,http://www.hillbartonsurgery.co.uk/,01392 444242,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-St Leonards Practice,5.7,yes,no,http://www.stleonardssurgery.co.uk,01392 201790,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-College Surgery Partnership,7.1,yes,no,http://www.collegesurgery.org.uk,01884 831300,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,gp_address
-Clock Tower Surgery,5.5,yes,no,http://www.devondoctors.co.uk/,01392 208290,"
-Wat Tyler House,
-King William Street,
-Exeter,
-Devon,
-EX4 6PD  "
-Exwick Health Centre,5.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676600,"
-New Valley Road,
-Exwick,
-Exeter,
-Devon,
-EX4 2AD  "
-Foxhayes Practice,5.7,yes,no,https://www.foxhayespractice.nhs.uk,01392 208789,"
-117 Exwick Road,
-Exeter,
-Devon,
-EX4 2BH  "
-Wyndham House Surgery,2.1,yes,yes,Not available,01392 860034,"
-Fore Street,
-Silverton,
-Exeter,
-Devon,
-EX5 4HZ  "
-Whipton Branch Surgery,5.3,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,"
-The Branch Surgery,
-10 Whipton Village Road,
-Exeter,
-Devon,
-EX4 8AR  "
-Whipton Surgery,5.4,yes,no,https://www.thewhiptonsurgery.co.uk,01392 462770,"
-378 Pinhoe Road,
-Whipton,
-Exeter,
-Devon,
-EX4 8EG  "
-Mount Pleasant Health Centre,5.1,yes,no,http://www.mountpleasanthealthcentre.co.uk/,01392 255722,"
-Mount Pleasant Road,
-Exeter,
-Devon,
-EX4 7BW  "
-Pinhoe Surgery,5.4,yes,no,Not available,01392 469666,"
-Pinn Lane,
-Pinhoe,
-Exeter,
-Devon,
-EX1 3SY  "
-Bradninch Surgery,4.9,yes,no,Not available,01392 881952,"
-4 Millway,
-Bradninch,
-Devon,
-EX5 4NL  "
-Isca Medical Practice,5.5,yes,no,http://www.iscamp.co.uk,01392 273805,"
-38 Polsloe Road,
-Exeter,
-Devon,
-EX1 2DW  "
-Broadclyst Surgery,4.7,yes,no,Not available,01392 469666,"
-The Hellings,
-Town Hill,
-Broadclyst,
-Exeter,
-Devon,
-EX5 3EJ  "
-Cheriton Fitzpaine Surgery,4.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 866322,"
-Barton Close,
-Cheriton Fitzpaine,
-Devon,
-EX17 4JB  "
-Southernhay House Surgery,5.8,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,"
-30 Barnfield Road,
-Exeter,
-Devon,
-EX1 1RX  "
-Redlands Primary Care – Thorverton,0.2,yes,no,https://www.redlandsprimarycare.nhs.uk/,01363 727111,"
-The Surgery,
-Thorverton,
-Exeter,
-Devon,
-EX5 5NT  "
-Treetops Surgery,13.7,yes,no,Not available,01395 226540,"
-Prince Of Wales Drive,
-Exmouth,
-Devon,
-EX8 4SW  "
-Student Health Centre,5.0,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676606,"
-Reed Mews,
-Streatham Drive,
-Exeter,
-Devon,
-EX4 4QP  "
-Redlands Primary Care,5.6,yes,yes,https://www.redlandsprimarycare.nhs.uk/,01363 727111,"
-Newcombes,
-Crediton,
-EX17 2AR  "
-Bow Medical Practice,12.2,yes,no,http://www.bowmedicalpractice.co.uk/,01363 82333,"
-Iter Cross,
-Bow,
-Crediton,
-Devon,
-EX17 6FB  "
-Christow Surgery,11.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,"
-Layne Fields,
-Christow,
-Devon,
-EX6 7NY  "
-Amicus Health - Bampton Surgery,12.7,yes,no,https://www.amicushealth.nhs.uk,01398 331304,"
-Barnhay,
-Bampton,
-Tiverton,
-Devon,
-EX16 9NB  "
-Uffculme Surgery,11.0,yes,no,Not available,01884 840743,"
-Commercial Road,
-Uffculme,
-Devon,
-EX15 3EB  "
-Coleridge Medical Centre,11.4,yes,no,http://coleridgemedicalcentre.co.uk,01404 814447,"
-Canaan Way,
-Ottery St. Mary,
-Devon,
-EX11 1EQ  "
-Mid Devon Medical Practice,10.8,yes,no,http://www.middevonmedicalpractice.co.uk/index.php,01884 860205,"
-Witheridge Medical Centre,
-Cannington Road,
-Witheridge,
-Tiverton,
-Devon,
-EX16 8EZ  "
-Woodbury Surgery,10.8,yes,no,http://www.woodburysurgery.co.uk,01395 232509,"
-Fulford Way,
-Woodbury,
-Exeter,
-Devon,
-EX5 1NZ  "
-Underhill Surgery,11.9,yes,no,http://www.claremontmedicalpractice.co.uk,01395 265797,"
-Lympstone,
-Lympstone,
-Exmouth,
-Devon,
-EX8 5HH  "
-Cheriton Bishop Surgery,10.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,"
-Cheriton Bishop,
-Cheriton Cross,
-Exeter,
-Devon,
-EX6 6JA  "
-Willand Surgery,9.1,yes,no,Not available,01884 821878,"
-17 South View Close,
-Willand,
-Devon,
-EX15 2QP  "
-Morchard Bishop Surgery,10.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 877208,"
-Chulmleigh Road,
-Morchard Bishop,
-Devon,
-EX17 6NZ  "
-Sampford Peverell Surgery,10.2,yes,no,Not available,01884 820304,"
-29 Lower Town,
-Sampford Peverell,
-Tiverton,
-Devon,
-EX16 7BJ  "
-TOPSHAM SURGERY,9.0,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,"
-Holman Way,
-Topsham,
-Exeter,
-Devon,
-EX3 0EN  "
-Westbank Practice - Exminster Surgery,9.0,yes,no,http://www.westbankpractice.com/,01392 833230,"
-Church Stile,
-Exminster,
-Exeter,
-Devon,
-EX6 8DF  "
-Ide Lane Surgery,7.4,yes,no,http://www.idelanesurgery.nhs.uk,01392 428900,"
-Ide Lane,
-Alphington,
-Exeter,
-Devon,
-EX2 8UP  "
-Glasshouse Medical Centre,7.8,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,"
-Glasshouse Lane,
-Countess Wear,
-Exeter,
-Devon,
-EX2 7BT  "
-Blundells School,7.4,no,no,Not available,Not available,"
-Blundells Road,
-Tiverton,
-Devon,
-EX16 4DT  "
-Westbank Practice,9.0,yes,no,http://www.westbankpractice.com,01626 890368,"
-The Limes Surgery,
-Church Stile,
-Exminster,
-Exeter,
-Devon,
-EX6 8DF  "
-Coleridge Medical Centre Sandfords Surgery,8.0,yes,no,http://www.coleridgemedicalcentre.co.uk,01404 814447,"
-Church Road,
-Whimple,
-Exeter,
-Devon,
-EX5 2TL  "
-College Surgery Partnership,7.1,yes,no,http://www.collegesurgery.org.uk,01884 831300,"
-Culm Valley Int Ctr For Health,
-Willand Road,
-Cullompton,
-Devon,
-EX15 1FE  "
-Bramblehaies Surgery,7.0,yes,no,http://www.bramblehaiessurgery.co.uk/,01884 33536,"
-College Road,
-Cullompton,
-Devon,
-EX15 1TZ  "
-Amicus Health,7.0,yes,no,http://amicushealth.nhs.uk/,01884 252337,"
-Clare House Surgery,
-Newport Street,
-Tiverton,
-Devon,
-EX16 6NJ  "
-Topsham Surgery at Sclns,7.3,no,no,Not available,Not available,"
-The West of England School,
-Countess Wear,
-Topsham Road,
-Exeter,
-Devon,
-EX2 6HA  "
-Cranbrook Medical Practice,6.4,yes,no,https://www.cranbrookmedicalpractice.nhs.uk/,01404 819207,"
-Younghayes Centre,
-Younghayes Road,
-Cranbrook,
-Exeter,
-Devon,
-EX5 7DR  "
-Castle Place Practice,7.2,yes,no,https://castleplacepractice.nhs.uk,01884 252333,"
-Kennedy Way,
-Tiverton,
-Devon,
-EX16 6NP  "
-Bicton College of Agriculture,13.2,no,no,Not available,Not available,"
-Bicton College of Agriculture,
-East Budleigh,
-Devon,
-EX9 7BY  "
-WONFORD GREEN SURGERY,6.5,yes,no,http://www.wonfordgreensurgery.co.uk,01392 250135,"
-Burnthouse Lane,
-Exeter,
-Devon,
-EX2 6NF  "
-Heavitree Practice,5.9,yes,no,http://www.theheavitreepractice.co.uk,01392 222099,"
-Heavitree Health Centre,
-South Lawn Terrace,
-Exeter,
-EX1 2RX  "
-South Lawn Medical Practice,5.9,yes,no,http://www.slmp.co.uk,01392 281100,"
-Heavitree Health Centre,
-South Lawn Terrace,
-Exeter,
-Devon,
-EX1 2RX  "
-St Thomas Medical Group,6.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676676,"
-St. Thomas Health Centre,
-Cowick Street,
-St. Thomas,
-Exeter,
-Devon,
-EX4 1HJ  "
-St Leonards Practice,5.7,yes,no,http://www.stleonardssurgery.co.uk,01392 201790,"
-Athelstan Road,
-Exeter,
-Devon,
-EX1 1SB  "
-BARNFIELD HILL SURGERY,5.8,yes,no,http://www.barnfieldhillsurgery.co.uk,01392 432761,"
-10-12 Barnfield Hill,
-Exeter,
-Devon,
-EX1 1SR  "
-Hill Barton Surgery,6.1,yes,no,http://www.hillbartonsurgery.co.uk/,01392 444242,"
-1 Lower Hill Barton Road,
-Exeter,
-Devon,
-EX1 3EN  "
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,gp_address
-St Leonards Practice,5.7,yes,no,http://www.stleonardssurgery.co.uk,01392 201790,"
-Athelstan Road,
-Exeter,
-Devon,
-EX1 1SB  "
-Southernhay House Surgery,5.8,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,"
-30 Barnfield Road,
-Exeter,
-Devon,
-EX1 1RX  "
-Heavitree Practice,5.9,yes,no,http://www.theheavitreepractice.co.uk,01392 222099,"
-Heavitree Health Centre,
-South Lawn Terrace,
-Exeter,
-EX1 2RX  "
-Redlands Primary Care,5.6,yes,yes,https://www.redlandsprimarycare.nhs.uk/,01363 727111,"
-Newcombes,
-Crediton,
-EX17 2AR  "
-Wyndham House Surgery,2.1,yes,yes,Not available,01392 860034,"
-Fore Street,
-Silverton,
-Exeter,
-Devon,
-EX5 4HZ  "
-Foxhayes Practice,5.7,yes,no,https://www.foxhayespractice.nhs.uk,01392 208789,"
-117 Exwick Road,
-Exeter,
-Devon,
-EX4 2BH  "
-Isca Medical Practice,5.5,yes,no,http://www.iscamp.co.uk,01392 273805,"
-38 Polsloe Road,
-Exeter,
-Devon,
-EX1 2DW  "
-BARNFIELD HILL SURGERY,5.8,yes,no,http://www.barnfieldhillsurgery.co.uk,01392 432761,"
-10-12 Barnfield Hill,
-Exeter,
-Devon,
-EX1 1SR  "
-Pinhoe Surgery,5.4,yes,no,Not available,01392 469666,"
-Pinn Lane,
-Pinhoe,
-Exeter,
-Devon,
-EX1 3SY  "
-Whipton Surgery,5.4,yes,no,https://www.thewhiptonsurgery.co.uk,01392 462770,"
-378 Pinhoe Road,
-Whipton,
-Exeter,
-Devon,
-EX4 8EG  "
-Student Health Centre,5.0,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676606,"
-Reed Mews,
-Streatham Drive,
-Exeter,
-Devon,
-EX4 4QP  "
-Mount Pleasant Health Centre,5.1,yes,no,http://www.mountpleasanthealthcentre.co.uk/,01392 255722,"
-Mount Pleasant Road,
-Exeter,
-Devon,
-EX4 7BW  "
-Whipton Branch Surgery,5.3,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,"
-The Branch Surgery,
-10 Whipton Village Road,
-Exeter,
-Devon,
-EX4 8AR  "
-Exwick Health Centre,5.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676600,"
-New Valley Road,
-Exwick,
-Exeter,
-Devon,
-EX4 2AD  "
-Bradninch Surgery,4.9,yes,no,Not available,01392 881952,"
-4 Millway,
-Bradninch,
-Devon,
-EX5 4NL  "
-Bicton College of Agriculture,13.2,no,no,Not available,Not available,"
-Bicton College of Agriculture,
-East Budleigh,
-Devon,
-EX9 7BY  "
-Clock Tower Surgery,5.5,yes,no,http://www.devondoctors.co.uk/,01392 208290,"
-Wat Tyler House,
-King William Street,
-Exeter,
-Devon,
-EX4 6PD  "
-Underhill Surgery,11.9,yes,no,http://www.claremontmedicalpractice.co.uk,01395 265797,"
-Lympstone,
-Lympstone,
-Exmouth,
-Devon,
-EX8 5HH  "
-Bow Medical Practice,12.2,yes,no,http://www.bowmedicalpractice.co.uk/,01363 82333,"
-Iter Cross,
-Bow,
-Crediton,
-Devon,
-EX17 6FB  "
-Coleridge Medical Centre,11.4,yes,no,http://coleridgemedicalcentre.co.uk,01404 814447,"
-Canaan Way,
-Ottery St. Mary,
-Devon,
-EX11 1EQ  "
-Cheriton Bishop Surgery,10.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,"
-Cheriton Bishop,
-Cheriton Cross,
-Exeter,
-Devon,
-EX6 6JA  "
-Uffculme Surgery,11.0,yes,no,Not available,01884 840743,"
-Commercial Road,
-Uffculme,
-Devon,
-EX15 3EB  "
-Treetops Surgery,13.7,yes,no,Not available,01395 226540,"
-Prince Of Wales Drive,
-Exmouth,
-Devon,
-EX8 4SW  "
-Woodbury Surgery,10.8,yes,no,http://www.woodburysurgery.co.uk,01395 232509,"
-Fulford Way,
-Woodbury,
-Exeter,
-Devon,
-EX5 1NZ  "
-Mid Devon Medical Practice,10.8,yes,no,http://www.middevonmedicalpractice.co.uk/index.php,01884 860205,"
-Witheridge Medical Centre,
-Cannington Road,
-Witheridge,
-Tiverton,
-Devon,
-EX16 8EZ  "
-Christow Surgery,11.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,"
-Layne Fields,
-Christow,
-Devon,
-EX6 7NY  "
-Amicus Health - Bampton Surgery,12.7,yes,no,https://www.amicushealth.nhs.uk,01398 331304,"
-Barnhay,
-Bampton,
-Tiverton,
-Devon,
-EX16 9NB  "
-Westbank Practice - Exminster Surgery,9.0,yes,no,http://www.westbankpractice.com/,01392 833230,"
-Church Stile,
-Exminster,
-Exeter,
-Devon,
-EX6 8DF  "
-Morchard Bishop Surgery,10.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 877208,"
-Chulmleigh Road,
-Morchard Bishop,
-Devon,
-EX17 6NZ  "
-TOPSHAM SURGERY,9.0,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,"
-Holman Way,
-Topsham,
-Exeter,
-Devon,
-EX3 0EN  "
-Sampford Peverell Surgery,10.2,yes,no,Not available,01884 820304,"
-29 Lower Town,
-Sampford Peverell,
-Tiverton,
-Devon,
-EX16 7BJ  "
-Coleridge Medical Centre Sandfords Surgery,8.0,yes,no,http://www.coleridgemedicalcentre.co.uk,01404 814447,"
-Church Road,
-Whimple,
-Exeter,
-Devon,
-EX5 2TL  "
-Westbank Practice,9.0,yes,no,http://www.westbankpractice.com,01626 890368,"
-The Limes Surgery,
-Church Stile,
-Exminster,
-Exeter,
-Devon,
-EX6 8DF  "
-Ide Lane Surgery,7.4,yes,no,http://www.idelanesurgery.nhs.uk,01392 428900,"
-Ide Lane,
-Alphington,
-Exeter,
-Devon,
-EX2 8UP  "
-Blundells School,7.4,no,no,Not available,Not available,"
-Blundells Road,
-Tiverton,
-Devon,
-EX16 4DT  "
-Glasshouse Medical Centre,7.8,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,"
-Glasshouse Lane,
-Countess Wear,
-Exeter,
-Devon,
-EX2 7BT  "
-Castle Place Practice,7.2,yes,no,https://castleplacepractice.nhs.uk,01884 252333,"
-Kennedy Way,
-Tiverton,
-Devon,
-EX16 6NP  "
-Willand Surgery,9.1,yes,no,Not available,01884 821878,"
-17 South View Close,
-Willand,
-Devon,
-EX15 2QP  "
-Amicus Health,7.0,yes,no,http://amicushealth.nhs.uk/,01884 252337,"
-Clare House Surgery,
-Newport Street,
-Tiverton,
-Devon,
-EX16 6NJ  "
-Bramblehaies Surgery,7.0,yes,no,http://www.bramblehaiessurgery.co.uk/,01884 33536,"
-College Road,
-Cullompton,
-Devon,
-EX15 1TZ  "
-College Surgery Partnership,7.1,yes,no,http://www.collegesurgery.org.uk,01884 831300,"
-Culm Valley Int Ctr For Health,
-Willand Road,
-Cullompton,
-Devon,
-EX15 1FE  "
-WONFORD GREEN SURGERY,6.5,yes,no,http://www.wonfordgreensurgery.co.uk,01392 250135,"
-Burnthouse Lane,
-Exeter,
-Devon,
-EX2 6NF  "
-Topsham Surgery at Sclns,7.3,no,no,Not available,Not available,"
-The West of England School,
-Countess Wear,
-Topsham Road,
-Exeter,
-Devon,
-EX2 6HA  "
-Hill Barton Surgery,6.1,yes,no,http://www.hillbartonsurgery.co.uk/,01392 444242,"
-1 Lower Hill Barton Road,
-Exeter,
-Devon,
-EX1 3EN  "
-Cranbrook Medical Practice,6.4,yes,no,https://www.cranbrookmedicalpractice.nhs.uk/,01404 819207,"
-Younghayes Centre,
-Younghayes Road,
-Cranbrook,
-Exeter,
-Devon,
-EX5 7DR  "
-Broadclyst Surgery,4.7,yes,no,Not available,01392 469666,"
-The Hellings,
-Town Hill,
-Broadclyst,
-Exeter,
-Devon,
-EX5 3EJ  "
-South Lawn Medical Practice,5.9,yes,no,http://www.slmp.co.uk,01392 281100,"
-Heavitree Health Centre,
-South Lawn Terrace,
-Exeter,
-Devon,
-EX1 2RX  "
-Redlands Primary Care – Thorverton,0.2,yes,no,https://www.redlandsprimarycare.nhs.uk/,01363 727111,"
-The Surgery,
-Thorverton,
-Exeter,
-Devon,
-EX5 5NT  "
-Cheriton Fitzpaine Surgery,4.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 866322,"
-Barton Close,
-Cheriton Fitzpaine,
-Devon,
-EX17 4JB  "
-St Thomas Medical Group,6.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676676,"
-St. Thomas Health Centre,
-Cowick Street,
-St. Thomas,
-Exeter,
-Devon,
-EX4 1HJ  "
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,gp_address
-Sampford Peverell Surgery,10.2,yes,no,Not available,01884 820304,", 29 Lower Town, , Sampford Peverell, , Tiverton, , Devon, , EX16 7BJ"
-Mid Devon Medical Practice,10.8,yes,no,http://www.middevonmedicalpractice.co.uk/index.php,01884 860205,", Witheridge Medical Centre, , Cannington Road, , Witheridge, , Tiverton, , Devon, , EX16 8EZ"
-Wyndham House Surgery,2.1,yes,yes,Not available,01392 860034,", Fore Street, , Silverton, , Exeter, , Devon, , EX5 4HZ"
-Morchard Bishop Surgery,10.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 877208,", Chulmleigh Road, , Morchard Bishop, , Devon, , EX17 6NZ"
-Willand Surgery,9.1,yes,no,Not available,01884 821878,", 17 South View Close, , Willand, , Devon, , EX15 2QP"
-Woodbury Surgery,10.8,yes,no,http://www.woodburysurgery.co.uk,01395 232509,", Fulford Way, , Woodbury, , Exeter, , Devon, , EX5 1NZ"
-TOPSHAM SURGERY,9.0,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,", Holman Way, , Topsham, , Exeter, , Devon, , EX3 0EN"
-Cheriton Bishop Surgery,10.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,", Cheriton Bishop, , Cheriton Cross, , Exeter, , Devon, , EX6 6JA"
-Westbank Practice,9.0,yes,no,http://www.westbankpractice.com,01626 890368,", The Limes Surgery, , Church Stile, , Exminster, , Exeter, , Devon, , EX6 8DF"
-Glasshouse Medical Centre,7.8,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,", Glasshouse Lane, , Countess Wear, , Exeter, , Devon, , EX2 7BT"
-Coleridge Medical Centre Sandfords Surgery,8.0,yes,no,http://www.coleridgemedicalcentre.co.uk,01404 814447,", Church Road, , Whimple, , Exeter, , Devon, , EX5 2TL"
-Ide Lane Surgery,7.4,yes,no,http://www.idelanesurgery.nhs.uk,01392 428900,", Ide Lane, , Alphington, , Exeter, , Devon, , EX2 8UP"
-Westbank Practice - Exminster Surgery,9.0,yes,no,http://www.westbankpractice.com/,01392 833230,", Church Stile, , Exminster, , Exeter, , Devon, , EX6 8DF"
-Castle Place Practice,7.2,yes,no,https://castleplacepractice.nhs.uk,01884 252333,", Kennedy Way, , Tiverton, , Devon, , EX16 6NP"
-Blundells School,7.4,no,no,Not available,Not available,", Blundells Road, , Tiverton, , Devon, , EX16 4DT"
-Amicus Health - Bampton Surgery,12.7,yes,no,https://www.amicushealth.nhs.uk,01398 331304,", Barnhay, , Bampton, , Tiverton, , Devon, , EX16 9NB"
-Bicton College of Agriculture,13.2,no,no,Not available,Not available,", Bicton College of Agriculture, , East Budleigh, , Devon, , EX9 7BY"
-Treetops Surgery,13.7,yes,no,Not available,01395 226540,", Prince Of Wales Drive, , Exmouth, , Devon, , EX8 4SW"
-Underhill Surgery,11.9,yes,no,http://www.claremontmedicalpractice.co.uk,01395 265797,", Lympstone, , Lympstone, , Exmouth, , Devon, , EX8 5HH"
-Bow Medical Practice,12.2,yes,no,http://www.bowmedicalpractice.co.uk/,01363 82333,", Iter Cross, , Bow, , Crediton, , Devon, , EX17 6FB"
-Topsham Surgery at Sclns,7.3,no,no,Not available,Not available,", The West of England School, , Countess Wear, , Topsham Road, , Exeter, , Devon, , EX2 6HA"
-Christow Surgery,11.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,", Layne Fields, , Christow, , Devon, , EX6 7NY"
-Uffculme Surgery,11.0,yes,no,Not available,01884 840743,", Commercial Road, , Uffculme, , Devon, , EX15 3EB"
-Coleridge Medical Centre,11.4,yes,no,http://coleridgemedicalcentre.co.uk,01404 814447,", Canaan Way, , Ottery St. Mary, , Devon, , EX11 1EQ"
-College Surgery Partnership,7.1,yes,no,http://www.collegesurgery.org.uk,01884 831300,", Culm Valley Int Ctr For Health, , Willand Road, , Cullompton, , Devon, , EX15 1FE"
-Amicus Health,7.0,yes,no,http://amicushealth.nhs.uk/,01884 252337,", Clare House Surgery, , Newport Street, , Tiverton, , Devon, , EX16 6NJ"
-Hill Barton Surgery,6.1,yes,no,http://www.hillbartonsurgery.co.uk/,01392 444242,", 1 Lower Hill Barton Road, , Exeter, , Devon, , EX1 3EN"
-St Thomas Medical Group,6.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676676,", St. Thomas Health Centre, , Cowick Street, , St. Thomas, , Exeter, , Devon, , EX4 1HJ"
-Cranbrook Medical Practice,6.4,yes,no,https://www.cranbrookmedicalpractice.nhs.uk/,01404 819207,", Younghayes Centre, , Younghayes Road, , Cranbrook, , Exeter, , Devon, , EX5 7DR"
-WONFORD GREEN SURGERY,6.5,yes,no,http://www.wonfordgreensurgery.co.uk,01392 250135,", Burnthouse Lane, , Exeter, , Devon, , EX2 6NF"
-Bramblehaies Surgery,7.0,yes,no,http://www.bramblehaiessurgery.co.uk/,01884 33536,", College Road, , Cullompton, , Devon, , EX15 1TZ"
-Heavitree Practice,5.9,yes,no,http://www.theheavitreepractice.co.uk,01392 222099,", Heavitree Health Centre, , South Lawn Terrace, , Exeter, , EX1 2RX"
-Southernhay House Surgery,5.8,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,", 30 Barnfield Road, , Exeter, , Devon, , EX1 1RX"
-South Lawn Medical Practice,5.9,yes,no,http://www.slmp.co.uk,01392 281100,", Heavitree Health Centre, , South Lawn Terrace, , Exeter, , Devon, , EX1 2RX"
-BARNFIELD HILL SURGERY,5.8,yes,no,http://www.barnfieldhillsurgery.co.uk,01392 432761,", 10-12 Barnfield Hill, , Exeter, , Devon, , EX1 1SR"
-Isca Medical Practice,5.5,yes,no,http://www.iscamp.co.uk,01392 273805,", 38 Polsloe Road, , Exeter, , Devon, , EX1 2DW"
-Foxhayes Practice,5.7,yes,no,https://www.foxhayespractice.nhs.uk,01392 208789,", 117 Exwick Road, , Exeter, , Devon, , EX4 2BH"
-St Leonards Practice,5.7,yes,no,http://www.stleonardssurgery.co.uk,01392 201790,", Athelstan Road, , Exeter, , Devon, , EX1 1SB"
-Clock Tower Surgery,5.5,yes,no,http://www.devondoctors.co.uk/,01392 208290,", Wat Tyler House, , King William Street, , Exeter, , Devon, , EX4 6PD"
-Whipton Surgery,5.4,yes,no,https://www.thewhiptonsurgery.co.uk,01392 462770,", 378 Pinhoe Road, , Whipton, , Exeter, , Devon, , EX4 8EG"
-Whipton Branch Surgery,5.3,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,", The Branch Surgery, , 10 Whipton Village Road, , Exeter, , Devon, , EX4 8AR"
-Pinhoe Surgery,5.4,yes,no,Not available,01392 469666,", Pinn Lane, , Pinhoe, , Exeter, , Devon, , EX1 3SY"
-Exwick Health Centre,5.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676600,", New Valley Road, , Exwick, , Exeter, , Devon, , EX4 2AD"
-Bradninch Surgery,4.9,yes,no,Not available,01392 881952,", 4 Millway, , Bradninch, , Devon, , EX5 4NL"
-Mount Pleasant Health Centre,5.1,yes,no,http://www.mountpleasanthealthcentre.co.uk/,01392 255722,", Mount Pleasant Road, , Exeter, , Devon, , EX4 7BW"
-Student Health Centre,5.0,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676606,", Reed Mews, , Streatham Drive, , Exeter, , Devon, , EX4 4QP"
-Redlands Primary Care,5.6,yes,yes,https://www.redlandsprimarycare.nhs.uk/,01363 727111,", Newcombes, , Crediton, , EX17 2AR"
-Redlands Primary Care – Thorverton,0.2,yes,no,https://www.redlandsprimarycare.nhs.uk/,01363 727111,", The Surgery, , Thorverton, , Exeter, , Devon, , EX5 5NT"
-Broadclyst Surgery,4.7,yes,no,Not available,01392 469666,", The Hellings, , Town Hill, , Broadclyst, , Exeter, , Devon, , EX5 3EJ"
-Cheriton Fitzpaine Surgery,4.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 866322,", Barton Close, , Cheriton Fitzpaine, , Devon, , EX17 4JB"
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,gp_address
-Redlands Primary Care,5.6,yes,yes,https://www.redlandsprimarycare.nhs.uk/,01363 727111,"
-Newcombes,
-Crediton,
-EX17 2AR  "
-Redlands Primary Care – Thorverton,0.2,yes,no,https://www.redlandsprimarycare.nhs.uk/,01363 727111,"
-The Surgery,
-Thorverton,
-Exeter,
-Devon,
-EX5 5NT  "
-Bradninch Surgery,4.9,yes,no,Not available,01392 881952,"
-4 Millway,
-Bradninch,
-Devon,
-EX5 4NL  "
-Wyndham House Surgery,2.1,yes,yes,Not available,01392 860034,"
-Fore Street,
-Silverton,
-Exeter,
-Devon,
-EX5 4HZ  "
-Broadclyst Surgery,4.7,yes,no,Not available,01392 469666,"
-The Hellings,
-Town Hill,
-Broadclyst,
-Exeter,
-Devon,
-EX5 3EJ  "
-Student Health Centre,5.0,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676606,"
-Reed Mews,
-Streatham Drive,
-Exeter,
-Devon,
-EX4 4QP  "
-Cheriton Fitzpaine Surgery,4.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 866322,"
-Barton Close,
-Cheriton Fitzpaine,
-Devon,
-EX17 4JB  "
-Clock Tower Surgery,5.5,yes,no,http://www.devondoctors.co.uk/,01392 208290,"
-Wat Tyler House,
-King William Street,
-Exeter,
-Devon,
-EX4 6PD  "
-Westbank Practice,9.0,yes,no,http://www.westbankpractice.com,01626 890368,"
-The Limes Surgery,
-Church Stile,
-Exminster,
-Exeter,
-Devon,
-EX6 8DF  "
-Pinhoe Surgery,5.4,yes,no,Not available,01392 469666,"
-Pinn Lane,
-Pinhoe,
-Exeter,
-Devon,
-EX1 3SY  "
-Exwick Health Centre,5.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676600,"
-New Valley Road,
-Exwick,
-Exeter,
-Devon,
-EX4 2AD  "
-Westbank Practice - Exminster Surgery,9.0,yes,no,http://www.westbankpractice.com/,01392 833230,"
-Church Stile,
-Exminster,
-Exeter,
-Devon,
-EX6 8DF  "
-Whipton Surgery,5.4,yes,no,https://www.thewhiptonsurgery.co.uk,01392 462770,"
-378 Pinhoe Road,
-Whipton,
-Exeter,
-Devon,
-EX4 8EG  "
-Mount Pleasant Health Centre,5.1,yes,no,http://www.mountpleasanthealthcentre.co.uk/,01392 255722,"
-Mount Pleasant Road,
-Exeter,
-Devon,
-EX4 7BW  "
-Coleridge Medical Centre Sandfords Surgery,8.0,yes,no,http://www.coleridgemedicalcentre.co.uk,01404 814447,"
-Church Road,
-Whimple,
-Exeter,
-Devon,
-EX5 2TL  "
-Whipton Branch Surgery,5.3,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,"
-The Branch Surgery,
-10 Whipton Village Road,
-Exeter,
-Devon,
-EX4 8AR  "
-Bicton College of Agriculture,13.2,no,no,Not available,Not available,"
-Bicton College of Agriculture,
-East Budleigh,
-Devon,
-EX9 7BY  "
-Christow Surgery,11.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,"
-Layne Fields,
-Christow,
-Devon,
-EX6 7NY  "
-Underhill Surgery,11.9,yes,no,http://www.claremontmedicalpractice.co.uk,01395 265797,"
-Lympstone,
-Lympstone,
-Exmouth,
-Devon,
-EX8 5HH  "
-Treetops Surgery,13.7,yes,no,Not available,01395 226540,"
-Prince Of Wales Drive,
-Exmouth,
-Devon,
-EX8 4SW  "
-Bow Medical Practice,12.2,yes,no,http://www.bowmedicalpractice.co.uk/,01363 82333,"
-Iter Cross,
-Bow,
-Crediton,
-Devon,
-EX17 6FB  "
-Coleridge Medical Centre,11.4,yes,no,http://coleridgemedicalcentre.co.uk,01404 814447,"
-Canaan Way,
-Ottery St. Mary,
-Devon,
-EX11 1EQ  "
-Amicus Health - Bampton Surgery,12.7,yes,no,https://www.amicushealth.nhs.uk,01398 331304,"
-Barnhay,
-Bampton,
-Tiverton,
-Devon,
-EX16 9NB  "
-Uffculme Surgery,11.0,yes,no,Not available,01884 840743,"
-Commercial Road,
-Uffculme,
-Devon,
-EX15 3EB  "
-Cheriton Bishop Surgery,10.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,"
-Cheriton Bishop,
-Cheriton Cross,
-Exeter,
-Devon,
-EX6 6JA  "
-Sampford Peverell Surgery,10.2,yes,no,Not available,01884 820304,"
-29 Lower Town,
-Sampford Peverell,
-Tiverton,
-Devon,
-EX16 7BJ  "
-Morchard Bishop Surgery,10.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 877208,"
-Chulmleigh Road,
-Morchard Bishop,
-Devon,
-EX17 6NZ  "
-Willand Surgery,9.1,yes,no,Not available,01884 821878,"
-17 South View Close,
-Willand,
-Devon,
-EX15 2QP  "
-TOPSHAM SURGERY,9.0,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,"
-Holman Way,
-Topsham,
-Exeter,
-Devon,
-EX3 0EN  "
-Woodbury Surgery,10.8,yes,no,http://www.woodburysurgery.co.uk,01395 232509,"
-Fulford Way,
-Woodbury,
-Exeter,
-Devon,
-EX5 1NZ  "
-Blundells School,7.4,no,no,Not available,Not available,"
-Blundells Road,
-Tiverton,
-Devon,
-EX16 4DT  "
-Ide Lane Surgery,7.4,yes,no,http://www.idelanesurgery.nhs.uk,01392 428900,"
-Ide Lane,
-Alphington,
-Exeter,
-Devon,
-EX2 8UP  "
-Mid Devon Medical Practice,10.8,yes,no,http://www.middevonmedicalpractice.co.uk/index.php,01884 860205,"
-Witheridge Medical Centre,
-Cannington Road,
-Witheridge,
-Tiverton,
-Devon,
-EX16 8EZ  "
-College Surgery Partnership,7.1,yes,no,http://www.collegesurgery.org.uk,01884 831300,"
-Culm Valley Int Ctr For Health,
-Willand Road,
-Cullompton,
-Devon,
-EX15 1FE  "
-Castle Place Practice,7.2,yes,no,https://castleplacepractice.nhs.uk,01884 252333,"
-Kennedy Way,
-Tiverton,
-Devon,
-EX16 6NP  "
-Topsham Surgery at Sclns,7.3,no,no,Not available,Not available,"
-The West of England School,
-Countess Wear,
-Topsham Road,
-Exeter,
-Devon,
-EX2 6HA  "
-Amicus Health,7.0,yes,no,http://amicushealth.nhs.uk/,01884 252337,"
-Clare House Surgery,
-Newport Street,
-Tiverton,
-Devon,
-EX16 6NJ  "
-Glasshouse Medical Centre,7.8,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,"
-Glasshouse Lane,
-Countess Wear,
-Exeter,
-Devon,
-EX2 7BT  "
-St Thomas Medical Group,6.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676676,"
-St. Thomas Health Centre,
-Cowick Street,
-St. Thomas,
-Exeter,
-Devon,
-EX4 1HJ  "
-Bramblehaies Surgery,7.0,yes,no,http://www.bramblehaiessurgery.co.uk/,01884 33536,"
-College Road,
-Cullompton,
-Devon,
-EX15 1TZ  "
-Heavitree Practice,5.9,yes,no,http://www.theheavitreepractice.co.uk,01392 222099,"
-Heavitree Health Centre,
-South Lawn Terrace,
-Exeter,
-EX1 2RX  "
-South Lawn Medical Practice,5.9,yes,no,http://www.slmp.co.uk,01392 281100,"
-Heavitree Health Centre,
-South Lawn Terrace,
-Exeter,
-Devon,
-EX1 2RX  "
-Hill Barton Surgery,6.1,yes,no,http://www.hillbartonsurgery.co.uk/,01392 444242,"
-1 Lower Hill Barton Road,
-Exeter,
-Devon,
-EX1 3EN  "
-WONFORD GREEN SURGERY,6.5,yes,no,http://www.wonfordgreensurgery.co.uk,01392 250135,"
-Burnthouse Lane,
-Exeter,
-Devon,
-EX2 6NF  "
-Cranbrook Medical Practice,6.4,yes,no,https://www.cranbrookmedicalpractice.nhs.uk/,01404 819207,"
-Younghayes Centre,
-Younghayes Road,
-Cranbrook,
-Exeter,
-Devon,
-EX5 7DR  "
-Isca Medical Practice,5.5,yes,no,http://www.iscamp.co.uk,01392 273805,"
-38 Polsloe Road,
-Exeter,
-Devon,
-EX1 2DW  "
-St Leonards Practice,5.7,yes,no,http://www.stleonardssurgery.co.uk,01392 201790,"
-Athelstan Road,
-Exeter,
-Devon,
-EX1 1SB  "
-BARNFIELD HILL SURGERY,5.8,yes,no,http://www.barnfieldhillsurgery.co.uk,01392 432761,"
-10-12 Barnfield Hill,
-Exeter,
-Devon,
-EX1 1SR  "
-Southernhay House Surgery,5.8,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,"
-30 Barnfield Road,
-Exeter,
-Devon,
-EX1 1RX  "
-Foxhayes Practice,5.7,yes,no,https://www.foxhayespractice.nhs.uk,01392 208789,"
-117 Exwick Road,
-Exeter,
-Devon,
-EX4 2BH  "
-name,miles_away,accepting_patients,in_catchment,gp_website,phone_number,gp_address
-Cheriton Fitzpaine Surgery,4.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 866322,"Barton Close, Cheriton Fitzpaine, Devon, EX17 4JB"
-Redlands Primary Care – Thorverton,0.2,yes,no,https://www.redlandsprimarycare.nhs.uk/,01363 727111,"The Surgery, Thorverton, Exeter, Devon, EX5 5NT"
-Redlands Primary Care,5.6,yes,yes,https://www.redlandsprimarycare.nhs.uk/,01363 727111,"Newcombes, Crediton, EX17 2AR"
-Student Health Centre,5.0,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676606,"Reed Mews, Streatham Drive, Exeter, Devon, EX4 4QP"
-Wyndham House Surgery,2.1,yes,yes,Not available,01392 860034,"Fore Street, Silverton, Exeter, Devon, EX5 4HZ"
-Bradninch Surgery,4.9,yes,no,Not available,01392 881952,"4 Millway, Bradninch, Devon, EX5 4NL"
-Mount Pleasant Health Centre,5.1,yes,no,http://www.mountpleasanthealthcentre.co.uk/,01392 255722,"Mount Pleasant Road, Exeter, Devon, EX4 7BW"
-Whipton Surgery,5.4,yes,no,https://www.thewhiptonsurgery.co.uk,01392 462770,"378 Pinhoe Road, Whipton, Exeter, Devon, EX4 8EG"
-Pinhoe Surgery,5.4,yes,no,Not available,01392 469666,"Pinn Lane, Pinhoe, Exeter, Devon, EX1 3SY"
-Westbank Practice,9.0,yes,no,http://www.westbankpractice.com,01626 890368,"The Limes Surgery, Church Stile, Exminster, Exeter, Devon, EX6 8DF"
-Westbank Practice - Exminster Surgery,9.0,yes,no,http://www.westbankpractice.com/,01392 833230,"Church Stile, Exminster, Exeter, Devon, EX6 8DF"
-Coleridge Medical Centre Sandfords Surgery,8.0,yes,no,http://www.coleridgemedicalcentre.co.uk,01404 814447,"Church Road, Whimple, Exeter, Devon, EX5 2TL"
-Whipton Branch Surgery,5.3,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,"The Branch Surgery, 10 Whipton Village Road, Exeter, Devon, EX4 8AR"
-Ide Lane Surgery,7.4,yes,no,http://www.idelanesurgery.nhs.uk,01392 428900,"Ide Lane, Alphington, Exeter, Devon, EX2 8UP"
-Glasshouse Medical Centre,7.8,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,"Glasshouse Lane, Countess Wear, Exeter, Devon, EX2 7BT"
-Amicus Health - Bampton Surgery,12.7,yes,no,https://www.amicushealth.nhs.uk,01398 331304,"Barnhay, Bampton, Tiverton, Devon, EX16 9NB"
-Treetops Surgery,13.7,yes,no,Not available,01395 226540,"Prince Of Wales Drive, Exmouth, Devon, EX8 4SW"
-Broadclyst Surgery,4.7,yes,no,Not available,01392 469666,"The Hellings, Town Hill, Broadclyst, Exeter, Devon, EX5 3EJ"
-Underhill Surgery,11.9,yes,no,http://www.claremontmedicalpractice.co.uk,01395 265797,"Lympstone, Lympstone, Exmouth, Devon, EX8 5HH"
-Coleridge Medical Centre,11.4,yes,no,http://coleridgemedicalcentre.co.uk,01404 814447,"Canaan Way, Ottery St. Mary, Devon, EX11 1EQ"
-Bow Medical Practice,12.2,yes,no,http://www.bowmedicalpractice.co.uk/,01363 82333,"Iter Cross, Bow, Crediton, Devon, EX17 6FB"
-Christow Surgery,11.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,"Layne Fields, Christow, Devon, EX6 7NY"
-Mid Devon Medical Practice,10.8,yes,no,http://www.middevonmedicalpractice.co.uk/index.php,01884 860205,"Witheridge Medical Centre, Cannington Road, Witheridge, Tiverton, Devon, EX16 8EZ"
-Woodbury Surgery,10.8,yes,no,http://www.woodburysurgery.co.uk,01395 232509,"Fulford Way, Woodbury, Exeter, Devon, EX5 1NZ"
-Cheriton Bishop Surgery,10.9,yes,no,http://cheritonbishoppractice.co.uk,01647 24272,"Cheriton Bishop, Cheriton Cross, Exeter, Devon, EX6 6JA"
-Bicton College of Agriculture,13.2,no,no,Not available,Not available,"Bicton College of Agriculture, East Budleigh, Devon, EX9 7BY"
-Morchard Bishop Surgery,10.4,yes,no,http://www.middevonmedicalpractice.co.uk,01363 877208,"Chulmleigh Road, Morchard Bishop, Devon, EX17 6NZ"
-TOPSHAM SURGERY,9.0,yes,no,http://www.topshamsurgery.gpsurgery.net,01392 874646,"Holman Way, Topsham, Exeter, Devon, EX3 0EN"
-Sampford Peverell Surgery,10.2,yes,no,Not available,01884 820304,"29 Lower Town, Sampford Peverell, Tiverton, Devon, EX16 7BJ"
-Willand Surgery,9.1,yes,no,Not available,01884 821878,"17 South View Close, Willand, Devon, EX15 2QP"
-Topsham Surgery at Sclns,7.3,no,no,Not available,Not available,"The West of England School, Countess Wear, Topsham Road, Exeter, Devon, EX2 6HA"
-College Surgery Partnership,7.1,yes,no,http://www.collegesurgery.org.uk,01884 831300,"Culm Valley Int Ctr For Health, Willand Road, Cullompton, Devon, EX15 1FE"
-Amicus Health,7.0,yes,no,http://amicushealth.nhs.uk/,01884 252337,"Clare House Surgery, Newport Street, Tiverton, Devon, EX16 6NJ"
-WONFORD GREEN SURGERY,6.5,yes,no,http://www.wonfordgreensurgery.co.uk,01392 250135,"Burnthouse Lane, Exeter, Devon, EX2 6NF"
-Castle Place Practice,7.2,yes,no,https://castleplacepractice.nhs.uk,01884 252333,"Kennedy Way, Tiverton, Devon, EX16 6NP"
-Uffculme Surgery,11.0,yes,no,Not available,01884 840743,"Commercial Road, Uffculme, Devon, EX15 3EB"
-Bramblehaies Surgery,7.0,yes,no,http://www.bramblehaiessurgery.co.uk/,01884 33536,"College Road, Cullompton, Devon, EX15 1TZ"
-Hill Barton Surgery,6.1,yes,no,http://www.hillbartonsurgery.co.uk/,01392 444242,"1 Lower Hill Barton Road, Exeter, Devon, EX1 3EN"
-South Lawn Medical Practice,5.9,yes,no,http://www.slmp.co.uk,01392 281100,"Heavitree Health Centre, South Lawn Terrace, Exeter, Devon, EX1 2RX"
-Cranbrook Medical Practice,6.4,yes,no,https://www.cranbrookmedicalpractice.nhs.uk/,01404 819207,"Younghayes Centre, Younghayes Road, Cranbrook, Exeter, Devon, EX5 7DR"
-Southernhay House Surgery,5.8,yes,no,http://www.southernhayhousesurgery.co.uk,01392 211266,"30 Barnfield Road, Exeter, Devon, EX1 1RX"
-BARNFIELD HILL SURGERY,5.8,yes,no,http://www.barnfieldhillsurgery.co.uk,01392 432761,"10-12 Barnfield Hill, Exeter, Devon, EX1 1SR"
-Blundells School,7.4,no,no,Not available,Not available,"Blundells Road, Tiverton, Devon, EX16 4DT"
-St Leonards Practice,5.7,yes,no,http://www.stleonardssurgery.co.uk,01392 201790,"Athelstan Road, Exeter, Devon, EX1 1SB"
-Foxhayes Practice,5.7,yes,no,https://www.foxhayespractice.nhs.uk,01392 208789,"117 Exwick Road, Exeter, Devon, EX4 2BH"
-St Thomas Medical Group,6.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676676,"St. Thomas Health Centre, Cowick Street, St. Thomas, Exeter, Devon, EX4 1HJ"
-Exwick Health Centre,5.4,yes,no,https://www.stthomasmedicalgroup.co.uk,01392 676600,"New Valley Road, Exwick, Exeter, Devon, EX4 2AD"
-Clock Tower Surgery,5.5,yes,no,http://www.devondoctors.co.uk/,01392 208290,"Wat Tyler House, King William Street, Exeter, Devon, EX4 6PD"
-Isca Medical Practice,5.5,yes,no,http://www.iscamp.co.uk,01392 273805,"38 Polsloe Road, Exeter, Devon, EX1 2DW"
-Heavitree Practice,5.9,yes,no,http://www.theheavitreepractice.co.uk,01392 222099,"Heavitree Health Centre, South Lawn Terrace, Exeter, EX1 2RX"
