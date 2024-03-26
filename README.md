@@ -1,5 +1,3 @@
-Use merge_data.py for scraped data and capacity data
-
 # GP Data Scraper
 
 ## Overview
