@@ -19,7 +19,7 @@ class GpspiderSpider(scrapy.Spider):
         super(GpspiderSpider, self).__init__(*args, **kwargs)
         self.start_urls = [f"https://www.nhs.uk/service-search/find-a-gp/results/{postcode}"]
 
-    
+    # defines parsing logic for the response from the start URL eg the homepage 
     def parse(self, response):
         feed_format = self.settings.get("FEED_FORMAT")
         feed_uri = self.settings.get("FEED_URI")
@@ -50,7 +50,7 @@ class GpspiderSpider(scrapy.Spider):
 
         
         
-
+    # defines the parsing logix for the response from the individual GP pages 
     def parse_gp_page(self, response):
         gp_item = response.meta['gp_item']
 
